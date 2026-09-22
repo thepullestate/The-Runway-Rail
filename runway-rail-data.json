@@ -552,10 +552,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "Founded in 1978 by Renzo Rosso as an alternative to casual denim brands of the era. Belgian designer Glenn Martens has been artistic director since 2020, known for reviving the brand through viral, boundary-pushing denim.",
+      "website": "https://www.diesel.com",
+      "cd": "Glenn Martens",
+      "parent": "OTB Group"
     },
     {
       "id": "j-salinas-spring-summer-2027-milan",
@@ -669,7 +669,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded in 1968 in Hamburg by Jil Sander, known for minimalist, clean tailoring; acquired by Prada in 1999 and later by OTB Group in 2021. Simone Bellotti has served as creative director.",
-      "website": null,
+      "website": "https://www.jilsander.com",
       "cd": "Simone Bellotti",
       "parent": "OTB Group"
     },
@@ -726,10 +726,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
+      "bio": "Sardinian designer Antonio Marras launched his brand in 1987, later serving as artistic director of Kenzo from 2003 to 2011. Calzedonia acquired an 80% stake in 2023, with Marras remaining creative director.",
       "website": null,
-      "cd": null,
-      "parent": null
+      "cd": "Antonio Marras",
+      "parent": "Calzedonia"
     },
     {
       "id": "fendi-spring-summer-2027-milan",
@@ -813,10 +813,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "Founded in 1953 in Gallarate by Ottavio and Rosita Missoni, known for colorful zigzag-patterned knitwear. Family-run for three generations; Alberto Caliri is creative director, with Angela Missoni as president. Rosita Missoni passed away in late 2025 at age 93.",
+      "website": "https://www.missoni.com",
+      "cd": "Alberto Caliri",
+      "parent": "Missoni family"
     },
     {
       "id": "mm6-maison-margiela-spring-summer-2027-milan",
@@ -843,7 +843,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Launched in 1997 as “Line 6” within Martin Margiela’s numbered house structure — a more casual, street-inspired counterpart to the main Maison Margiela line. True to Margiela’s ethos, MM6’s collections are directed by an anonymous studio collective rather than a named designer.",
-      "website": null,
+      "website": "https://www.maisonmargiela.com",
       "cd": null,
       "parent": "OTB Group"
     },
@@ -871,10 +871,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
+      "bio": "Founded by Gimmo Etro, known for its signature paisley print. A family business: children Kean, Veronica, and Jacopo Etro have led menswear, womenswear, and accessories respectively.",
+      "website": "https://www.etro.com",
       "cd": null,
-      "parent": null
+      "parent": "Etro family / L Catterton"
     },
     {
       "id": "onitsuka-tiger-spring-summer-2027-milan",
@@ -900,10 +900,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
+      "bio": "Japanese sports-shoe brand founded in 1949 in Kobe by Kihachiro Onitsuka, later merging into ASICS in 1977. Revived as a standalone fashion label in Europe in 2002, best known for the Mexico 66 sneaker.",
+      "website": "https://www.onitsukatiger.com",
       "cd": null,
-      "parent": null
+      "parent": "ASICS"
     },
     {
       "id": "max-mara-spring-summer-2027-milan",
@@ -930,7 +930,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded in 1951 in Reggio Emilia by Achille Maramotti, still family-owned. Rather than a single creative director, design is led by a longtime studio team under design director Laura Lusuardi, with chairman Luigi Maramotti.",
-      "website": null,
+      "website": "https://www.maxmara.com",
       "cd": null,
       "parent": "Max Mara Fashion Group (family-owned)"
     },
@@ -958,10 +958,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "Founded in 1962 in Ancona by Arnaldo Girombelli, named for his eldest daughter. Sara Cavazza Facchini is creative director.",
+      "website": "https://www.genny.com",
+      "cd": "Sara Cavazza Facchini",
+      "parent": "Swinger International"
     },
     {
       "id": "phan-dang-hoang-spring-summer-2027-milan",
@@ -1103,10 +1103,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
+      "bio": "Founded in 1981 by Alberta Ferretti in Milan, known for ethereal, romantic silhouettes in soft, draped fabrics. Ferretti designed the collection herself through 2024; the brand is part of the Aeffe group, which she co-founded with her brother Massimo.",
+      "website": "https://www.albertaferretti.com",
       "cd": null,
-      "parent": null
+      "parent": "Aeffe"
     },
     {
       "id": "roberto-cavalli-spring-summer-2027-milan",
@@ -1132,10 +1132,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "Founded in 1970 by Roberto Cavalli, known for animal prints and maximalist glamour. Cavalli died in April 2024 at age 83; Fausto Puglisi is creative director. Acquired by Marquee Brands in May 2026.",
+      "website": "https://www.robertocavalli.com",
+      "cd": "Fausto Puglisi",
+      "parent": "Marquee Brands"
     },
     {
       "id": "florania-spring-summer-2027-milan",
@@ -1190,10 +1190,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "Roots trace to a shoemaking workshop founded by Filippo Della Valle in the early 1900s in the Marche region; his grandson Diego Della Valle built it into the global Tod’s brand, best known for the hand-stitched, rubber-studded Gommino driving shoe.",
+      "website": "https://www.tods.com",
+      "cd": "Diego Della Valle (Chairman)",
+      "parent": "Tod's Group"
     },
     {
       "id": "institution-by-galib-gassanoff-spring-summer-2027-milan",
@@ -1248,10 +1248,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "Launched in 1969 by Achille Maramotti as a more experimental, avant-garde offshoot of Max Mara, focused on precision tailoring and material research. Creative direction is currently led by Grazia Malagoli.",
+      "website": "https://www.sportmax.com",
+      "cd": "Grazia Malagoli",
+      "parent": "Max Mara Fashion Group"
     },
     {
       "id": "blumarine-spring-summer-2027-milan",
@@ -1278,7 +1278,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Italian label built around a romantic, rose-strewn femininity by Anna Molinari, nicknamed the “queen of roses.” A family business: her daughter Rossella also designs for the house.",
-      "website": null,
+      "website": "https://www.blumarine.com",
       "cd": "Anna Molinari",
       "parent": "Blufin"
     },
@@ -1364,10 +1364,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "Self-made Bologna designer Elisabetta Franchi founded Betty Blue S.p.A. in 1998, renaming the brand after herself in 2012. Known for figure-flattering, accessible-luxury womenswear; the brand went fur-free in 2012-2013 and later eliminated down and angora wool.",
+      "website": "https://www.elisabettafranchi.com",
+      "cd": "Elisabetta Franchi",
+      "parent": "Betty Blue S.p.A."
     },
     {
       "id": "luisa-spagnoli-spring-summer-2027-milan",
@@ -1393,10 +1393,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "Founded in 1928 in Perugia by Luisa Spagnoli, who revolutionized Italian knitwear with angora wool (and separately invented the Bacio Perugina chocolate). Now led by her descendant Nicoletta Spagnoli.",
+      "website": "https://www.luisaspagnoli.com",
+      "cd": "Nicoletta Spagnoli",
+      "parent": "Spagnoli family"
     },
     {
       "id": "the-attico-spring-summer-2027-milan",
@@ -1422,10 +1422,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "Founded in 2016 by Gilda Ambrosio and Giorgia Tordini, capturing the glamour of nocturnal Milan through shimmering fabrics and body-conscious silhouettes. This season marks the brand’s 10th anniversary.",
+      "website": "https://www.theattico.com",
+      "cd": "Gilda Ambrosio & Giorgia Tordini",
+      "parent": "Independent"
     },
     {
       "id": "neithan-herbert-spring-summer-2027-milan",
@@ -1480,10 +1480,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "Founded in 2000 in Florence by designer Ermanno Scervino and entrepreneur Toni Scervino, blending sportswear ease with couture-level Florentine craftsmanship.",
+      "website": "https://www.ermannoscervino.com",
+      "cd": "Ermanno Scervino",
+      "parent": "Independent"
     },
     {
       "id": "ferragamo-spring-summer-2027-milan",
@@ -1510,7 +1510,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded in 1927 by Salvatore Ferragamo, the shoemaker to Hollywood’s golden age. Maximilian Davis has been creative director since 2022, bringing a contemporary, playful edge while staying rooted in the house’s codes.",
-      "website": null,
+      "website": "https://www.ferragamo.com",
       "cd": "Maximilian Davis",
       "parent": "Independent"
     },
@@ -1539,7 +1539,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded in 1985 in Legnano by Domenico Dolce and Stefano Gabbana, epitomizing Italian glamour and sensuality. Gabbana stepped down as chairman in late 2025 but remains co-creative director alongside Dolce.",
-      "website": null,
+      "website": "https://www.dolcegabbana.com",
       "cd": "Domenico Dolce & Stefano Gabbana",
       "parent": "Independent"
     },
@@ -1567,10 +1567,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
+      "bio": "Founded in 2009 in Milan by Massimo Giorgetti, blending traditional Italian tailoring with youthful, Technicolor sportswear codes. Giorgetti also served as creative director of Emilio Pucci from 2015-2017.",
       "website": null,
-      "cd": null,
-      "parent": null
+      "cd": "Massimo Giorgetti",
+      "parent": "Independent"
     },
     {
       "id": "laura-biagiotti-spring-summer-2027-milan",
@@ -1596,10 +1596,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "Founded in 1972 by Laura Biagiotti, nicknamed the “Queen of Cashmere” by the New York Times. Biagiotti died in 2017; the house is now led by her daughter, Lavinia Biagiotti Cigna, the third generation of an all-female design dynasty.",
+      "website": "https://www.laurabiagiotti.it",
+      "cd": "Lavinia Biagiotti Cigna",
+      "parent": "Biagiotti family"
     },
     {
       "id": "act-n-1-spring-summer-2027-milan",
@@ -1638,7 +1638,7 @@
       "country": "Italy",
       "link": "https://www.google.com/search?q=Marco%20Rambaldi%20Spring%2FSummer%202027%20runway%20show%20Milan%20photos",
       "custom": false,
-      "circular": false,
+      "circular": true,
       "vegan": false,
       "placeholder": false,
       "debut": null,
@@ -1654,10 +1654,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
+      "bio": "Bologna-born designer Marco Rambaldi founded his label built on inclusivity, upcycling, and a gender-fluid aesthetic, drawing on 1970s Italy. A CNMI Fashion Trust Grant finalist, championed early by Pierpaolo Piccioli.",
       "website": null,
-      "cd": null,
-      "parent": null
+      "cd": "Marco Rambaldi",
+      "parent": "Independent"
     },
     {
       "id": "victor-hart-spring-summer-2027-milan",
@@ -1741,10 +1741,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
+      "bio": "Founded in 1998 by German designer and entrepreneur Philipp Plein, known for maximalist, rhinestone-heavy luxury streetwear. Headquartered in Lugano, Switzerland.",
       "website": null,
-      "cd": null,
-      "parent": null
+      "cd": "Philipp Plein",
+      "parent": "Plein Group"
     },
     {
       "id": "hui-spring-summer-2027-milan",
@@ -1800,7 +1800,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded in 1975 by Giorgio Armani, who redefined masculine and feminine elegance through deconstructed, minimalist tailoring. Armani passed away in September 2025 at age 91; his niece Silvana Armani, already his longtime design deputy, now leads ready-to-wear.",
-      "website": null,
+      "website": "https://www.armani.com",
       "cd": "Silvana Armani",
       "parent": "Independent"
     },
@@ -5406,7 +5406,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Paul%20Costelloe%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://youtu.be/aVZyR40LQjA?si=HMpbfX3cj_PveJLy",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5435,7 +5435,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Keburia%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://youtu.be/dZ135A74p24?si=4qrdGJQxEAhxZxF0",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5454,7 +5454,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded by Georgian designer Lado Keburia, known for architectural minimalism, monochromatic palettes, and gender-fluid silhouettes.",
-      "website": "https://keburia.com",
+      "website": "keburia.com",
       "cd": "Lado Keburia",
       "parent": "Independent"
     },
@@ -5464,7 +5464,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Agro%20Studio%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://youtu.be/5PhoT0AR6R4?si=DztZyk-Wv8PJBWWY",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5493,7 +5493,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Maximilian%20Raynor%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/maximilian-raynor-spring-2027-ready-to-wear-collection-lfw-1239243964/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5512,7 +5512,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Derbyshire-born designer who enrolled at Central Saint Martins in 2022 and has worked at both Vivienne Westwood and Mulberry, running his independent label from South London alongside his studies.",
-      "website": null,
+      "website": "https://maximilianraynor.com",
       "cd": "Maximilian Raynor",
       "parent": "Independent"
     },
@@ -5522,7 +5522,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Mithridate%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/mithridate-spring-2027-collection-1239242951/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5541,7 +5541,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded by Demon Zhang, blending Eastern philosophical approaches with Western construction techniques through artistic prints and sophisticated silhouettes.",
-      "website": "https://mithridate.com",
+      "website": "mithridate.com",
       "cd": "Demon Zhang",
       "parent": "Independent"
     },
@@ -5551,7 +5551,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Mark%20Fast%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mark-fast",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5570,7 +5570,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Canadian-born, London-based knitwear designer known for figure-hugging silhouettes and for pioneering size-inclusive runway casting in the late 2000s.",
-      "website": "https://markfast.com",
+      "website": "markfast.com",
       "cd": "Mark Fast",
       "parent": "Independent"
     },
@@ -5580,7 +5580,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Harris%20Reed%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/harris-reed-spring-2027-ready-to-wear-collection-1239243626/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5599,7 +5599,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded in 2020 by Harris Reed in London, known for theatrical, gender-fluid silhouettes. Reed has also been creative director of Nina Ricci in Paris since 2022.",
-      "website": "https://harrisreed.com",
+      "website": "harrisreed.com",
       "cd": "Harris Reed",
       "parent": "Independent"
     },
@@ -5609,7 +5609,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=eBay%20Endless%20Runway%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/ebay-endless-runway-spring-2027-collection-1239244059/",
       "custom": false,
       "circular": true,
       "vegan": false,
@@ -5628,7 +5628,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Now in its third year, eBay Endless Runway is the only pre-loved, shoppable show on the official London Fashion Week schedule, staged in partnership with the British Fashion Council. Every look is made entirely from pre-loved fashion and can be bought in real time via eBay Live during the show.",
-      "website": null,
+      "website": "eBay Endless Runway: The Archive",
       "cd": null,
       "parent": null
     },
@@ -5657,7 +5657,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": null,
-      "website": null,
+      "website": "H&M",
       "cd": null,
       "parent": null
     },
@@ -5667,7 +5667,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=KsenijaSchnaider%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://pausemag.co.uk/2026/09/lfw-ksenia-schnaider-spring-summer-2027/",
       "custom": false,
       "circular": true,
       "vegan": false,
@@ -5686,7 +5686,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded in 2011 by married couple Ksenia and Anton Schnaider in Kyiv, known for reworked, upcycled, and patchwork denim — including their signature “demi-denim” culotte-jean hybrid, originally made from secondhand denim.",
-      "website": "https://kseniaschnaider.com",
+      "website": "kseniaschnaider.com",
       "cd": "Ksenia & Anton Schnaider",
       "parent": "Independent"
     },
@@ -5696,7 +5696,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://wwd.com/runway/spring-2027/london/petra-fagerstrom/review/",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/petra-fagerstrom-spring-2027-collection-1239244324/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5715,7 +5715,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Swedish designer and recent Central Saint Martins MA graduate, a 2026 LVMH Prize finalist making her LFW runway debut as a BFC NEWGEN recipient this season.",
-      "website": "https://petrafagerstrom.com",
+      "website": "petrafagerstrom.com",
       "cd": "Petra Fagerström",
       "parent": "Independent"
     },
@@ -5725,7 +5725,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Bora%20Aksu%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bora-aksu",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5744,7 +5744,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Turkish-born, London-based designer who founded his label in 2002 after graduating from Central Saint Martins’ MA program, where Domenico Dolce and Stefano Gabbana purchased pieces from his graduate collection. Known for romantic, “dark romanticism” silhouettes.",
-      "website": "https://boraaksu.com",
+      "website": "boraaksu.com",
       "cd": "Bora Aksu",
       "parent": "Independent"
     },
@@ -5754,7 +5754,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://wwd.com/runway/spring-2027/london/susan-fang/review/",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/susan-fang-spring-2027-ready-to-wear-collection-1239244693/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5773,7 +5773,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Central Saint Martins graduate Susan Fang is known for hand-crafted glass-bead accessories and her signature “air-weaving” technique, lacing layered materials into 3-dimensional forms.",
-      "website": "https://susanfangofficial.com",
+      "website": "susanfangofficial.com",
       "cd": "Susan Fang",
       "parent": "Independent"
     },
@@ -5783,7 +5783,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Ashley%20Williams%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/ashley-williams-spring-2027-ready-to-wear-collection-1239244959/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5802,7 +5802,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "British designer born in Dubai (1988), graduated from the University of Westminster in 2012, and showed with the Fashion East incubator for three seasons before her solo LFW runway debut in September 2014. A repeat BFC NEWGEN recipient.",
-      "website": null,
+      "website": "ashleywilliamslondon.comhttps://ashleywilliamslondon.com",
       "cd": "Ashley Williams",
       "parent": "Independent"
     },
@@ -5812,7 +5812,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Oscar%20Ouyang%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/oscar-ouyang-spring-2027-ready-to-wear-collection-1239245631/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5831,7 +5831,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Beijing-raised, Central Saint Martins-trained (BA and MA) designer who co-founded his eponymous brand with Yibo Chen (Royal College of Art). Focused on gender-neutral fashion, innovative knitwear, and sustainable textile practices.",
-      "website": null,
+      "website": "https://notjustalabel.com › oscar-ouyang",
       "cd": "Oscar Ouyang & Yibo Chen",
       "parent": "Independent"
     },
@@ -5841,7 +5841,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=A%20Letter%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/a-letter-spring-2027-ready-to-wear-collection-lfw-1239247370/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5870,7 +5870,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Fashion%20East%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://londonfashionweek.co.uk/designers/fashion-east",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5889,7 +5889,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Not a single label but a nonprofit talent incubator founded by Lulu Kennedy in 2000, staging group runway shows for emerging London designers each season since 2003, with backing from Topshop and the Greater London Authority.",
-      "website": "https://fashioneast.co.uk",
+      "website": "fashioneast.co.uk",
       "cd": "Lulu Kennedy (founder & director)",
       "parent": "Nonprofit / BFC-supported"
     },
@@ -5899,7 +5899,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Annie's%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://www.instagram.com/p/DdebJUFDPM_/?img_index=7",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5918,7 +5918,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": null,
-      "website": null,
+      "website": "https://anniesibiza.com › pages › about-us",
       "cd": null,
       "parent": null
     },
@@ -5928,7 +5928,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Aaron%20Esh%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/aaron-esh-spring-2027-ready-to-wear-collection-1239246094/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -5947,7 +5947,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "East London designer known for tailoring-driven collections and immersive, party-style show formats staged in nightclub and subculture-adjacent venues, often working with Savile Row-trained tailor Charlie Allen.",
-      "website": "https://aaronesh.co.uk",
+      "website": "aaronesh.co.uk",
       "cd": "Aaron Esh",
       "parent": "Independent"
     },
@@ -5957,7 +5957,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Natasha%20Zinko%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/natasha-zinko-spring-2027-ready-to-wear-collection-1239246732/",
       "custom": false,
       "circular": true,
       "vegan": false,
@@ -5976,7 +5976,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded by Natasha Zinko, a London-based, Odesa-born designer trained at Central Saint Martins. Works largely from deadstock fabric in a closed-loop production cycle.",
-      "website": "https://natashazinko.com",
+      "website": "natashazinko.com",
       "cd": "Natasha Zinko",
       "parent": "Independent"
     },
@@ -5986,7 +5986,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Paolo%20Carzana%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/paolo-carzana-spring-2027-ready-to-wear-collection-1239247933/",
       "custom": false,
       "circular": true,
       "vegan": false,
@@ -6005,7 +6005,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Welsh designer who founded his namesake house in 2022, working entirely by hand with plant-based, recycled, organic, and repurposed materials and natural dyes (logwood, madder, turmeric, onion skins). A 2024 LVMH Prize finalist and Sarabande Foundation resident.",
-      "website": "https://paolocarzana.com",
+      "website": "paolocarzana.com",
       "cd": "Paolo Carzana",
       "parent": "Independent"
     },
@@ -6034,7 +6034,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded by Talia Lipkin-Connor, a Central Saint Martins 2020 graduate, and named for her great uncle’s Liverpool boutique Lucinda Byre. East London-based, built on heritage, ritual, and longevity over output.",
-      "website": "https://taliabyre.com",
+      "website": "taliabyre.com",
       "cd": "Talia Lipkin-Connor",
       "parent": "Independent"
     },
@@ -6044,7 +6044,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Patrick%20McDowell%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/patrick-mcdowell-spring-2027-ready-to-wear-collection-1239246558/",
       "custom": false,
       "circular": true,
       "vegan": false,
@@ -6073,7 +6073,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=John%20Richmond%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/john-richmond-spring-2027-ready-to-wear-collection-1239246633/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6102,7 +6102,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Ahluwalia%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/ahluwalia-spring-2027-ready-to-wear-collection-lfw-1239247628/",
       "custom": false,
       "circular": true,
       "vegan": false,
@@ -6121,7 +6121,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded by Priya Ahluwalia in London, built on upcycled and recycled materials and drawing on her Nigerian, Indian, and British heritage. Ahluwalia won the Queen Elizabeth II Award for British Design in 2021.",
-      "website": "https://ahluwalia.live",
+      "website": "ahluwalia.live",
       "cd": "Priya Ahluwalia",
       "parent": "Independent"
     },
@@ -6131,7 +6131,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://wwd.com/runway/spring-2027/london/pauline-dujancourt/review/",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/pauline-dujancourt-spring-2027-ready-to-wear-collection-1239247044/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6150,7 +6150,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Paris-born designer who studied at École Duperré before a Central Saint Martins MA, working for Simone Rocha, Rejina Pyo, and Alexander Wang before launching her own hand-knit-driven label in 2022. Winner of the ANDAM Special Prize 2026 and a 2024 LVMH Prize finalist.",
-      "website": "https://paulinedujancourt.com",
+      "website": "paulinedujancourt.com",
       "cd": "Pauline Dujancourt",
       "parent": "Independent"
     },
@@ -6160,7 +6160,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://wwd.com/runway/spring-2027/london/toga/review/",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/toga-spring-2027-ready-to-wear-collection-1239248092/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6178,8 +6178,8 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": "https://toga.jp",
+      "bio": "Japanese label founded in Tokyo in 1997, which won France's prestigious ANDAM award in 2007 and marked its 20th anniversary with a show at Tokyo's National Art Centre. TOGA now presents its runway collections during London Fashion Week.",
+      "website": "toga.jp",
       "cd": null,
       "parent": null
     },
@@ -6189,7 +6189,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Dreaming%20Eli%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://nowfashion.com/dreaming-eli-ready-to-wear-fall-winter-2026-london?srsltid=AU7gw4VCaVcDez_4Eg23EneAivIei9pqb-XOnSzxQ5fySZsG7AJo67kq",
       "custom": false,
       "circular": true,
       "vegan": false,
@@ -6208,7 +6208,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Norwegian-born, London-based designer Eli Khzouz presents sustainable luxury built on organic materials and a zero-waste approach.",
-      "website": "https://dreamingeli.com",
+      "website": "dreamingeli.com",
       "cd": "Eli Khzouz",
       "parent": "Independent"
     },
@@ -6218,7 +6218,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=KNWLS%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/knwls-spring-2027-ready-to-wear-collection-1239248001/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6237,7 +6237,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded in 2017 by Charlotte Knowles and Alexandre Arsenault in London, known for lingerie-inflected, technical, body-conscious womenswear.",
-      "website": "https://knwls.com",
+      "website": "knwls.com",
       "cd": "Charlotte Knowles & Alexandre Arsenault",
       "parent": "Independent"
     },
@@ -6247,7 +6247,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Richard%20Quinn%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/richard-quinn",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6266,7 +6266,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded by Richard Quinn in London, known for lavish, floral-printed eveningwear and a monarchy-adjacent following (the Queen once attended his show).",
-      "website": "https://richardquinn.com",
+      "website": "richardquinn.com",
       "cd": "Richard Quinn",
       "parent": "Independent"
     },
@@ -6276,7 +6276,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://wwd.com/runway/spring-2027/london/yuhan-wang/review/",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/yuhan-wang-spring-2027-ready-to-wear-collection-1239247850/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6295,7 +6295,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "London-based designer trained at Central Saint Martins, whose work explores traditional Asian ideals of feminine beauty through delicate, romantic silhouettes.",
-      "website": "https://yuhanwang.com",
+      "website": "yuhanwang.com",
       "cd": "Yuhan Wang",
       "parent": "Independent"
     },
@@ -6363,7 +6363,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Edeline%20Lee%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/edeline-lee-spring-2027-ready-to-wear-collection-1239249395/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6382,7 +6382,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Vancouver-born, Korean-Canadian designer trained at Central Saint Martins, with early experience under Alexander McQueen, John Galliano, and Zac Posen before launching her own London label.",
-      "website": "https://edelinelee.com",
+      "website": "edelinelee.com",
       "cd": "Edeline Lee",
       "parent": "Independent"
     },
@@ -6421,7 +6421,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Labrum%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/labrum-spring-2027-ready-to-wear-collection-1239249292/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6440,7 +6440,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded in 2014 by Foday Dumbuya, blending British tailoring with West African heritage and craftsmanship.",
-      "website": "https://labrumlondon.com",
+      "website": "labrumlondon.com",
       "cd": "Foday Dumbuya",
       "parent": "Independent"
     },
@@ -6450,7 +6450,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Mulberry%20by%20Christopher%20Kane%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mulberry",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6479,7 +6479,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Charlie%20Constantinou%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/charlie-constantinou",
       "custom": false,
       "circular": true,
       "vegan": false,
@@ -6498,7 +6498,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "British-Cypriot designer Charlie Constantinou founded his label in 2022 after a Central Saint Martins MA, building modular, adaptable garments from deadstock fabrics and artisanal hand-dyeing. An LVMH Prize semi-finalist (2023) who has collaborated with 66°North and Demon Footwear.",
-      "website": "https://charlieconstantinou.com",
+      "website": "charlieconstantinou.com",
       "cd": "Charlie Constantinou",
       "parent": "Independent"
     },
@@ -6508,7 +6508,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://wwd.com/runway/spring-2027/london/roksanda/review/",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/roksanda-spring-2027-ready-to-wear-collection-lfw-1239249622/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6527,7 +6527,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded by Roksanda Ilincic in London, known for architectural color-blocked silhouettes.",
-      "website": "https://roksanda.com",
+      "website": "roksanda.com",
       "cd": "Roksanda Ilincic",
       "parent": "Independent"
     },
@@ -6537,7 +6537,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Onalaja%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://www.youtube.com/watch?v=o4AyGrxWrXs",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6556,7 +6556,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": null,
-      "website": "https://onalaja.com",
+      "website": "onalaja.com",
       "cd": null,
       "parent": null
     },
@@ -6566,7 +6566,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=McQueen%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/mcqueen-spring-2027-ready-to-wear-collection-lfw-1239249876/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6585,7 +6585,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded by Lee Alexander McQueen in 1992, known for its theatrical, precisely tailored, and often confrontational take on British fashion. Seán McGirr has been creative director since 2023.",
-      "website": "https://alexandermcqueen.com",
+      "website": "alexandermcqueen.com",
       "cd": "Seán McGirr",
       "parent": "Kering"
     },
@@ -6595,7 +6595,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Selasi%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://nowfashion.com/selasi-ready-to-wear-spring-summer-2027-london?srsltid=AU7gw4X3x0WWee2YV3oF7Kt4mK8KvHKREep6YjvrPQaCtpOMDE4llBBR",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6614,7 +6614,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "London-based label founded in 2020 by multidisciplinary artist Ronan Mckenzie. The name draws from the Ghanaian Ewe word for ‘God hears me,’ with collections exploring tactility and structure alongside Mckenzie’s wider practice in scent, furniture, and performance.",
-      "website": null,
+      "website": "https://selasi.co",
       "cd": "Ronan Mckenzie",
       "parent": "Independent"
     },
@@ -6624,7 +6624,7 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Lovebirds%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://wwd.com/fashion-news/shows-reviews/gallery/lovebirds-spring-2027-ready-to-wear-collection-1239250330/",
       "custom": false,
       "circular": false,
       "vegan": false,
@@ -6642,10 +6642,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": null,
-      "cd": null,
-      "parent": null
+      "bio": "London womenswear label run by Gursi Singh and Amrita Khanna, built on ethos over trends — quiet, understated norm-breaking through relaxed tailoring that blends menswear detailing with a feminine sensibility, drawing more from architecture and graphic design than the runway.",
+      "website": "https://lovebirds-studio.com/",
+      "cd": "Gursi Singh & Amrita Khanna",
+      "parent": "Independent"
     },
     {
       "id": "di-petsa-spring-summer-2027-london",
@@ -6672,7 +6672,7 @@
       "repairService": false,
       "buybackProgram": false,
       "bio": "Founded by Greek designer Dimitra Petsa, known for her signature “wet look” draping technique that gives garments the appearance of being freshly emerged from water.",
-      "website": "https://dipetsa.com",
+      "website": "dipetsa.com",
       "cd": "Dimitra Petsa",
       "parent": "Independent"
     },
@@ -6682,9 +6682,9 @@
       "city": "London",
       "season": "Spring/Summer 2027",
       "country": "UK",
-      "link": "https://www.google.com/search?q=Liza%20Keane%20Spring%2FSummer%202027%20runway%20show%20London%20photos",
+      "link": "https://londonfashionweek.co.uk/designers/liza-keane",
       "custom": false,
-      "circular": false,
+      "circular": true,
       "vegan": false,
       "placeholder": false,
       "debut": null,
@@ -6700,10 +6700,10 @@
       "cfdaFinalist": false,
       "repairService": false,
       "buybackProgram": false,
-      "bio": null,
-      "website": "https://lizakeane.com",
-      "cd": null,
-      "parent": null
+      "bio": "London eponymous label by Liza Keane, working fabric and leather as sculptural media rooted in a multidisciplinary art practice, drawing on philosophers Georges Bataille and Carl Jung. Built on upcycled and deadstock materials, restricting any new textiles to natural fibres only.",
+      "website": "lizakeane.com",
+      "cd": "Liza Keane",
+      "parent": "Independent"
     },
     {
       "id": "burberry-spring-summer-2027-london",
@@ -7518,5 +7518,5 @@
       "parent": "Independent"
     }
   ],
-  "generatedAt": "2026-09-22T19:29:22.492Z"
+  "generatedAt": "2026-09-22T21:02:26.098Z"
 }
