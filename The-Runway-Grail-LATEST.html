@@ -1251,7 +1251,7 @@
     <span>Your checkmarks and notes are private to you. Only the admin can add or remove shows from the catalog.</span>
     <button class="reset-link" id="resetBtn">Reset my checkmarks</button>
   </div>
-  <div class="copyright-row">THE PULL &copy; 2026<br><span class="verified-note" id="verifiedNote">Schedules verified as of Sept 29, 2026 — check placeholder entries independently.</span></div>
+  <div class="copyright-row">THE PULL &copy; 2026<br><span class="verified-note" id="verifiedNote">Schedules verified as of Oct 1, 2026 — check placeholder entries independently.</span></div>
 </div>
 
 <div id="printArea" class="print-only"></div>
@@ -1319,7 +1319,7 @@ let FASHION_WEEK_DATES = {
     "Spring/Summer 2027": "October 16\u201318, 2026"
   },
   "Riyadh": {
-    "Spring/Summer 2027": "October 16\u201321, 2026"
+    "Spring/Summer 2027": "October 15\u201320, 2026"
   },
   "Copenhagen": {
     "Spring/Summer 2027": "August 3\u20137, 2026"
@@ -1338,6 +1338,9 @@ let FASHION_WEEK_DATES = {
   },
   "Mumbai": {
     "Spring/Summer 2027": "March 19\u201322, 2026"
+  },
+  "São Paulo": {
+    "Spring/Summer 2027": "October 13\u201318, 2026"
   }
 };
 
@@ -1657,7 +1660,19 @@ async function saveCustomShows(){
 // remains a safe, working fallback.
 let CATALOG_SHOWS = SEED;
 
-function allShows(){ return [...CATALOG_SHOWS, ...customShows, ...ARCHIVE_SHOWS]; }
+// v114: dedupe by id. The live catalog (CATALOG_DATA_URL) ships the full
+// catalog including archive seasons, and ARCHIVE_SHOWS is the same archive
+// baked in — concatenating both rendered every archive show twice.
+function allShows(){
+  const seen = new Set();
+  const out = [];
+  for (const s of [...CATALOG_SHOWS, ...customShows, ...ARCHIVE_SHOWS]){
+    if (!s || !s.id || seen.has(s.id)) continue;
+    seen.add(s.id);
+    out.push(s);
+  }
+  return out;
+}
 
 
 // ---------- Collection tabs (v81) ----------
@@ -3674,6 +3689,18 @@ function wrapNote(ctx, text, maxWidth, maxLines){
   if (lines.length > maxLines && out.length) out[out.length - 1] += '\u2026';
   return out;
 }
+// v115: show.datetimeUTC is the verified local start time as a UTC instant.
+// Renders it in Eastern, 12-hour, with the correct EDT/EST label for the date.
+function easternShowTime(show){
+  try{
+    if(!show || !show.datetimeUTC) return '';
+    const d = new Date(show.datetimeUTC);
+    if(isNaN(d)) return '';
+    const t = new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',hour:'numeric',minute:'2-digit',hour12:true}).format(d);
+    const zn = new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',timeZoneName:'short'}).formatToParts(d).find(p=>p.type==='timeZoneName');
+    return t + ' ' + (zn ? zn.value : 'ET');
+  }catch(e){ return ''; }
+}
 async function renderShareCard(show){
   try{ await document.fonts.ready; }catch(e){}
   const W = 1080, H = 1350;
@@ -3696,48 +3723,79 @@ async function renderShareCard(show){
   const SERIF = 'Fraunces, Georgia, serif';
   ctx.fillStyle = CREAM;
   ctx.textBaseline = 'alphabetic';
-  // Brand, large serif, shrunk to fit very long names.
-  fitFont(ctx, show.brand, W - 144, 96, SERIF, '700');
-  ctx.fillText(show.brand, 72, 920);
-  ctx.font = '400 34px ' + SERIF;
-  ctx.fillText(show.city + ' \u00B7 ' + seasonLabel(show.season), 72, 986);
-  const dt = longShowDate(show.date);
-  const venueBits = [dt, show.venue].filter(Boolean).join(' \u00B7 ');
-  if (venueBits) ctx.fillText(venueBits, 72, 1036);
-  // v112: the short brand bio rides on the card (up to 3 lines of small
-  // cream type) so the TikTok/IG post carries the story with no copy-paste.
+  // v116: lay out the text block first — the wash and bumped type need content metrics up front.
   const cardBio = (show.bio || '').trim();
-  let bioLineCount = 0;
-  if (cardBio){
-    ctx.font = '400 30px ' + SERIF;
-    ctx.fillStyle = 'rgba(250,247,239,0.85)';
-    const bioLines = wrapNote(ctx, cardBio, W - 144, 3);
-    bioLines.forEach((ln, i) => ctx.fillText(ln, 72, 1084 + i * 40));
-    bioLineCount = bioLines.length;
-  }
-  // The user's note, italic in quotes — drops below the bio when both exist.
-  const data = watchData[show.id] || {};
-  const note = (data.notes || '').trim();
-  if (note){
-    ctx.fillStyle = CREAM;
-    if (bioLineCount){
-      ctx.font = 'italic 500 36px ' + SERIF;
-      const noteY = 1084 + bioLineCount * 40 + 40;
-      const lines = wrapNote(ctx, '\u201C' + note + '\u201D', W - 144, 2);
-      lines.forEach((ln, i) => ctx.fillText(ln, 72, noteY + i * 46));
+  ctx.font = '400 38px ' + SERIF;
+  const bioLines = cardBio ? wrapNote(ctx, cardBio, W - 144, 3) : [];
+  const wData = watchData[show.id] || {};
+  const cardNote = (wData.notes || '').trim();
+  let noteLines = [], noteY = 0, notePx = 0, noteLh = 0;
+  if (cardNote){
+    if (bioLines.length){
+      notePx = 40; noteLh = 50;
+      noteY = 1048 + bioLines.length * 48 + 40;
+      noteLines = wrapNote(ctx, '\u201C' + cardNote + '\u201D', W - 144, 2);
     } else {
-      ctx.font = 'italic 500 40px ' + SERIF;
-      const lines = wrapNote(ctx, '\u201C' + note + '\u201D', W - 144, 3);
-      lines.forEach((ln, i) => ctx.fillText(ln, 72, 1120 + i * 52));
+      notePx = 44; noteLh = 56;
+      noteY = 1096;
+      noteLines = wrapNote(ctx, '\u201C' + cardNote + '\u201D', W - 144, 3);
     }
   }
-  // Footer.
+  let contentBottom = 1032; // date/venue line descender
+  if (bioLines.length) contentBottom = 1048 + (bioLines.length - 1) * 48 + 14;
+  if (noteLines.length) contentBottom = Math.max(contentBottom, noteY + (noteLines.length - 1) * noteLh + 14);
+  // v116: subtle dark wash behind the text block (Kate's call) — soft edges,
+  // zebra still shows through. Footer keeps its smaller size per her note.
+  const washTop = 788, washBottom = Math.min(contentBottom + 40, 1288);
+  if (washBottom > washTop + 40){
+    ctx.save();
+    ctx.shadowColor = 'rgba(0,0,0,0.45)';
+    ctx.shadowBlur = 34;
+    ctx.fillStyle = 'rgba(12,9,7,0.40)';
+    const wx = 48, ww = W - 96, wr = 42;
+    ctx.beginPath();
+    ctx.moveTo(wx + wr, washTop);
+    ctx.arcTo(wx + ww, washTop, wx + ww, washTop + wr, wr);
+    ctx.arcTo(wx + ww, washBottom, wx + ww - wr, washBottom, wr);
+    ctx.arcTo(wx, washBottom, wx, washBottom - wr, wr);
+    ctx.arcTo(wx, washTop, wx + wr, washTop, wr);
+    ctx.closePath();
+    ctx.fill();
+    ctx.restore();
+  }
+  // Brand, large serif, shrunk to fit very long names (v116: 96 -> 104).
+  fitFont(ctx, show.brand, W - 144, 104, SERIF, '700');
+  ctx.fillStyle = CREAM;
+  ctx.fillText(show.brand, 72, 888);
+  ctx.font = '400 38px ' + SERIF;
+  ctx.fillText(show.city + ' \u00B7 ' + seasonLabel(show.season), 72, 952);
+  const dt = longShowDate(show.date);
+  const et = easternShowTime(show);
+  const venueBits = [dt, et, show.venue].filter(Boolean).join(' \u00B7 ');
+  if (venueBits){ fitFont(ctx, venueBits, W - 144, 38, SERIF, '400'); ctx.fillText(venueBits, 72, 1000); }
+  // v116: bio 34 -> 38px; block lifted to protect the note zone.
+  if (bioLines.length){
+    ctx.font = '400 38px ' + SERIF;
+    ctx.fillStyle = 'rgba(250,247,239,0.85)';
+    bioLines.forEach((ln, i) => ctx.fillText(ln, 72, 1048 + i * 48));
+  }
+  // The user's note, italic in quotes — drops below the bio when both exist.
+  if (noteLines.length){
+    ctx.fillStyle = CREAM;
+    ctx.font = 'italic 500 ' + notePx + 'px ' + SERIF;
+    noteLines.forEach((ln, i) => ctx.fillText(ln, 72, noteY + i * noteLh));
+  }
+  // Footer — v113: lifted for more bottom padding in TikTok's feed view.
   ctx.strokeStyle = 'rgba(250,247,239,0.55)';
   ctx.lineWidth = 2;
-  ctx.beginPath(); ctx.moveTo(72, 1310); ctx.lineTo(372, 1310); ctx.stroke();
+  ctx.beginPath(); ctx.moveTo(72, 1300); ctx.lineTo(372, 1300); ctx.stroke();
   ctx.font = '400 25px ' + SERIF;
   ctx.fillStyle = 'rgba(250,247,239,0.92)';
-  ctx.fillText('S H A R E D   V I A   T H E   R U N W A Y   G R A I L', 72, 1338);
+  const footTxt = 'S h a r e d   v i a   T h e   R u n w a y   G r a i l';
+  ctx.fillText(footTxt, 72, 1328);
+  const footW = ctx.measureText(footTxt).width;
+  ctx.font = '400 15px ' + SERIF;
+  ctx.fillText('™', 72 + footW + 6, 1328 - 9);
   return canvas;
 }
 async function shareInstagramCard(show){
