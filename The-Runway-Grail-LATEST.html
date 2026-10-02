@@ -3710,6 +3710,7 @@ async function renderShareCard(show){
   const canvas = document.createElement('canvas');
   canvas.width = W; canvas.height = H;
   const ctx = canvas.getContext('2d');
+  const TEXT_W = 828; // v120: text column width — right edge at x=900, clear of TikTok's right rail.
   // Full-bleed zebra eye macro.
   const zebra = await loadShareImg(SHARE_ZEBRA_JPEG);
   const s = Math.max(W / zebra.width, H / zebra.height);
@@ -3729,7 +3730,7 @@ async function renderShareCard(show){
   // v116: lay out the text block first — the wash and bumped type need content metrics up front.
   const cardBio = (show.bioShort || show.bio || '').trim(); // v117: one-line summary on the card when present
   ctx.font = '400 38px ' + SERIF;
-  const bioLines = cardBio ? wrapNote(ctx, cardBio, W - 144, 3) : [];
+  const bioLines = cardBio ? wrapNote(ctx, cardBio, TEXT_W, 3) : [];
   const wData = watchData[show.id] || {};
   const cardNote = (wData.notes || '').trim();
   let noteLines = [], noteY = 0, notePx = 0, noteLh = 0;
@@ -3737,11 +3738,11 @@ async function renderShareCard(show){
     if (bioLines.length){
       notePx = 40; noteLh = 50;
       noteY = 1048 + bioLines.length * 48 + 40;
-      noteLines = wrapNote(ctx, '\u201C' + cardNote + '\u201D', W - 144, 2);
+      noteLines = wrapNote(ctx, '\u201C' + cardNote + '\u201D', TEXT_W, 2);
     } else {
       notePx = 44; noteLh = 56;
       noteY = 1096;
-      noteLines = wrapNote(ctx, '\u201C' + cardNote + '\u201D', W - 144, 3);
+      noteLines = wrapNote(ctx, '\u201C' + cardNote + '\u201D', TEXT_W, 3);
     }
   }
   let contentBottom = 1032; // date/venue line descender
@@ -3761,7 +3762,7 @@ async function renderShareCard(show){
     ctx.shadowColor = 'rgba(0,0,0,0.45)';
     ctx.shadowBlur = 34;
     ctx.fillStyle = 'rgba(12,9,7,0.40)';
-    const wx = 48, ww = W - 96, wr = 42;
+    const wx = 48, ww = 900, wr = 42; // v120: wash follows the safe-zone text column
     ctx.beginPath();
     ctx.moveTo(wx + wr, washTop);
     ctx.arcTo(wx + ww, washTop, wx + ww, washTop + wr, wr);
@@ -3773,7 +3774,7 @@ async function renderShareCard(show){
     ctx.restore();
   }
   // Brand, large serif, shrunk to fit very long names (v116: 96 -> 104).
-  fitFont(ctx, show.brand, W - 144, 104, SERIF, '700');
+  fitFont(ctx, show.brand, TEXT_W, 104, SERIF, '700');
   ctx.fillStyle = CREAM;
   ctx.fillText(show.brand, 72, 888);
   ctx.font = '400 38px ' + SERIF;
@@ -3781,7 +3782,7 @@ async function renderShareCard(show){
   const dt = longShowDate(show.date);
   const et = easternShowTime(show);
   const venueBits = [dt, et, show.venue].filter(Boolean).join(' \u00B7 ');
-  if (venueBits){ fitFont(ctx, venueBits, W - 144, 38, SERIF, '400'); ctx.fillText(venueBits, 72, 1000); }
+  if (venueBits){ fitFont(ctx, venueBits, TEXT_W, 38, SERIF, '400'); ctx.fillText(venueBits, 72, 1000); }
   // v116: bio 34 -> 38px; block lifted to protect the note zone.
   if (bioLines.length){
     ctx.font = '400 38px ' + SERIF;
