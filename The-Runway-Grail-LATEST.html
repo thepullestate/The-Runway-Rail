@@ -2298,6 +2298,9 @@ function renderGrid(){
     // Skip the date here when it's already shown as a sticky group header above.
     if (searchAllSeasons) metaParts.push(`<span class="season-tag">${seasonLabel(show.season)}</span>`);
     if (show.date && sortMode !== 'date') metaParts.push(`<span>${formatShowDate(show.date)}</span>`);
+    // v118: showtime in the app (Kate) — Eastern time in the meta row, left-aligned with the card.
+    const showTime = easternShowTime(show);
+    if (showTime) metaParts.push(`<span class="show-time">${showTime}</span>`);
     metaParts.push(`<span>${show.city}</span>`, `<span>${show.country}</span>`);
     if (show.type && show.type !== "Ready-to-Wear") metaParts.push(`<span>${show.type}</span>`);
     if (show.venue) metaParts.push(`<span>${show.venue}</span>`);
@@ -3744,6 +3747,12 @@ async function renderShareCard(show){
   let contentBottom = 1032; // date/venue line descender
   if (bioLines.length) contentBottom = 1048 + (bioLines.length - 1) * 48 + 14;
   if (noteLines.length) contentBottom = Math.max(contentBottom, noteY + (noteLines.length - 1) * noteLh + 14);
+  // v119: drop the bio/note block toward the footer when there's room (Kate — too much
+  // dead space above the footer line). Clamped so the block never crowds the rule at 1300.
+  const bioDrop = Math.max(0, Math.min(56, 1248 - contentBottom));
+  const bioY = 1048 + bioDrop;
+  noteY += bioDrop;
+  contentBottom += bioDrop;
   // v116: subtle dark wash behind the text block (Kate's call) — soft edges,
   // zebra still shows through. Footer keeps its smaller size per her note.
   const washTop = 788, washBottom = Math.min(contentBottom + 40, 1288);
@@ -3777,7 +3786,7 @@ async function renderShareCard(show){
   if (bioLines.length){
     ctx.font = '400 38px ' + SERIF;
     ctx.fillStyle = 'rgba(250,247,239,0.85)';
-    bioLines.forEach((ln, i) => ctx.fillText(ln, 72, 1048 + i * 48));
+    bioLines.forEach((ln, i) => ctx.fillText(ln, 72, bioY + i * 48));
   }
   // The user's note, italic in quotes — drops below the bio when both exist.
   if (noteLines.length){
@@ -3791,7 +3800,7 @@ async function renderShareCard(show){
   ctx.beginPath(); ctx.moveTo(72, 1300); ctx.lineTo(372, 1300); ctx.stroke();
   ctx.font = '400 25px ' + SERIF;
   ctx.fillStyle = 'rgba(250,247,239,0.92)';
-  const footTxt = 'S h a r e d   v i a   T h e   R u n w a y   G r a i l';
+  const footTxt = 'S h a r e d   v i a   T H E   R U N W A Y   G R A I L';
   ctx.fillText(footTxt, 72, 1328);
   const footW = ctx.measureText(footTxt).width;
   ctx.font = '400 15px ' + SERIF;
