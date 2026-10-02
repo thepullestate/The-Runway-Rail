@@ -481,6 +481,10 @@
   .cp-city.sel,.cp-all.sel{background:rgba(250,16,118,.20);border-color:var(--flash);}
   .cp-city.sel .n{color:#faf7ef;opacity:.75;}
   .cp-hint{text-align:center;color:rgba(250,247,239,.55);font-size:12px;margin:12px 0 2px;}
+  /* v122: hot-city flash was forcing black text (v94 rule for light chips) —
+     inside the dark panel the text stays cream for readability. */
+  .cities-panel .flash-chip{color:#faf7ef !important;}
+  .cities-panel .flash-chip .n{color:rgba(250,247,239,.75) !important;}
   /* Collapsible specialty pills (v51): open by default, chevron tucks/expands, state persists */
   .city-chip.icon-only{
     display:inline-flex;align-items:center;gap:6px;
