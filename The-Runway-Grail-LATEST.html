@@ -454,6 +454,33 @@
   }
   .city-chip:hover{border-color:var(--flash);color:var(--ink);} /* red outline hover, matches the ⋮ trigger */
   .city-chip.active{background:var(--ink);border-color:var(--ink);color:var(--paper);}
+  /* v121: Cities dropdown selector (Kate) — one pill opens a panel; selected
+     cities glow transparent pink on black, no checkboxes. */
+  .city-chip .cp-chev{font-size:10px;color:var(--ink-45);transition:transform .18s ease;display:inline-block;margin-left:4px;}
+  .city-chip.open .cp-chev{transform:rotate(180deg);}
+  .cities-panel{flex:1 1 100%;background:#141114;border:1px solid var(--line);border-radius:18px;
+    padding:14px;margin:4px 0 6px;box-shadow:0 18px 50px rgba(0,0,0,.45);color:#faf7ef;
+    max-height:0;opacity:0;overflow:hidden;padding-top:0;padding-bottom:0;border-width:0;margin-top:0;margin-bottom:0;
+    transition:max-height .28s ease,opacity .22s ease,padding .2s,margin .2s,border-width .2s;}
+  .cities-panel.open{max-height:720px;opacity:1;padding:14px;border-width:1px;margin:4px 0 6px;}
+  .cp-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;}
+  .cp-title{font-family:'Fraunces',Georgia,serif;font-size:19px;font-weight:700;color:#faf7ef;}
+  .cp-tools{display:flex;gap:4px;align-items:center;}
+  .cp-reset{background:none;border:none;color:var(--flash);font-size:14px;padding:6px 8px;cursor:pointer;}
+  .cp-x{background:none;border:none;color:rgba(250,247,239,.55);font-size:18px;padding:4px 8px;cursor:pointer;}
+  .cp-all{width:100%;text-align:left;border-radius:12px;padding:12px 14px;font-size:14.5px;
+    border:1px solid rgba(250,247,239,.14);background:rgba(250,247,239,.05);color:#faf7ef;margin-bottom:10px;
+    display:flex;justify-content:space-between;align-items:center;cursor:pointer;transition:background .15s,border-color .15s;}
+  .cp-all .n{color:rgba(250,247,239,.55);font-size:12.5px;}
+  .cp-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
+  .cp-city{border-radius:12px;padding:11px 12px;font-size:14.5px;text-align:left;
+    border:1px solid rgba(250,247,239,.14);background:rgba(250,247,239,.05);color:#faf7ef;
+    display:flex;justify-content:space-between;align-items:baseline;cursor:pointer;
+    transition:background .15s,border-color .15s;}
+  .cp-city .n{color:rgba(250,247,239,.55);font-size:12px;}
+  .cp-city.sel,.cp-all.sel{background:rgba(250,16,118,.20);border-color:var(--flash);}
+  .cp-city.sel .n{color:#faf7ef;opacity:.75;}
+  .cp-hint{text-align:center;color:rgba(250,247,239,.55);font-size:12px;margin:12px 0 2px;}
   /* Collapsible specialty pills (v51): open by default, chevron tucks/expands, state persists */
   .city-chip.icon-only{
     display:inline-flex;align-items:center;gap:6px;
@@ -1506,6 +1533,7 @@ let bridalOnly = false;
 let offSeasonOnly = false;
 let myRailOnly = false;
 let itineraryOnly = false;
+let citiesOpen = false; // v121: cities dropdown panel open/closed
 let startingSoonOnly = false; // v90: the live view — live + upcoming≤4h on top, today's ended shows sink
 let typeFilter = "All"; // All | Ready-to-Wear | Couture | Menswear
 
@@ -1791,8 +1819,8 @@ function renderCityChips(){
   cityChips.innerHTML = '';
   filterChips.innerHTML = '';
   railChips.innerHTML = '';
-  const cities = ["All", ...Object.keys(CITIES).sort((a,b) => a.localeCompare(b))];
-  const totalCityCount = Object.keys(CITIES).length;
+  const cityNames = Object.keys(CITIES).sort((a,b) => a.localeCompare(b));
+  const totalCityCount = cityNames.length;
   // v89: cities with a live or starting-soon show flash, so the eye lands
   // on where the action is. Same scope as the ⏱ chip's flash.
   const hotCities = new Set();
@@ -1803,22 +1831,93 @@ function renderCityChips(){
       hotCities.add(s.city);
     }
   });
-  cities.forEach(city => {
-    const chip = document.createElement('button');
-    const isActive = city === "All" ? activeCities.size === 0 : activeCities.has(city);
-    chip.className = 'city-chip' + (isActive ? ' active' : '') + (city !== "All" && hotCities.has(city) ? ' flash-chip' : '');
-    chip.textContent = city === "All" ? "All cities" : city;
-    chip.onclick = () => {
-      if (city === "All"){ activeCities.clear(); }
-      else {
+  // v121: city pills become one "Cities" pill + dropdown panel (Kate's design,
+  // mockup approved 2026-10-02). activeCities semantics unchanged: empty = all.
+  // Because every selection stays visible in the panel, the old add-instead-of-
+  // switch confusion is gone by design.
+  const cityCounts = {};
+  allShows().forEach(s => {
+    if (!searchAllSeasons && s.season !== activeSeason) return;
+    if (s.city) cityCounts[s.city] = (cityCounts[s.city] || 0) + 1;
+  });
+  const totalCityShows = Object.values(cityCounts).reduce((a,b) => a + b, 0);
+  const nSel = activeCities.size;
+  const citiesPill = document.createElement('button');
+  citiesPill.className = 'city-chip' + (nSel ? ' active' : '') + (citiesOpen ? ' open' : '');
+  citiesPill.setAttribute('aria-expanded', citiesOpen ? 'true' : 'false');
+  citiesPill.title = 'Filter by city — select one or more';
+  const pillLabel = document.createElement('span');
+  pillLabel.textContent = nSel === 0 ? 'Cities' : (nSel === 1 ? [...activeCities][0] : nSel + ' Cities');
+  const pillChev = document.createElement('span');
+  pillChev.className = 'cp-chev';
+  pillChev.textContent = '\u25BE';
+  pillChev.setAttribute('aria-hidden', 'true');
+  citiesPill.appendChild(pillLabel);
+  citiesPill.appendChild(pillChev);
+  citiesPill.onclick = () => { citiesOpen = !citiesOpen; render(); };
+  cityChips.appendChild(citiesPill);
+  const citiesPanel = document.createElement('div');
+  citiesPanel.className = 'cities-panel' + (citiesOpen ? ' open' : '');
+  if (citiesOpen){
+    const cpHead = document.createElement('div');
+    cpHead.className = 'cp-head';
+    const cpTitle = document.createElement('div');
+    cpTitle.className = 'cp-title';
+    cpTitle.textContent = 'Cities';
+    const cpTools = document.createElement('div');
+    cpTools.className = 'cp-tools';
+    const cpReset = document.createElement('button');
+    cpReset.className = 'cp-reset';
+    cpReset.textContent = 'Reset';
+    cpReset.onclick = () => { activeCities.clear(); render(); };
+    const cpX = document.createElement('button');
+    cpX.className = 'cp-x';
+    cpX.textContent = '\u2715';
+    cpX.setAttribute('aria-label', 'Close city selector');
+    cpX.onclick = () => { citiesOpen = false; render(); };
+    cpTools.appendChild(cpReset);
+    cpTools.appendChild(cpX);
+    cpHead.appendChild(cpTitle);
+    cpHead.appendChild(cpTools);
+    citiesPanel.appendChild(cpHead);
+    const cpAll = document.createElement('button');
+    cpAll.className = 'cp-all' + (nSel === 0 ? ' sel' : '');
+    const cpAllName = document.createElement('span');
+    cpAllName.textContent = 'All Cities';
+    const cpAllN = document.createElement('span');
+    cpAllN.className = 'n';
+    cpAllN.textContent = totalCityShows.toLocaleString() + ' shows';
+    cpAll.appendChild(cpAllName);
+    cpAll.appendChild(cpAllN);
+    cpAll.onclick = () => { activeCities.clear(); render(); };
+    citiesPanel.appendChild(cpAll);
+    const cpGrid = document.createElement('div');
+    cpGrid.className = 'cp-grid';
+    cityNames.forEach(city => {
+      const b = document.createElement('button');
+      b.className = 'cp-city' + (activeCities.has(city) ? ' sel' : '') + (hotCities.has(city) ? ' flash-chip' : '');
+      const nm = document.createElement('span');
+      nm.textContent = city;
+      const ct = document.createElement('span');
+      ct.className = 'n';
+      ct.textContent = (cityCounts[city] || 0).toLocaleString();
+      b.appendChild(nm);
+      b.appendChild(ct);
+      b.onclick = () => {
         if (activeCities.has(city)) activeCities.delete(city);
         else activeCities.add(city);
         if (activeCities.size === totalCityCount) activeCities.clear(); // every city picked = all cities
-      }
-      render();
-    };
-    cityChips.appendChild(chip);
-  });
+        render();
+      };
+      cpGrid.appendChild(b);
+    });
+    citiesPanel.appendChild(cpGrid);
+    const cpHint = document.createElement('p');
+    cpHint.className = 'cp-hint';
+    cpHint.textContent = 'Select one or more \u2014 tap again to remove';
+    citiesPanel.appendChild(cpHint);
+  }
+  cityChips.appendChild(citiesPanel);
   const myRailChip = document.createElement('button');
   myRailChip.className = 'city-chip' + (myRailOnly ? ' active' : '');
   myRailChip.innerHTML = '<span style="color:var(--flash);">♥</span> My Rail';
