@@ -503,9 +503,10 @@
    "cd": "Loris Messina & Simone Rizzo",
    "parent": "Aeffe",
    "trends": [
-    "bubble-hem",
+    "denim",
     "fringe",
-    "peplum"
+    "statement-skirt",
+    "tassels"
    ],
    "bioShort": "Founded 1983 in Milan by Franco Moschino; satirical, pop-culture fashion, now led by co-creative directors Loris Messina and Simone Rizzo."
   },
@@ -539,10 +540,9 @@
    "cd": "Miuccia Prada & Raf Simons",
    "parent": "Prada Group",
    "trends": [
-    "statement-skirt",
     "lingerie-details",
-    "embroidery",
-    "brooch"
+    "statement-jewelry",
+    "statement-skirt"
    ],
    "bioShort": "Founded 1913 in Milan by Mario Prada as a leather-goods house; co-creative directors Miuccia Prada and Raf Simons since 2020."
   },
@@ -575,7 +575,18 @@
    "website": "https://dhruvkapoor.com/",
    "cd": "Dhruv Kapoor",
    "parent": null,
-   "bioShort": "Dhruv Kapoor founded his Milan label in 2013; gender-fluid ready-to-wear fusing Indian embroidery with streetwear."
+   "bioShort": "Dhruv Kapoor founded his Milan label in 2013; gender-fluid ready-to-wear fusing Indian embroidery with streetwear.",
+   "trends": [
+    "butter-yellow",
+    "draped-wrap",
+    "embroidery",
+    "lace",
+    "leather-look",
+    "quiet-craft",
+    "sheer-chiffon",
+    "statement-jewelry",
+    "undone-luxe"
+   ]
   },
   {
    "id": "diesel-spring-summer-2027-milan",
@@ -610,7 +621,7 @@
    "trends": [
     "denim",
     "hot-shorts",
-    "animal-print"
+    "leather-look"
    ],
    "bioShort": "Founded 1978 by Renzo Rosso; Italian denim label revived since 2020 under artistic director Glenn Martens."
   },
@@ -643,7 +654,15 @@
    "website": "https://jsalinas.pe",
    "cd": "Jorge Luis Salinas",
    "parent": null,
-   "bioShort": "Peruvian label of Jorge Luis Salinas: couture-level crochet and layered textiles in alpaca and Pima cotton."
+   "bioShort": "Peruvian label of Jorge Luis Salinas: couture-level crochet and layered textiles in alpaca and Pima cotton.",
+   "trends": [
+    "bubble-hem",
+    "fringe",
+    "open-knit",
+    "peplum",
+    "quiet-craft",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "venerd-pomeriggio-spring-summer-2027-milan",
@@ -674,7 +693,12 @@
    "website": "https://venerdipomeriggio.com",
    "cd": "Vivetta Ponti",
    "parent": "Independent",
-   "bioShort": "Vivetta Ponti's new label after 18 years — whimsical, sustainable womenswear at gentler price points."
+   "bioShort": "Vivetta Ponti's new label after 18 years — whimsical, sustainable womenswear at gentler price points.",
+   "trends": [
+    "heritage-british",
+    "lace",
+    "shrunken-jacket"
+   ]
   },
   {
    "id": "luisa-beccaria-spring-summer-2027-milan",
@@ -706,10 +730,17 @@
    "cd": "Luisa Beccaria",
    "parent": "Independent",
    "trends": [
-    "sheer-chiffon",
-    "painterly-floral",
+    "bold-stripes",
+    "brocade",
     "embroidery",
-    "lace"
+    "fringe",
+    "headwear",
+    "lace",
+    "lingerie-details",
+    "off-shoulder",
+    "open-knit",
+    "painterly-floral",
+    "sheer-chiffon"
    ],
    "bioShort": "Founded 1979 in Milan by Luisa Beccaria; romantic ultra-feminine dresses with ruffles, florals and luxe fabrics."
   },
@@ -743,9 +774,9 @@
    "cd": "Simone Bellotti",
    "parent": "OTB Group",
    "trends": [
-    "undone-luxe",
-    "sheer-chiffon",
-    "statement-skirt"
+    "bubble-hem",
+    "shrunken-jacket",
+    "undone-luxe"
    ],
    "bioShort": "Founded 1968 in Hamburg by Jil Sander; minimalist tailoring house, part of OTB Group with Simone Bellotti as creative director."
   },
@@ -780,6 +811,8 @@
    "parent": null,
    "trends": [
     "headwear",
+    "open-knit",
+    "quiet-craft",
     "undone-luxe"
    ],
    "bioShort": "Founded 1997 in Bergamo: artisanal handmade garments in natural fabrics, layered and deconstructed."
@@ -814,10 +847,14 @@
    "cd": "Antonio Marras",
    "parent": "Calzedonia",
    "trends": [
-    "tweed-boucle",
-    "sheer-chiffon",
-    "lace",
+    "brocade",
     "embroidery",
+    "headwear",
+    "lingerie-details",
+    "relaxed-tailoring",
+    "romantic-maximalism",
+    "sheer-chiffon",
+    "tweed-boucle",
     "undone-luxe"
    ],
    "bioShort": "Sardinian designer Antonio Marras founded his label in 1987; artisanal, narrative-driven collections; formerly of Kenzo."
@@ -852,11 +889,11 @@
    "cd": "Maria Grazia Chiuri",
    "parent": "LVMH",
    "trends": [
+    "animal-print",
+    "embroidery",
+    "headwear",
     "lingerie-details",
-    "lace",
-    "slip-dress",
-    "fringe",
-    "animal-print"
+    "slip-dress"
    ],
    "bioShort": "Founded 1925 in Rome by Adele and Edoardo Fendi as a fur and leather workshop; Maria Grazia Chiuri became creative director in 2026."
   },
@@ -889,7 +926,15 @@
    "website": "https://www.vivetta.it/",
    "cd": "In-house design team (founder Vivetta Ponti departed 2026)",
    "parent": null,
-   "bioShort": "Founded 2008 by Vivetta Ponti; fairy-tale womenswear with trompe-l'oeil prints, now under new ownership."
+   "bioShort": "Founded 2008 by Vivetta Ponti; fairy-tale womenswear with trompe-l'oeil prints, now under new ownership.",
+   "trends": [
+    "lingerie-details",
+    "midcentury-mod",
+    "satin",
+    "sheer-chiffon",
+    "shrunken-jacket",
+    "statement-jewelry"
+   ]
   },
   {
    "id": "missoni-spring-summer-2027-milan",
@@ -921,10 +966,11 @@
    "cd": "Alberto Caliri",
    "parent": "Missoni family",
    "trends": [
-    "hot-shorts",
-    "sheer-chiffon",
     "headwear",
-    "embroidery"
+    "sheer-chiffon",
+    "statement-jewelry",
+    "tassels",
+    "waist-cinch"
    ],
    "bioShort": "Founded 1953 in Gallarate by Ottavio and Rosita Missoni; zigzag knitwear, family-run for three generations."
   },
@@ -958,10 +1004,8 @@
    "cd": "Glenn Martens",
    "parent": "OTB Group",
    "trends": [
-    "lingerie-details",
-    "slip-dress",
-    "hot-shorts",
-    "embroidery"
+    "headwear",
+    "lingerie-details"
    ],
    "bioShort": "Launched 1997 as Margiela's Line 6: casual, street-inspired counterpart directed by an anonymous studio."
   },
@@ -995,11 +1039,13 @@
    "cd": "In-house design team (after Marco De Vincenzo's 2026 exit)",
    "parent": "Etro family / L Catterton",
    "trends": [
+    "aughts-glam",
+    "denim",
     "fringe",
-    "slip-dress",
-    "lingerie-details",
-    "open-knit",
-    "embroidery"
+    "mesh",
+    "sporty-femme",
+    "statement-jewelry",
+    "undone-luxe"
    ],
    "bioShort": "Founded by Gimmo Etro; family-run Milan house known for its signature paisley print."
   },
@@ -1032,7 +1078,15 @@
    "website": "https://www.onitsukatiger.com",
    "cd": "Andrea Pompilio",
    "parent": "ASICS",
-   "bioShort": "Japanese footwear brand founded 1949 in Kobe by Kihachiro Onitsuka; heritage sneakers such as the Mexico 66, revived as a fashion label in 2002."
+   "bioShort": "Japanese footwear brand founded 1949 in Kobe by Kihachiro Onitsuka; heritage sneakers such as the Mexico 66, revived as a fashion label in 2002.",
+   "trends": [
+    "fringe",
+    "hot-shorts",
+    "leather-look",
+    "sky-high-heels",
+    "slip-dress",
+    "sporty-femme"
+   ]
   },
   {
    "id": "max-mara-spring-summer-2027-milan",
@@ -1064,9 +1118,11 @@
    "cd": "Ian Griffiths",
    "parent": "Max Mara Fashion Group (family-owned)",
    "trends": [
+    "draped-wrap",
+    "leather-look",
+    "relaxed-tailoring",
     "sheer-chiffon",
-    "waist-cinch",
-    "hot-shorts"
+    "waist-cinch"
    ],
    "bioShort": "Founded 1951 in Reggio Emilia by Achille Maramotti; family-owned house known for camel coats and precision tailoring."
   },
@@ -1100,9 +1156,15 @@
    "cd": "Sara Cavazza Facchini",
    "parent": "Swinger International",
    "trends": [
+    "animal-print",
+    "bubble-hem",
+    "cobalt-blue",
     "denim",
+    "embroidery",
     "lace",
-    "sheer-chiffon"
+    "lingerie-details",
+    "mesh",
+    "relaxed-tailoring"
    ],
    "bioShort": "Founded 1962 in Ancona by Arnaldo Girombelli; feminine Italian luxury, with Sara Cavazza Facchini as creative director."
   },
@@ -1135,7 +1197,18 @@
    "website": null,
    "cd": "Phan Dang Hoang",
    "parent": null,
-   "bioShort": "Founded 2022 in Milan; Vietnamese heritage and craft translated into contemporary silhouettes."
+   "bioShort": "Founded 2022 in Milan; Vietnamese heritage and craft translated into contemporary silhouettes.",
+   "trends": [
+    "brocade",
+    "denim",
+    "draped-wrap",
+    "embroidery",
+    "lace",
+    "lingerie-details",
+    "off-shoulder",
+    "quiet-craft",
+    "satin"
+   ]
   },
   {
    "id": "anteprima-spring-summer-2027-milan",
@@ -1167,9 +1240,13 @@
    "cd": "Izumi Ogino",
    "parent": "Independent",
    "trends": [
-    "slip-dress",
+    "bubble-hem",
+    "embroidery",
+    "lace",
     "open-knit",
-    "lace"
+    "romantic-maximalism",
+    "sheer-chiffon",
+    "waist-cinch"
    ],
    "bioShort": "Founded 1993 in Milan by Japanese designer Izumi Ogino; soft knitwear and the hand-knit Wirebag."
   },
@@ -1203,10 +1280,13 @@
    "cd": "Meryll Rogge",
    "parent": "OTB Group",
    "trends": [
+    "leather-look",
     "lingerie-details",
+    "satin",
+    "sheer-chiffon",
     "shrunken-jacket",
-    "animal-print",
-    "midcentury-mod"
+    "sporty-femme",
+    "waist-cinch"
    ],
    "bioShort": "Founded 1994 in Milan by Consuelo Castiglioni; offbeat prints and asymmetric silhouettes, now led by Meryll Rogge."
   },
@@ -1240,7 +1320,9 @@
    "cd": "Francesco Murano",
    "parent": "Independent",
    "trends": [
-    "draped-wrap"
+    "draped-wrap",
+    "embroidery",
+    "gold-metallic"
    ],
    "bioShort": "Womenswear label launched 2021 by Agropoli-born Francesco Murano; LVMH Prize finalist who dressed Beyoncé."
   },
@@ -1274,11 +1356,15 @@
    "cd": "Lorenzo Serafini",
    "parent": "Aeffe",
    "trends": [
-    "lingerie-details",
-    "lace",
-    "slip-dress",
+    "boudoir",
+    "cobalt-blue",
     "feather-trim",
-    "art-deco"
+    "fringe",
+    "lace",
+    "lingerie-details",
+    "satin",
+    "sheer-chiffon",
+    "slip-dress"
    ],
    "bioShort": "Founded 1981 in Milan: ethereal, romantic silhouettes in soft, draped fabrics."
   },
@@ -1312,11 +1398,16 @@
    "cd": "Fausto Puglisi",
    "parent": "Marquee Brands",
    "trends": [
-    "aughts-glam",
     "animal-print",
-    "lingerie-details",
+    "aughts-glam",
+    "denim",
+    "embroidery",
+    "feather-trim",
     "fringe",
-    "sky-high-heels"
+    "hot-shorts",
+    "lingerie-details",
+    "sky-high-heels",
+    "statement-skirt"
    ],
    "bioShort": "Founded 1970 by Roberto Cavalli; animal prints and maximalist glamour, with Fausto Puglisi as creative director."
   },
@@ -1349,7 +1440,16 @@
    "website": "https://florania.org",
    "cd": "Flora Rabitti",
    "parent": null,
-   "bioShort": "Circular, genderless solarpunk label founded 2021 by Flora Rabitti; made-to-order upcycling and natural dye."
+   "bioShort": "Circular, genderless solarpunk label founded 2021 by Flora Rabitti; made-to-order upcycling and natural dye.",
+   "trends": [
+    "denim",
+    "draped-wrap",
+    "headwear",
+    "leather-look",
+    "open-knit",
+    "quiet-craft",
+    "undone-luxe"
+   ]
   },
   {
    "id": "tod-s-spring-summer-2027-milan",
@@ -1381,8 +1481,11 @@
    "cd": "Matteo Tamburini",
    "parent": "Tod's Group",
    "trends": [
+    "heritage-british",
     "hot-shorts",
-    "leather-look"
+    "leather-look",
+    "lingerie-details",
+    "shrunken-jacket"
    ],
    "bioShort": "Marche shoemaking roots under Filippo Della Valle; famed for the rubber-studded Gommino driving shoe."
   },
@@ -1416,7 +1519,8 @@
    "cd": "Galib Gassanoff",
    "parent": "Independent",
    "trends": [
-    "draped-wrap"
+    "draped-wrap",
+    "tweed-boucle"
    ],
    "bioShort": "Founded 2024 by Galib Gassanoff: a cultural project preserving Caucasus heritage through textiles and craft."
   },
@@ -1450,9 +1554,13 @@
    "cd": "Grazia Malagoli",
    "parent": "Max Mara Fashion Group",
    "trends": [
-    "sheer-chiffon",
+    "denim",
+    "embroidery",
+    "lace",
     "leather-look",
-    "peplum"
+    "peplum",
+    "sheer-chiffon",
+    "slip-dress"
    ],
    "bioShort": "Launched 1969 by Achille Maramotti as Max Mara's experimental offshoot; precision tailoring and material research."
   },
@@ -1486,10 +1594,16 @@
    "cd": "Anna Molinari",
    "parent": "Blufin",
    "trends": [
+    "aughts-glam",
+    "boudoir",
+    "embroidery",
     "feather-trim",
-    "lingerie-details",
     "lace",
-    "embroidery"
+    "lingerie-details",
+    "romantic-maximalism",
+    "sheer-chiffon",
+    "slip-dress",
+    "sporty-femme"
    ],
    "bioShort": "Italian label by Anna Molinari, the 'queen of roses'; romantic, rose-strewn femininity from a family business."
   },
@@ -1523,11 +1637,13 @@
    "cd": "Demna",
    "parent": "Kering",
    "trends": [
-    "sky-high-heels",
     "animal-print",
-    "lace",
     "aughts-glam",
-    "statement-jewelry"
+    "heritage-british",
+    "lace",
+    "sky-high-heels",
+    "statement-skirt",
+    "waist-cinch"
    ],
    "bioShort": "Founded 1921 in Florence by Guccio Gucci as a leather-luggage maker; Demna became creative director in 2025."
   },
@@ -1560,7 +1676,10 @@
    "website": "http://www.simoncrackermilano.com/",
    "cd": "Simone Cracker",
    "parent": "Independent",
-   "bioShort": "Milan label built on patchwork and upcycling old clothes and materials since 2010."
+   "bioShort": "Milan label built on patchwork and upcycling old clothes and materials since 2010.",
+   "trends": [
+    "leather-look"
+   ]
   },
   {
    "id": "elisabetta-franchi-spring-summer-2027-milan",
@@ -1592,8 +1711,16 @@
    "cd": "Elisabetta Franchi",
    "parent": "Betty Blue S.p.A.",
    "trends": [
-    "fringe",
-    "waist-cinch"
+    "all-black",
+    "animal-print",
+    "embroidery",
+    "gloves",
+    "heritage-british",
+    "lace",
+    "leather-look",
+    "lingerie-details",
+    "slip-dress",
+    "sporty-femme"
    ],
    "bioShort": "Bologna's Elisabetta Franchi founded her brand in 1998; flattering accessible luxury, fur-free since 2012."
   },
@@ -1627,8 +1754,10 @@
    "cd": "Nicoletta Spagnoli",
    "parent": "Spagnoli family",
    "trends": [
-    "embroidery",
-    "painterly-floral"
+    "lingerie-details",
+    "satin",
+    "statement-jewelry",
+    "waist-cinch"
    ],
    "bioShort": "Founded 1928 in Perugia by Luisa Spagnoli, who built the house on angora knitwear; now led by Nicoletta Spagnoli."
   },
@@ -1664,6 +1793,8 @@
    "trends": [
     "boudoir",
     "feather-trim",
+    "lingerie-details",
+    "undone-luxe",
     "waist-cinch"
    ],
    "bioShort": "Founded 2016 by Gilda Ambrosio and Giorgia Tordini; nocturnal Milan glamour in shimmering, body-conscious silhouettes."
@@ -1697,7 +1828,11 @@
    "website": "https://neithanherbert.com/",
    "cd": "Neithan Herbert",
    "parent": null,
-   "bioShort": "Mexican-Ecuadorian designer Neithan Herbert: romantic, artisanal collections rooted in Indigenous heritage."
+   "bioShort": "Mexican-Ecuadorian designer Neithan Herbert: romantic, artisanal collections rooted in Indigenous heritage.",
+   "trends": [
+    "draped-wrap",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "ermanno-scervino-spring-summer-2027-milan",
@@ -1729,9 +1864,13 @@
    "cd": "Ermanno Scervino",
    "parent": "Independent",
    "trends": [
-    "sheer-chiffon",
+    "denim",
+    "feather-trim",
     "lace",
-    "lingerie-details"
+    "lingerie-details",
+    "quiet-craft",
+    "satin",
+    "slip-dress"
    ],
    "bioShort": "Founded 2000 in Florence by Ermanno Scervino; sportswear ease with couture-level Florentine craftsmanship."
   },
@@ -1765,10 +1904,12 @@
    "cd": "Maximilian Davis",
    "parent": "Independent",
    "trends": [
-    "waist-cinch",
+    "draped-wrap",
+    "leather-look",
     "sheer-chiffon",
+    "statement-jewelry",
     "statement-skirt",
-    "leather-look"
+    "waist-cinch"
    ],
    "bioShort": "Founded 1927 by Salvatore Ferragamo, Hollywood's golden-age shoemaker; Maximilian Davis has been creative director since 2022."
   },
@@ -1802,11 +1943,17 @@
    "cd": "Domenico Dolce & Stefano Gabbana",
    "parent": "Independent",
    "trends": [
-    "tweed-boucle",
     "animal-print",
+    "archival-revival",
+    "brocade",
+    "brooch",
+    "embroidery",
+    "lace",
     "lingerie-details",
-    "fringe",
-    "romantic-maximalism"
+    "open-knit",
+    "romantic-maximalism",
+    "slip-dress",
+    "tweed-boucle"
    ],
    "bioShort": "Founded 1985 in Legnano by Domenico Dolce and Stefano Gabbana; Italian glamour and sensuality."
   },
@@ -1840,7 +1987,7 @@
    "cd": "Massimo Giorgetti",
    "parent": "Independent",
    "trends": [
-    "sheer-chiffon"
+    "painterly-floral"
    ],
    "bioShort": "Founded 2009 in Milan by Massimo Giorgetti; Italian tailoring fused with youthful, Technicolor sportswear."
   },
@@ -1875,9 +2022,9 @@
    "parent": "Biagiotti family",
    "trends": [
     "feather-trim",
-    "embroidery",
-    "sheer-chiffon",
-    "open-knit"
+    "lingerie-details",
+    "open-knit",
+    "sheer-chiffon"
    ],
    "bioShort": "Founded 1972 by Laura Biagiotti, the 'Queen of Cashmere'; now led by her daughter Lavinia Biagiotti Cigna."
   },
@@ -1910,7 +2057,10 @@
    "website": "https://actn1.com",
    "cd": "Luca Lin",
    "parent": null,
-   "bioShort": "Founded 2016 by Luca Lin; tailoring fused with tulle ruffles and deconstructed hybrid garments."
+   "bioShort": "Founded 2016 by Luca Lin; tailoring fused with tulle ruffles and deconstructed hybrid garments.",
+   "trends": [
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "marco-rambaldi-spring-summer-2027-milan",
@@ -1941,7 +2091,14 @@
    "website": "https://www.marco-rambaldi.com/",
    "cd": "Marco Rambaldi",
    "parent": "Independent",
-   "bioShort": "Bologna designer Marco Rambaldi; inclusivity, upcycling and a gender-fluid aesthetic rooted in 1970s Italy."
+   "bioShort": "Bologna designer Marco Rambaldi; inclusivity, upcycling and a gender-fluid aesthetic rooted in 1970s Italy.",
+   "trends": [
+    "denim",
+    "draped-wrap",
+    "open-knit",
+    "quiet-craft",
+    "slip-dress"
+   ]
   },
   {
    "id": "victor-hart-spring-summer-2027-milan",
@@ -2007,10 +2164,9 @@
    "cd": "Louise Trotter",
    "parent": "Kering",
    "trends": [
-    "leather-look",
     "fringe",
-    "lace",
-    "bubble-hem",
+    "relaxed-tailoring",
+    "statement-skirt",
     "waist-cinch"
    ],
    "bioShort": "Founded 1966 in Vicenza; intrecciato woven leather, now led by creative director Louise Trotter."
@@ -2045,8 +2201,9 @@
    "cd": "Philipp Plein",
    "parent": "Plein Group",
    "trends": [
-    "leather-look",
-    "embroidery"
+    "denim",
+    "embroidery",
+    "leather-look"
    ],
    "bioShort": "Founded 1998 by Philipp Plein; maximalist, rhinestone-heavy luxury streetwear, based in Lugano."
   },
@@ -2080,8 +2237,8 @@
    "cd": "Zhao Huizhou",
    "parent": null,
    "trends": [
-    "sheer-chiffon",
-    "embroidery"
+    "quiet-craft",
+    "sheer-chiffon"
    ],
    "bioShort": "Founded 2007 by Zhao Huizhou: Chinese heritage crafts — Miao embroidery, silver, silk — in contemporary womenswear."
   },
@@ -2115,9 +2272,12 @@
    "cd": "Silvana Armani",
    "parent": "Independent",
    "trends": [
-    "sheer-chiffon",
+    "archival-revival",
     "embroidery",
-    "lingerie-details"
+    "lingerie-details",
+    "relaxed-tailoring",
+    "sheer-chiffon",
+    "sporty-femme"
    ],
    "bioShort": "Founded 1975; deconstructed minimalist tailoring — now led by Silvana Armani after Giorgio's 2025 passing."
   },
@@ -2151,8 +2311,13 @@
    "cd": "Marta Marques & Paulo Almeida",
    "parent": "Independent",
    "trends": [
-    "peplum",
+    "brocade",
     "denim",
+    "draped-wrap",
+    "lace",
+    "peplum",
+    "romantic-maximalism",
+    "satin",
     "undone-luxe"
    ],
    "bioShort": "Founded 2011 in London by Marta Marques and Paulo Almeida; distressed, reworked denim; LVMH Prize winners."
@@ -2248,7 +2413,11 @@
    "website": "https://francescaliberatore.it/",
    "cd": "Francesca Liberatore",
    "parent": null,
-   "bioShort": "Rome label founded 2009 by Francesca Liberatore; CSM-trained, formerly with Viktor&Rolf and Gaultier."
+   "bioShort": "Rome label founded 2009 by Francesca Liberatore; CSM-trained, formerly with Viktor&Rolf and Gaultier.",
+   "trends": [
+    "bold-stripes",
+    "embroidery"
+   ]
   },
   {
    "id": "miguel-vieira-spring-summer-2027-milan",
@@ -2279,7 +2448,12 @@
    "website": "https://miguelvieira.pt/",
    "cd": "Miguel Vieira",
    "parent": null,
-   "bioShort": "Founded 1988 by Portuguese designer Miguel Vieira; refined tailoring and silk eveningwear from Portugal Fashion."
+   "bioShort": "Founded 1988 by Portuguese designer Miguel Vieira; refined tailoring and silk eveningwear from Portugal Fashion.",
+   "trends": [
+    "all-black",
+    "embroidery",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "uni-form-spring-summer-2027-milan",
@@ -2372,7 +2546,12 @@
    "website": null,
    "cd": "Timisola Shasanya",
    "parent": null,
-   "bioShort": "London menswear exploring migration and identity through sculptural textiles; Sarabande scholar."
+   "bioShort": "London menswear exploring migration and identity through sculptural textiles; Sarabande scholar.",
+   "trends": [
+    "heritage-british",
+    "leather-look",
+    "shrunken-jacket"
+   ]
   },
   {
    "id": "mastewal-alemu-spring-summer-2027-milan",
@@ -3170,9 +3349,11 @@
    "cd": "Julie Kegels",
    "parent": null,
    "trends": [
-    "lingerie-details",
-    "embroidery",
     "denim",
+    "lingerie-details",
+    "mesh",
+    "off-shoulder",
+    "sheer-chiffon",
     "undone-luxe"
    ],
    "bioShort": "Antwerp-trained Julie Kegels founded her label in 2024; sculptural construction exploring feminine archetypes."
@@ -3237,7 +3418,13 @@
    "website": "https://kimhekim.com/collections/archive-sale",
    "cd": "Kiminte Kimhekim",
    "parent": null,
-   "bioShort": "Kiminte Kimhekim's label, known for couture-influenced pearls, bows and conceptual construction."
+   "bioShort": "Kiminte Kimhekim's label, known for couture-influenced pearls, bows and conceptual construction.",
+   "trends": [
+    "archival-revival",
+    "draped-wrap",
+    "quiet-craft",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "weinsanto-spring-summer-2027-paris",
@@ -3270,8 +3457,9 @@
    "parent": null,
    "trends": [
     "animal-print",
+    "aughts-glam",
     "lingerie-details",
-    "embroidery"
+    "sheer-chiffon"
    ],
    "bioShort": "Founded in Paris in 2020 by Victor Weinsanto; theatrical luxury blending humor, eccentricity and precise craft."
   },
@@ -3336,9 +3524,7 @@
    "cd": "Laduma Ngxokolo",
    "parent": null,
    "trends": [
-    "tassels",
-    "feather-trim",
-    "embroidery"
+    "tassels"
    ],
    "bioShort": "Launched 2012 by Laduma Ngxokolo; luxury knitwear translating Xhosa beadwork into bold contemporary patterns."
   },
@@ -3372,8 +3558,9 @@
    "cd": "Ellen Hodakova Larsson",
    "parent": null,
    "trends": [
+    "all-black",
+    "leather-look",
     "slip-dress",
-    "open-knit",
     "undone-luxe"
    ],
    "bioShort": "Founded 2021 in Stockholm by Ellen Hodakova Larsson; deconstructed pieces from vintage and deadstock materials."
@@ -3408,10 +3595,12 @@
    "cd": "Hannah Rose Dalton & Steven Raj Bhaskaran",
    "parent": null,
    "trends": [
-    "feather-trim",
-    "tweed-boucle",
-    "gold-metallic",
-    "statement-jewelry"
+    "denim",
+    "draped-wrap",
+    "embroidery",
+    "leather-look",
+    "statement-skirt",
+    "undone-luxe"
    ],
    "bioShort": "Founded 2014 in Montreal by Hannah Rose Dalton and Steven Raj Bhaskaran; post-human glamour as performance art."
   },
@@ -3445,9 +3634,12 @@
    "cd": "Ester Manas & Balthazar Delepierre",
    "parent": null,
    "trends": [
-    "lingerie-details",
+    "animal-print",
+    "boudoir",
     "lace",
-    "slip-dress"
+    "lingerie-details",
+    "mesh",
+    "undone-luxe"
    ],
    "bioShort": "Founded 2019 by Ester Manas and Balthazar Delepierre: size-inclusive womenswear cut from deadstock."
   },
@@ -3512,9 +3704,9 @@
    "cd": "Ditte Reffstrup",
    "parent": null,
    "trends": [
+    "butter-yellow",
     "denim",
-    "sheer-chiffon",
-    "americana-prep"
+    "sheer-chiffon"
    ],
    "bioShort": "Copenhagen label that began as cashmere knitwear around 2000; Ditte Reffstrup has been creative director since 2009."
   },
@@ -3579,9 +3771,11 @@
    "cd": "Maiko Kurogouchi",
    "parent": null,
    "trends": [
-    "embroidery",
+    "americana-prep",
     "brooch",
-    "lace"
+    "embroidery",
+    "lace",
+    "quiet-craft"
    ],
    "bioShort": "Founded 2010 in Tokyo by Maiko Kurogouchi; Japanese craft and advanced textile technology in wearable construction."
   },
@@ -3615,11 +3809,12 @@
    "cd": "Jonathan Anderson",
    "parent": "LVMH",
    "trends": [
-    "sheer-chiffon",
-    "statement-skirt",
+    "animal-print",
+    "fringe",
     "lace",
-    "embroidery",
-    "peplum"
+    "lingerie-details",
+    "peplum",
+    "sheer-chiffon"
    ],
    "bioShort": "Founded 1946 by Christian Dior; the 1947 New Look still anchors the house, now led by Jonathan Anderson."
   },
@@ -3654,7 +3849,7 @@
    "parent": null,
    "trends": [
     "draped-wrap",
-    "leather-look"
+    "sheer-chiffon"
    ],
    "bioShort": "Paris label of French-Turkish designer Burç Akyol; sensual, fluid, genderless tailoring with Turkish references."
   },
@@ -3688,10 +3883,12 @@
    "cd": "Glenn Martens",
    "parent": null,
    "trends": [
-    "brocade",
-    "satin",
     "denim",
-    "lace"
+    "draped-wrap",
+    "leather-look",
+    "lingerie-details",
+    "mesh",
+    "undone-luxe"
    ],
    "bioShort": "Founded 1988 in Paris by Martin Margiela and Jenny Meirens; deconstruction and the Artisanal line. Glenn Martens leads."
   },
@@ -3724,7 +3921,12 @@
    "website": "https://anrealage.com/",
    "cd": "Kunihiko Morinaga",
    "parent": null,
-   "bioShort": "Founded 2003 in Tokyo by Kunihiko Morinaga; technology-driven, shape-shifting design unconstrained by the body."
+   "bioShort": "Founded 2003 in Tokyo by Kunihiko Morinaga; technology-driven, shape-shifting design unconstrained by the body.",
+   "trends": [
+    "animal-print",
+    "embroidery",
+    "lingerie-details"
+   ]
   },
   {
    "id": "saint-laurent-spring-summer-2027-paris",
@@ -3756,10 +3958,12 @@
    "cd": "Anthony Vaccarello",
    "parent": "Kering",
    "trends": [
-    "gold-metallic",
+    "all-black",
     "brocade",
+    "gold-metallic",
     "lace",
-    "aughts-glam"
+    "satin",
+    "statement-skirt"
    ],
    "bioShort": "Founded 1961 by Yves Saint Laurent and Pierre Bergé; Le Smoking in womenswear. Anthony Vaccarello leads since 2016."
   },
@@ -3855,8 +4059,12 @@
    "cd": "Drew Henry",
    "parent": "Coty",
    "trends": [
+    "archival-revival",
+    "butter-yellow",
+    "denim",
     "headwear",
-    "undone-luxe"
+    "shrunken-jacket",
+    "waist-cinch"
    ],
    "bioShort": "Founded 1961 by André Courrèges, pioneer of space-age fashion; Drew Henry presents his debut this season."
   },
@@ -3921,11 +4129,8 @@
    "cd": "Antonin Tron",
    "parent": "Mayhoola for Investments",
    "trends": [
-    "animal-print",
-    "off-shoulder",
-    "slip-dress",
-    "waist-cinch",
-    "satin"
+    "lingerie-details",
+    "shrunken-jacket"
    ],
    "bioShort": "Founded 1945 by Pierre Balmain; sculpted, glamorous tailoring. Antonin Tron became creative director in 2025."
   },
@@ -3990,9 +4195,12 @@
    "cd": "Julian Klausner",
    "parent": "Puig",
    "trends": [
+    "brocade",
     "brooch",
-    "statement-jewelry",
-    "sheer-chiffon"
+    "bubble-hem",
+    "midcentury-mod",
+    "satin",
+    "waist-cinch"
    ],
    "bioShort": "Founded 1986 by Belgian designer Dries Van Noten of the Antwerp Six; Julian Klausner became creative director in 2024."
   },
@@ -4026,8 +4234,9 @@
    "cd": "Alphonse Maitrepierre",
    "parent": null,
    "trends": [
+    "denim",
     "embroidery",
-    "denim"
+    "satin"
    ],
    "bioShort": "Founded 2019 in Paris by Alphonse Maitrepierre; old-world aesthetics, geek culture and eco-innovative materials."
   },
@@ -4061,11 +4270,8 @@
    "cd": "Stella McCartney",
    "parent": "Independent (LVMH minority stake)",
    "trends": [
-    "bubble-hem",
-    "embroidery",
-    "sheer-chiffon",
-    "sporty-femme",
-    "peplum"
+    "denim",
+    "relaxed-tailoring"
    ],
    "bioShort": "Founded 2001 in London by Stella McCartney; leather- and fur-free from day one, now with plant-based innovations."
   },
@@ -4098,7 +4304,12 @@
    "website": "https://vaquera.nyc/",
    "cd": "Bryn Taubensee & Patric DiCaprio",
    "parent": null,
-   "bioShort": "Founded 2013 in New York by Patric DiCaprio; 'fashion fan fiction' — oversized, subversive, DIY-informed design."
+   "bioShort": "Founded 2013 in New York by Patric DiCaprio; 'fashion fan fiction' — oversized, subversive, DIY-informed design.",
+   "trends": [
+    "headwear",
+    "heritage-british",
+    "shrunken-jacket"
+   ]
   },
   {
    "id": "acne-studios-spring-summer-2027-paris",
@@ -4130,10 +4341,11 @@
    "cd": "Jonny Johansson",
    "parent": "Independent",
    "trends": [
-    "denim",
-    "brocade",
     "brooch",
-    "satin"
+    "bubble-hem",
+    "denim",
+    "leather-look",
+    "shrunken-jacket"
    ],
    "bioShort": "Founded 1996 in Stockholm by Jonny Johansson; the ACNE creative collective spans art, photography and design."
   },
@@ -4167,11 +4379,12 @@
    "cd": "Haider Ackermann",
    "parent": "Estée Lauder Companies",
    "trends": [
-    "sheer-chiffon",
+    "boudoir",
+    "leather-look",
     "lingerie-details",
-    "off-shoulder",
-    "embroidery",
-    "undone-luxe"
+    "mesh",
+    "sheer-chiffon",
+    "sky-high-heels"
    ],
    "bioShort": "Founded 2005 by Tom Ford after Gucci and Saint Laurent; Haider Ackermann is creative director."
   },
@@ -4204,7 +4417,12 @@
    "website": "https://chloe.com/",
    "cd": "Chemena Kamali",
    "parent": "Richemont",
-   "bioShort": "Paris house founded 1952 by Gaby Aghion; bohemian romantic femininity, now under Chemena Kamali."
+   "bioShort": "Paris house founded 1952 by Gaby Aghion; bohemian romantic femininity, now under Chemena Kamali.",
+   "trends": [
+    "embroidery",
+    "lace",
+    "tassels"
+   ]
   },
   {
    "id": "junko-shimada-spring-summer-2027-paris",
@@ -4266,7 +4484,15 @@
    "website": "https://alainpaulstudio.com",
    "cd": "Alain Paul",
    "parent": null,
-   "bioShort": "Dance-led unisex label founded 2023 in Paris by Alain Paul; sculptural tailoring conceived as choreography."
+   "bioShort": "Dance-led unisex label founded 2023 in Paris by Alain Paul; sculptural tailoring conceived as choreography.",
+   "trends": [
+    "draped-wrap",
+    "lingerie-details",
+    "quiet-craft",
+    "sheer-chiffon",
+    "statement-skirt",
+    "undone-luxe"
+   ]
   },
   {
    "id": "carven-spring-summer-2027-paris",
@@ -4297,7 +4523,14 @@
    "website": "https://carven.com/",
    "cd": "Kai Nesselrath",
    "parent": "Independent",
-   "bioShort": "Founded 1945 by Marie-Madeleine Carven; Kai Nesselrath debuts as creative director this season."
+   "bioShort": "Founded 1945 by Marie-Madeleine Carven; Kai Nesselrath debuts as creative director this season.",
+   "trends": [
+    "draped-wrap",
+    "embroidery",
+    "midcentury-mod",
+    "relaxed-tailoring",
+    "undone-luxe"
+   ]
   },
   {
    "id": "balenciaga-spring-summer-2027-paris-rtw",
@@ -4328,7 +4561,15 @@
    "website": "https://www.balenciaga.com",
    "cd": "Pierpaolo Piccioli",
    "parent": "Kering",
-   "bioShort": "Founded 1919 by Cristóbal Balenciaga; a technician's house of sculptural tailoring, now led by Pierpaolo Piccioli."
+   "bioShort": "Founded 1919 by Cristóbal Balenciaga; a technician's house of sculptural tailoring, now led by Pierpaolo Piccioli.",
+   "trends": [
+    "denim",
+    "fringe",
+    "off-shoulder",
+    "peplum",
+    "quiet-craft",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "cecilie-bahnsen-spring-summer-2027-paris",
@@ -4359,7 +4600,14 @@
    "website": "https://www.ceciliebahnsen.com",
    "cd": "Cecilie Bahnsen",
    "parent": "Independent",
-   "bioShort": "Founded 2015 in Copenhagen by Cecilie Bahnsen; voluminous, sculptural dresses in technical fabrics."
+   "bioShort": "Founded 2015 in Copenhagen by Cecilie Bahnsen; voluminous, sculptural dresses in technical fabrics.",
+   "trends": [
+    "denim",
+    "draped-wrap",
+    "embroidery",
+    "lace",
+    "lingerie-details"
+   ]
   },
   {
    "id": "uma-wang-spring-summer-2027-paris",
@@ -4390,7 +4638,13 @@
    "website": "https://umawang.com/",
    "cd": "Uma Wang",
    "parent": null,
-   "bioShort": "Uma Wang's namesake label; textile-led draped construction bridging Chinese heritage and European craft."
+   "bioShort": "Uma Wang's namesake label; textile-led draped construction bridging Chinese heritage and European craft.",
+   "trends": [
+    "brooch",
+    "draped-wrap",
+    "mesh",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "icicle-spring-summer-2027-paris",
@@ -4421,7 +4675,13 @@
    "website": "https://eu.icicle.com",
    "cd": null,
    "parent": null,
-   "bioShort": "Shanghai minimalist eco-luxury label founded 1997; natural materials, pared-back nature-inspired design."
+   "bioShort": "Shanghai minimalist eco-luxury label founded 1997; natural materials, pared-back nature-inspired design.",
+   "trends": [
+    "embroidery",
+    "fringe",
+    "relaxed-tailoring",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "rick-owens-spring-summer-2027-paris",
@@ -4452,7 +4712,12 @@
    "website": "https://www.rickowens.eu/en-gb/",
    "cd": "Rick Owens",
    "parent": null,
-   "bioShort": "Founded 1994 in Los Angeles; gothic, grunge-inflected architectural silhouettes from an independent voice."
+   "bioShort": "Founded 1994 in Los Angeles; gothic, grunge-inflected architectural silhouettes from an independent voice.",
+   "trends": [
+    "denim",
+    "embroidery",
+    "leather-look"
+   ]
   },
   {
    "id": "gauchere-spring-summer-2027-paris",
@@ -4483,7 +4748,15 @@
    "website": "https://gauchere.com/pages/about",
    "cd": "Marie-Christine Statz",
    "parent": null,
-   "bioShort": "Founded 2013 in Paris by Marie-Christine Statz; clean-cut tailoring with a sharp, architectural hand."
+   "bioShort": "Founded 2013 in Paris by Marie-Christine Statz; clean-cut tailoring with a sharp, architectural hand.",
+   "trends": [
+    "draped-wrap",
+    "leather-look",
+    "lingerie-details",
+    "low-rise-wide-leg",
+    "relaxed-tailoring",
+    "waist-cinch"
+   ]
   },
   {
    "id": "schiaparelli-spring-summer-2027-paris-rtw",
@@ -4514,7 +4787,14 @@
    "website": "https://www.schiaparelli.com",
    "cd": "Daniel Roseberry",
    "parent": null,
-   "bioShort": "Elsa Schiaparelli founded the house in 1927, revived 2012; Daniel Roseberry brings surrealist codes to ready-to-wear."
+   "bioShort": "Elsa Schiaparelli founded the house in 1927, revived 2012; Daniel Roseberry brings surrealist codes to ready-to-wear.",
+   "trends": [
+    "butter-yellow",
+    "draped-wrap",
+    "embroidery",
+    "leather-look",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "isabel-marant-spring-summer-2027-paris",
@@ -4545,7 +4825,13 @@
    "website": "https://isabelmarant.com/",
    "cd": "Kim Bekker",
    "parent": null,
-   "bioShort": "Founded 1995 in Paris by Isabel Marant; relaxed, irreverent Parisian luxury with bohemian ease."
+   "bioShort": "Founded 1995 in Paris by Isabel Marant; relaxed, irreverent Parisian luxury with bohemian ease.",
+   "trends": [
+    "archival-revival",
+    "embroidery",
+    "open-knit",
+    "painterly-floral"
+   ]
   },
   {
    "id": "l-onard-paris-spring-summer-2027-paris",
@@ -4638,7 +4924,13 @@
    "website": "https://www.loewe.com",
    "cd": "Jack McCollough & Lazaro Hernandez",
    "parent": "LVMH",
-   "bioShort": "Spanish leather house dating to 1846; now co-directed by Jack McCollough and Lazaro Hernandez."
+   "bioShort": "Spanish leather house dating to 1846; now co-directed by Jack McCollough and Lazaro Hernandez.",
+   "trends": [
+    "embroidery",
+    "leather-look",
+    "quiet-craft",
+    "sporty-femme"
+   ]
   },
   {
    "id": "issey-miyake-spring-summer-2027-paris",
@@ -4669,7 +4961,13 @@
    "website": "https://isseymiyake.com/",
    "cd": "Satoshi Kondo",
    "parent": null,
-   "bioShort": "Tokyo studio founded 1970; textile experimentation and pleating, directed by Satoshi Kondo."
+   "bioShort": "Tokyo studio founded 1970; textile experimentation and pleating, directed by Satoshi Kondo.",
+   "trends": [
+    "bubble-hem",
+    "headwear",
+    "mesh",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "jitrois-spring-summer-2027-paris",
@@ -4700,7 +4998,11 @@
    "website": "https://jitrois.com/en-us/blogs/journal/ari-lennox-x-jitrois",
    "cd": "Tristan Van Bruwaene & Jay Wilson",
    "parent": null,
-   "bioShort": "Leather couture house founded 1983 by Jean-Claude Jitrois; famed for stretch leather, second-skin construction."
+   "bioShort": "Leather couture house founded 1983 by Jean-Claude Jitrois; famed for stretch leather, second-skin construction.",
+   "trends": [
+    "leather-look",
+    "undone-luxe"
+   ]
   },
   {
    "id": "casablanca-spring-summer-2027-paris",
@@ -4731,7 +5033,11 @@
    "website": "https://casablancaparis.com/",
    "cd": "Charaf Tajer",
    "parent": null,
-   "bioShort": "Après-sport luxury founded 2018 by Charaf Tajer; hand-painted prints and Riviera-inflected tailoring."
+   "bioShort": "Après-sport luxury founded 2018 by Charaf Tajer; hand-painted prints and Riviera-inflected tailoring.",
+   "trends": [
+    "draped-wrap",
+    "painterly-floral"
+   ]
   },
   {
    "id": "lanvin-spring-summer-2027-paris",
@@ -4762,7 +5068,10 @@
    "website": "https://www.lanvin.com",
    "cd": "Peter Copping",
    "parent": "Lanvin Group (Fosun International)",
-   "bioShort": "Founded 1889 by Jeanne Lanvin, the oldest French house still operating; Peter Copping is artistic director."
+   "bioShort": "Founded 1889 by Jeanne Lanvin, the oldest French house still operating; Peter Copping is artistic director.",
+   "trends": [
+    "peplum"
+   ]
   },
   {
    "id": "reverie-by-caroline-h-spring-summer-2027-paris",
@@ -4824,7 +5133,11 @@
    "website": "https://ottolinger.com",
    "cd": "Christa Bosch & Cosima Gadient",
    "parent": "Independent",
-   "bioShort": "Berlin-founded label by Christa Bosch and Cosima Gadient; raw-edged tailoring with pre-loved pieces."
+   "bioShort": "Berlin-founded label by Christa Bosch and Cosima Gadient; raw-edged tailoring with pre-loved pieces.",
+   "trends": [
+    "lingerie-details",
+    "undone-luxe"
+   ]
   },
   {
    "id": "givenchy-spring-summer-2027-paris",
@@ -4855,7 +5168,12 @@
    "website": "https://www.givenchy.com",
    "cd": "Sarah Burton",
    "parent": "LVMH",
-   "bioShort": "Founded 1952 by Hubert de Givenchy; Hepburn-era elegance now under Sarah Burton's direction."
+   "bioShort": "Founded 1952 by Hubert de Givenchy; Hepburn-era elegance now under Sarah Burton's direction.",
+   "trends": [
+    "draped-wrap",
+    "leather-look",
+    "statement-skirt"
+   ]
   },
   {
    "id": "yohji-yamamoto-spring-summer-2027-paris",
@@ -4886,7 +5204,10 @@
    "website": "https://yohjiyamamoto.co.jp/",
    "cd": "Yohji Yamamoto",
    "parent": "Independent",
-   "bioShort": "Yohji Yamamoto's independently owned house; dark, fluid deconstruction since his 1981 Paris arrival."
+   "bioShort": "Yohji Yamamoto's independently owned house; dark, fluid deconstruction since his 1981 Paris arrival.",
+   "trends": [
+    "undone-luxe"
+   ]
   },
   {
    "id": "victoria-beckham-spring-summer-2027-paris",
@@ -4917,7 +5238,14 @@
    "website": "https://victoriabeckham.com/",
    "cd": "Victoria Beckham",
    "parent": null,
-   "bioShort": "Launched 2008 by Victoria Beckham in London; precise cuts and body-conscious tailoring in understated luxury."
+   "bioShort": "Launched 2008 by Victoria Beckham in London; precise cuts and body-conscious tailoring in understated luxury.",
+   "trends": [
+    "draped-wrap",
+    "relaxed-tailoring",
+    "sheer-chiffon",
+    "slip-dress",
+    "waist-cinch"
+   ]
   },
   {
    "id": "barbara-bui-spring-summer-2027-paris",
@@ -4948,7 +5276,12 @@
    "website": "https://barbarabui.com/",
    "cd": "Barbara Bui",
    "parent": null,
-   "bioShort": "Founded 1987 in Paris by Barbara Bui; leather, rock energy and sharp, androgynous tailoring."
+   "bioShort": "Founded 1987 in Paris by Barbara Bui; leather, rock energy and sharp, androgynous tailoring.",
+   "trends": [
+    "draped-wrap",
+    "lace",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "junya-watanabe-spring-summer-2027-paris",
@@ -5289,7 +5622,13 @@
    "website": "https://www.anndemeulemeester.com",
    "cd": "Stefano Gallici",
    "parent": "Antonioli Group",
-   "bioShort": "Founded by Antwerp Six member Ann Demeulemeester; dark, poetic tailoring. Stefano Gallici leads since 2023."
+   "bioShort": "Founded by Antwerp Six member Ann Demeulemeester; dark, poetic tailoring. Stefano Gallici leads since 2023.",
+   "trends": [
+    "denim",
+    "leather-look",
+    "sheer-chiffon",
+    "slip-dress"
+   ]
   },
   {
    "id": "margaret-howell-spring-summer-2027-paris",
@@ -6624,8 +6963,11 @@
    "parent": "Tapestry, Inc.",
    "trends": [
     "headwear",
-    "undone-luxe",
-    "romantic-maximalism"
+    "leather-look",
+    "open-knit",
+    "relaxed-tailoring",
+    "sporty-femme",
+    "undone-luxe"
    ],
    "bioShort": "American leather house founded 1941 in New York; Stuart Vevers' direction leans youthful downtown Americana."
   },
@@ -6659,11 +7001,18 @@
    "cd": "Ralph Lauren",
    "parent": "Ralph Lauren Corporation",
    "trends": [
-    "fringe",
-    "low-rise-wide-leg",
+    "archival-revival",
+    "brocade",
     "brooch",
+    "denim",
+    "embroidery",
+    "feather-trim",
+    "fringe",
+    "headwear",
+    "low-rise-wide-leg",
     "painterly-floral",
-    "feather-trim"
+    "shrunken-jacket",
+    "waist-cinch"
    ],
    "bioShort": "Founded in 1967 by Ralph Lauren; aspirational preppy American style, the polo player logo among the most recognized in fashion."
   },
@@ -6697,11 +7046,14 @@
    "cd": "Jasmin Larian",
    "parent": "Independent",
    "trends": [
-    "animal-print",
+    "embroidery",
     "fringe",
-    "feather-trim",
     "gold-metallic",
-    "headwear"
+    "painterly-floral",
+    "romantic-maximalism",
+    "sheer-chiffon",
+    "statement-jewelry",
+    "tweed-boucle"
    ],
    "bioShort": "Founded in 2012 by Jasmin Larian in Los Angeles; best known for the bamboo Ark bag and resort-driven silhouettes."
   },
@@ -6735,8 +7087,13 @@
    "cd": "Rachel Comey",
    "parent": "Independent",
    "trends": [
+    "cobalt-blue",
     "fringe",
-    "all-black"
+    "lace",
+    "relaxed-tailoring",
+    "satin",
+    "sporty-femme",
+    "undone-luxe"
    ],
    "bioShort": "Founded in 2001 by Rachel Comey in New York; architectural, artisanal womenswear with an unconventional edge."
   },
@@ -6769,7 +7126,14 @@
    "website": "https://ilovelibertine.com/",
    "cd": "Johnson Hartig",
    "parent": "Independent",
-   "bioShort": "Founded in 2000 by Johnson Hartig in Los Angeles; whimsical, screen-printed, embellished pieces built from vintage garments."
+   "bioShort": "Founded in 2000 by Johnson Hartig in Los Angeles; whimsical, screen-printed, embellished pieces built from vintage garments.",
+   "trends": [
+    "bold-stripes",
+    "embroidery",
+    "gold-metallic",
+    "headwear",
+    "romantic-maximalism"
+   ]
   },
   {
    "id": "diane-von-furstenberg-spring-summer-2027-new-york",
@@ -6801,11 +7165,15 @@
    "cd": "Henry Zankov",
    "parent": "Independent",
    "trends": [
-    "archival-revival",
-    "bold-stripes",
     "animal-print",
-    "sheer-chiffon",
-    "draped-wrap"
+    "archival-revival",
+    "boudoir",
+    "draped-wrap",
+    "hot-shorts",
+    "off-shoulder",
+    "relaxed-tailoring",
+    "satin",
+    "sheer-chiffon"
    ],
    "bioShort": "Founded in 1970 by Diane von Furstenberg, who invented the wrap dress in 1974; Henry Zankov became artistic director in 2026."
   },
@@ -6838,7 +7206,12 @@
    "website": "https://www.bodenewyork.com",
    "cd": "Emily Adams Bode Aujla",
    "parent": "Independent",
-   "bioShort": "Founded in 2016 by Emily Adams Bode Aujla in New York; built around vintage quilts, antique textiles, and repurposed material."
+   "bioShort": "Founded in 2016 by Emily Adams Bode Aujla in New York; built around vintage quilts, antique textiles, and repurposed material.",
+   "trends": [
+    "animal-print",
+    "denim",
+    "fringe"
+   ]
   },
   {
    "id": "eckhaus-latta-spring-summer-2027-new-york",
@@ -6869,7 +7242,13 @@
    "website": "https://www.eckhauslatta.com",
    "cd": "Mike Eckhaus & Zoe Latta",
    "parent": "Independent",
-   "bioShort": "Founded 2011 in LA by Mike Eckhaus and Zoe Latta; raw, unfinished construction, now showing in New York."
+   "bioShort": "Founded 2011 in LA by Mike Eckhaus and Zoe Latta; raw, unfinished construction, now showing in New York.",
+   "trends": [
+    "americana-prep",
+    "lingerie-details",
+    "mesh",
+    "slip-dress"
+   ]
   },
   {
    "id": "conner-ives-spring-summer-2027-new-york",
@@ -6901,10 +7280,11 @@
    "cd": "Conner Ives",
    "parent": "Independent",
    "trends": [
-    "fringe",
+    "art-deco",
+    "denim",
+    "embroidery",
     "feather-trim",
-    "animal-print",
-    "embroidery"
+    "fringe"
    ],
    "bioShort": "American designer based between London and New York; upcycles deadstock fabric and secondhand garments into new pieces."
   },
@@ -6938,11 +7318,14 @@
    "cd": "Catherine Holstein",
    "parent": "Independent",
    "trends": [
-    "lingerie-details",
-    "slip-dress",
+    "boudoir",
+    "lace",
     "leather-look",
-    "embroidery",
-    "shrunken-jacket"
+    "lingerie-details",
+    "midcentury-mod",
+    "peplum",
+    "romantic-maximalism",
+    "slip-dress"
    ],
    "bioShort": "Founded in 2016 by Catherine Holstein in New York; elevated, quietly sexy basics."
   },
@@ -6978,8 +7361,6 @@
    "trends": [
     "animal-print",
     "cobalt-blue",
-    "bold-stripes",
-    "denim",
     "quiet-craft"
    ],
    "bioShort": "Founded in 2002 by Jack McCollough and Lazaro Hernandez in New York; Rachel Scott became creative director in 2026."
@@ -7014,10 +7395,13 @@
    "cd": "Tory Burch",
    "parent": "Independent",
    "trends": [
-    "satin",
+    "butter-yellow",
+    "draped-wrap",
     "embroidery",
     "feather-trim",
-    "bold-stripes"
+    "midcentury-mod",
+    "quiet-craft",
+    "statement-jewelry"
    ],
    "bioShort": "Founded in 2004 by Tory Burch in New York; preppy-with-an-edge American style."
   },
@@ -7051,9 +7435,11 @@
    "cd": "Thom Browne",
    "parent": "Ermenegildo Zegna Group",
    "trends": [
+    "americana-prep",
     "embroidery",
-    "sheer-pencil-skirt",
-    "bubble-hem"
+    "shrunken-jacket",
+    "statement-skirt",
+    "tweed-boucle"
    ],
    "bioShort": "Founded in 2001 by Thom Browne in New York; signature shrunken gray suit and reinventions of American tailoring."
   },
@@ -7087,11 +7473,13 @@
    "cd": "Sabyasachi Mukherjee",
    "parent": "Independent",
    "trends": [
+    "americana-prep",
+    "denim",
     "embroidery",
-    "brocade",
     "gold-metallic",
-    "tweed-boucle",
-    "headwear"
+    "headwear",
+    "quiet-craft",
+    "statement-jewelry"
    ],
    "bioShort": "Founded in 1999 by Sabyasachi Mukherjee in Kolkata; opulent, heavily embroidered Indian bridal and couture."
   },
@@ -7125,8 +7513,10 @@
    "cd": "Trish Wescoat Pound",
    "parent": "Independent",
    "trends": [
+    "cobalt-blue",
     "fringe",
-    "cobalt-blue"
+    "peplum",
+    "waist-cinch"
    ],
    "bioShort": "New York womenswear label founded by Trish Wescoat Pound; dedicated to reimagining the modern woman's closet."
   },
@@ -7159,7 +7549,12 @@
    "website": "https://badbinch.com/",
    "cd": "Terrence Zhou",
    "parent": "Independent",
-   "bioShort": "Founded in 2021 by Terrence Zhou in New York; maximalist, fantastical silhouettes including balloon gowns and sculptural pieces."
+   "bioShort": "Founded in 2021 by Terrence Zhou in New York; maximalist, fantastical silhouettes including balloon gowns and sculptural pieces.",
+   "trends": [
+    "feather-trim",
+    "headwear",
+    "statement-skirt"
+   ]
   },
   {
    "id": "tommy-hilfiger-spring-summer-2027-new-york",
@@ -7191,10 +7586,11 @@
    "cd": "Tommy Hilfiger",
    "parent": "PVH Corp",
    "trends": [
-    "hot-shorts",
-    "bold-stripes",
     "americana-prep",
-    "heritage-british"
+    "bold-stripes",
+    "embroidery",
+    "headwear",
+    "hot-shorts"
    ],
    "bioShort": "Founded in 1985 by Tommy Hilfiger; preppy American sportswear built around the signature flag logo."
   },
@@ -7227,7 +7623,16 @@
    "website": "https://www.aliceandolivia.com",
    "cd": "Stacey Bendet",
    "parent": "Independent",
-   "bioShort": "Founded in 2002 by Stacey Bendet in New York; flirty, print-driven contemporary womenswear."
+   "bioShort": "Founded in 2002 by Stacey Bendet in New York; flirty, print-driven contemporary womenswear.",
+   "trends": [
+    "denim",
+    "embroidery",
+    "feather-trim",
+    "lace",
+    "painterly-floral",
+    "romantic-maximalism",
+    "satin"
+   ]
   },
   {
    "id": "kallmeyer-spring-summer-2027-new-york",
@@ -7259,10 +7664,10 @@
    "cd": "Daniella Kallmeyer",
    "parent": "Independent",
    "trends": [
-    "waist-cinch",
-    "embroidery",
-    "all-black",
-    "fringe"
+    "cobalt-blue",
+    "denim",
+    "fringe",
+    "waist-cinch"
    ],
    "bioShort": "Founded in 2012 by Daniella Kallmeyer in New York; fluid, body-conscious tailoring."
   },
@@ -7297,9 +7702,13 @@
    "parent": "Independent",
    "trends": [
     "aughts-glam",
-    "embroidery",
     "denim",
-    "romantic-maximalism"
+    "embroidery",
+    "lingerie-details",
+    "low-rise-wide-leg",
+    "romantic-maximalism",
+    "slip-dress",
+    "undone-luxe"
    ],
    "bioShort": "Founded in 2013 by Rebecca Hessel Cohen in New York; romantic, ruffled florals and theatrical presentations."
   },
@@ -7333,10 +7742,14 @@
    "cd": "Christian Siriano",
    "parent": "Independent",
    "trends": [
-    "leather-look",
     "embroidery",
+    "feather-trim",
+    "lace",
+    "leather-look",
     "painterly-floral",
-    "waist-cinch"
+    "romantic-maximalism",
+    "statement-jewelry",
+    "statement-skirt"
    ],
    "bioShort": "Founded in 2008 by Christian Siriano, winner of Project Runway's fourth season; red-carpet gowns in extended size ranges."
   },
@@ -7369,7 +7782,11 @@
    "website": "https://publicschoolnyc.com",
    "cd": "Dao-Yi Chow & Maxwell Osborne",
    "parent": "Independent",
-   "bioShort": "Founded in 2008 by Dao-Yi Chow and Maxwell Osborne in New York; utilitarian streetwear elevated into tailored ready-to-wear."
+   "bioShort": "Founded in 2008 by Dao-Yi Chow and Maxwell Osborne in New York; utilitarian streetwear elevated into tailored ready-to-wear.",
+   "trends": [
+    "headwear",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "kate-barton-spring-summer-2027-new-york",
@@ -7400,7 +7817,11 @@
    "website": "https://katebarton.com",
    "cd": "Kate Barton",
    "parent": "Independent",
-   "bioShort": "New York designer known for technology-enhanced shape engineering and fabric-first, sculptural experimentation."
+   "bioShort": "New York designer known for technology-enhanced shape engineering and fabric-first, sculptural experimentation.",
+   "trends": [
+    "bold-stripes",
+    "denim"
+   ]
   },
   {
    "id": "michael-kors-collection-spring-summer-2027-new-york",
@@ -7432,10 +7853,10 @@
    "cd": "Michael Kors",
    "parent": "Capri Holdings",
    "trends": [
-    "butter-yellow",
     "bold-stripes",
+    "cobalt-blue",
     "midcentury-mod",
-    "statement-jewelry"
+    "painterly-floral"
    ],
    "bioShort": "Founded in 1981 by Michael Kors in New York; jet-set American luxury sportswear."
   },
@@ -7499,7 +7920,13 @@
    "website": "https://www.lafayette148ny.com",
    "cd": "Emily Smith",
    "parent": "Independent",
-   "bioShort": "Founded in 1996 in New York; wearable, tailored contemporary womenswear rather than runway spectacle."
+   "bioShort": "Founded in 1996 in New York; wearable, tailored contemporary womenswear rather than runway spectacle.",
+   "trends": [
+    "americana-prep",
+    "denim",
+    "embroidery",
+    "fringe"
+   ]
   },
   {
    "id": "wiederhoeft-spring-summer-2027-new-york",
@@ -7531,10 +7958,11 @@
    "cd": "Jackson Wiederhoeft",
    "parent": "Independent",
    "trends": [
-    "lace",
-    "lingerie-details",
+    "art-deco",
     "embroidery",
-    "sheer-chiffon"
+    "lace",
+    "romantic-maximalism",
+    "waist-cinch"
    ],
    "bioShort": "Founded by Jackson Wiederhoeft in New York; corsetry-driven, exaggerated eveningwear silhouettes."
   },
@@ -7567,7 +7995,11 @@
    "website": "https://jane-wade.com/",
    "cd": "Jane Wade",
    "parent": "Independent",
-   "bioShort": "New York womenswear designer known for a considered, unconventional approach to dressing."
+   "bioShort": "New York womenswear designer known for a considered, unconventional approach to dressing.",
+   "trends": [
+    "headwear",
+    "sporty-femme"
+   ]
   },
   {
    "id": "christian-cowan-spring-summer-2027-new-york",
@@ -7599,9 +8031,11 @@
    "cd": "Christian Cowan",
    "parent": "Independent",
    "trends": [
-    "fringe",
-    "boudoir",
-    "lingerie-details"
+    "aughts-glam",
+    "denim",
+    "lingerie-details",
+    "slip-dress",
+    "undone-luxe"
    ],
    "bioShort": "Founded by Christian Cowan; maximalist, sequined eveningwear with a camp sensibility."
   },
@@ -7635,8 +8069,14 @@
    "cd": "Laura Kim & Fernando Garcia",
    "parent": "Independent",
    "trends": [
+    "bold-stripes",
+    "bubble-hem",
+    "embroidery",
+    "feather-trim",
     "fringe",
-    "bold-stripes"
+    "lace",
+    "lingerie-details",
+    "romantic-maximalism"
    ],
    "bioShort": "Founded in 2015 by Laura Kim and Fernando Garcia, who are also co-creative directors of Oscar de la Renta."
   },
@@ -7670,8 +8110,16 @@
    "cd": "Kim Shui",
    "parent": "Independent",
    "trends": [
-    "off-shoulder",
-    "fringe"
+    "brocade",
+    "embroidery",
+    "feather-trim",
+    "headwear",
+    "lace",
+    "romantic-maximalism",
+    "satin",
+    "sheer-chiffon",
+    "tassels",
+    "waist-cinch"
    ],
    "bioShort": "Hong Kong-born, New York-based designer Kim Shui; known for glossy, futuristic party clothes."
   },
@@ -7705,11 +8153,13 @@
    "cd": "Jonathan Simkhai",
    "parent": "Independent",
    "trends": [
-    "fringe",
-    "leather-look",
+    "cobalt-blue",
     "denim",
+    "embroidery",
+    "fringe",
     "lace",
-    "draped-wrap"
+    "leather-look",
+    "waist-cinch"
    ],
    "bioShort": "Founded in 2004 by Jonathan Simkhai in Los Angeles; body-conscious eveningwear and knitwear."
   },
@@ -7742,7 +8192,11 @@
    "website": "https://www.therioworld.com",
    "cd": "Rio Uribe",
    "parent": "Independent",
-   "bioShort": "Founded in 2012 by Rio Uribe; gender-fluid streetwear-luxury mixes and inclusive casting."
+   "bioShort": "Founded in 2012 by Rio Uribe; gender-fluid streetwear-luxury mixes and inclusive casting.",
+   "trends": [
+    "animal-print",
+    "painterly-floral"
+   ]
   },
   {
    "id": "nardos-spring-summer-2027-new-york",
@@ -7773,7 +8227,13 @@
    "website": "https://www.nardosdesign.com",
    "cd": "Nardos Imam",
    "parent": "Independent",
-   "bioShort": "Nardos Imam launched her namesake luxury house in 2012; trained in costume design, with flagships in Dallas and on Madison Avenue."
+   "bioShort": "Nardos Imam launched her namesake luxury house in 2012; trained in costume design, with flagships in Dallas and on Madison Avenue.",
+   "trends": [
+    "bubble-hem",
+    "painterly-floral",
+    "peplum",
+    "waist-cinch"
+   ]
   },
   {
    "id": "altuzarra-spring-summer-2027-new-york",
@@ -7805,11 +8265,13 @@
    "cd": "Joseph Altuzarra",
    "parent": "Independent",
    "trends": [
+    "animal-print",
+    "cobalt-blue",
     "leather-look",
-    "boudoir",
     "lingerie-details",
-    "satin",
-    "animal-print"
+    "sheer-pencil-skirt",
+    "statement-skirt",
+    "undone-luxe"
    ],
    "bioShort": "Founded in 2008 by Joseph Altuzarra in New York; sensual, body-conscious tailoring."
   },
@@ -7842,7 +8304,10 @@
    "website": "https://vettese.net",
    "cd": "Kari Vettese",
    "parent": "Independent",
-   "bioShort": "Los Angeles label launched in 2022 by Kari Vettese, drawing on her Italian heritage."
+   "bioShort": "Los Angeles label launched in 2022 by Kari Vettese, drawing on her Italian heritage.",
+   "trends": [
+    "waist-cinch"
+   ]
   },
   {
    "id": "7-for-all-mankind-spring-summer-2027-new-york",
@@ -7874,9 +8339,17 @@
    "cd": "Nicola Brognano",
    "parent": "Delta Galil Industries",
    "trends": [
-    "denim",
     "aughts-glam",
-    "lingerie-details"
+    "denim",
+    "hot-shorts",
+    "lingerie-details",
+    "relaxed-tailoring",
+    "satin",
+    "sky-high-heels",
+    "slip-dress",
+    "statement-jewelry",
+    "tweed-boucle",
+    "undone-luxe"
    ],
    "bioShort": "Founded in 2000; one of the brands credited with launching the premium denim category. Nicola Brognano became creative director in 2026."
   },
@@ -7910,11 +8383,12 @@
    "cd": "Anna Sui",
    "parent": "Independent",
    "trends": [
-    "slip-dress",
-    "lace",
-    "embroidery",
     "denim",
-    "lingerie-details"
+    "embroidery",
+    "lace",
+    "lingerie-details",
+    "painterly-floral",
+    "romantic-maximalism"
    ],
    "bioShort": "Founded in 1981 by Anna Sui in New York; bohemian, vintage-referencing prints."
   },
@@ -7947,7 +8421,13 @@
    "website": "https://www.tibi.com",
    "cd": "Amy Smilovic",
    "parent": "Independent",
-   "bioShort": "Founded in 1997 by Amy Smilovic; elevated, texture-driven contemporary basics."
+   "bioShort": "Founded in 1997 by Amy Smilovic; elevated, texture-driven contemporary basics.",
+   "trends": [
+    "denim",
+    "leather-look",
+    "shrunken-jacket",
+    "tassels"
+   ]
   },
   {
    "id": "ashlyn-spring-summer-2027-new-york",
@@ -7978,7 +8458,13 @@
    "website": "https://www.ashlynnewyork.com/",
    "cd": "Ashlynn Park",
    "parent": null,
-   "bioShort": "Founded 2020 in New York by Seoul-born Ashlynn Park; sculptural tailoring and zero-waste luxury, 2025 CFDA winner."
+   "bioShort": "Founded 2020 in New York by Seoul-born Ashlynn Park; sculptural tailoring and zero-waste luxury, 2025 CFDA winner.",
+   "trends": [
+    "draped-wrap",
+    "fringe",
+    "peplum",
+    "quiet-craft"
+   ]
   },
   {
    "id": "prabal-gurung-spring-summer-2027-new-york",
@@ -8011,9 +8497,11 @@
    "parent": "Independent",
    "trends": [
     "draped-wrap",
-    "off-shoulder",
     "embroidery",
-    "open-knit"
+    "feather-trim",
+    "off-shoulder",
+    "sheer-chiffon",
+    "undone-luxe"
    ],
    "bioShort": "Founded in 2009 by Prabal Gurung in New York; bold color and a focus on inclusivity in casting."
   },
@@ -8046,7 +8534,12 @@
    "website": "https://www.kidsuper.com",
    "cd": "Colm Dillane",
    "parent": "Independent",
-   "bioShort": "Founded in 2014 by Colm Dillane in New York; streetwear blended with theatrical, narrative-driven presentations."
+   "bioShort": "Founded in 2014 by Colm Dillane in New York; streetwear blended with theatrical, narrative-driven presentations.",
+   "trends": [
+    "cobalt-blue",
+    "headwear",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "threeasfour-spring-summer-2027-new-york",
@@ -8077,7 +8570,11 @@
    "website": "https://www.threeasfour.com",
    "cd": "Gabi Asfour, Adi Gil, Angela Donhauser (founding trio)",
    "parent": "Independent",
-   "bioShort": "Founded in 1998 in New York as As Four; a design collective known for geometric, sculptural, technology-driven garments."
+   "bioShort": "Founded in 1998 in New York as As Four; a design collective known for geometric, sculptural, technology-driven garments.",
+   "trends": [
+    "archival-revival",
+    "denim"
+   ]
   },
   {
    "id": "elena-velez-spring-summer-2027-new-york",
@@ -8143,7 +8640,11 @@
    "website": "https://ossou.com",
    "cd": "Nina Khosla & Talia Shuvalov",
    "parent": "Independent",
-   "bioShort": "Denim-focused ready-to-wear founded by Nina Khosla and Talia Shuvalov; Joey Laurenti serves as CEO."
+   "bioShort": "Denim-focused ready-to-wear founded by Nina Khosla and Talia Shuvalov; Joey Laurenti serves as CEO.",
+   "trends": [
+    "denim",
+    "quiet-craft"
+   ]
   },
   {
    "id": "area-spring-summer-2027-new-york",
@@ -8175,9 +8676,9 @@
    "cd": "Piotrek Panszczyk & Beckett Fogg",
    "parent": "Independent",
    "trends": [
-    "denim",
     "cobalt-blue",
-    "embroidery"
+    "fringe",
+    "romantic-maximalism"
    ],
    "bioShort": "Founded in 2013 by Piotrek Panszczyk and Beckett Fogg in New York; maximalist crystal embellishment."
   },
@@ -8211,8 +8712,9 @@
    "cd": "Zoe Whalen",
    "parent": "Independent",
    "trends": [
-    "boudoir",
-    "lingerie-details"
+    "lingerie-details",
+    "quiet-craft",
+    "undone-luxe"
    ],
    "bioShort": "New York designer known for romantic, body-focused ready-to-wear built from deadstock into sculptural, historically-informed silhouettes."
   },
@@ -8245,7 +8747,14 @@
    "website": "https://www.cosstores.com",
    "cd": "Karin Gustafsson",
    "parent": "H&M Group",
-   "bioShort": "Launched in 2007 as a more considered, design-led sister brand to H&M."
+   "bioShort": "Launched in 2007 as a more considered, design-led sister brand to H&M.",
+   "trends": [
+    "art-deco",
+    "heritage-british",
+    "leather-look",
+    "quiet-craft",
+    "waist-cinch"
+   ]
   },
   {
    "id": "sandy-liang-spring-summer-2027-new-york",
@@ -8277,10 +8786,11 @@
    "cd": "Sandy Liang",
    "parent": "Independent",
    "trends": [
-    "satin",
-    "sporty-femme",
+    "lace",
     "lingerie-details",
-    "off-shoulder"
+    "off-shoulder",
+    "satin",
+    "sporty-femme"
    ],
    "bioShort": "Founded in 2014 by Sandy Liang in New York; girlish, nostalgic downtown style."
   },
@@ -8314,9 +8824,12 @@
    "cd": "Magda Butrym",
    "parent": "Independent",
    "trends": [
-    "lingerie-details",
+    "boudoir",
+    "feather-trim",
     "lace",
-    "embroidery"
+    "leather-look",
+    "lingerie-details",
+    "slip-dress"
    ],
    "bioShort": "Founded in 2013 by Polish designer Magda Butrym; florals and body-conscious silhouettes."
   },
@@ -8349,7 +8862,19 @@
    "website": "https://campillo.mx",
    "cd": "Patricio Campillo",
    "parent": "Independent",
-   "bioShort": "Founded in 2017 by Mexico City-born Patricio Campillo; rigorous tailoring referencing charro culture, made in small artisan workshops in Mexico."
+   "bioShort": "Founded in 2017 by Mexico City-born Patricio Campillo; rigorous tailoring referencing charro culture, made in small artisan workshops in Mexico.",
+   "trends": [
+    "cobalt-blue",
+    "denim",
+    "feather-trim",
+    "fringe",
+    "hot-shorts",
+    "leather-look",
+    "quiet-craft",
+    "satin",
+    "undone-luxe",
+    "waist-cinch"
+   ]
   },
   {
    "id": "sergio-hudson-spring-summer-2027-new-york",
@@ -8381,9 +8906,13 @@
    "cd": "Sergio Hudson",
    "parent": "Independent",
    "trends": [
-    "cobalt-blue",
-    "sheer-chiffon",
     "animal-print",
+    "cobalt-blue",
+    "draped-wrap",
+    "headwear",
+    "lace",
+    "sheer-chiffon",
+    "statement-jewelry",
     "waist-cinch"
    ],
    "bioShort": "Founded in 2016 by Sergio Hudson in South Carolina; power tailoring worn by Kamala Harris and Beyoncé."
@@ -8418,9 +8947,9 @@
    "cd": "Brandon Maxwell",
    "parent": "Independent",
    "trends": [
-    "low-rise-wide-leg",
     "denim",
-    "satin"
+    "low-rise-wide-leg",
+    "statement-skirt"
    ],
    "bioShort": "Founded in 2015 by Brandon Maxwell, who first came up styling and designing for Lady Gaga."
   },
@@ -8453,7 +8982,13 @@
    "website": "https://www.toddsnyder.com",
    "cd": "Todd Snyder",
    "parent": "Independent",
-   "bioShort": "Founded in 2011 by Todd Snyder; reworked classic American menswear."
+   "bioShort": "Founded in 2011 by Todd Snyder; reworked classic American menswear.",
+   "trends": [
+    "americana-prep",
+    "butter-yellow",
+    "mesh",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "grace-ling-spring-summer-2027-new-york",
@@ -8484,7 +9019,12 @@
    "website": "https://gracelingofficial.com/",
    "cd": "Grace Ling",
    "parent": "Independent",
-   "bioShort": "New York designer known for liquid-metal, biomechanical sculptural pieces that blur fashion and body armor."
+   "bioShort": "New York designer known for liquid-metal, biomechanical sculptural pieces that blur fashion and body armor.",
+   "trends": [
+    "draped-wrap",
+    "headwear",
+    "waist-cinch"
+   ]
   },
   {
    "id": "zaldy-spring-summer-2027-new-york",
@@ -8515,7 +9055,14 @@
    "website": "https://www.zaldynyc.com",
    "cd": "Zaldy Goco",
    "parent": "Independent",
-   "bioShort": "Costume and fashion designer Zaldy Goco; known for his long-running collaboration with Lady Gaga."
+   "bioShort": "Costume and fashion designer Zaldy Goco; known for his long-running collaboration with Lady Gaga.",
+   "trends": [
+    "brocade",
+    "headwear",
+    "leather-look",
+    "lingerie-details",
+    "statement-jewelry"
+   ]
   },
   {
    "id": "aisling-camps-spring-summer-2027-new-york",
@@ -8546,7 +9093,13 @@
    "website": "https://www.aislingcamps.com",
    "cd": "Aisling Camps",
    "parent": "Independent",
-   "bioShort": "Trinidad-born, Brooklyn-based: sculptural, architectural knitwear made from Italian-sourced yarns."
+   "bioShort": "Trinidad-born, Brooklyn-based: sculptural, architectural knitwear made from Italian-sourced yarns.",
+   "trends": [
+    "fringe",
+    "hot-shorts",
+    "open-knit",
+    "undone-luxe"
+   ]
   },
   {
    "id": "ulla-johnson-spring-summer-2027-new-york",
@@ -8578,11 +9131,13 @@
    "cd": "Ulla Johnson",
    "parent": "Independent",
    "trends": [
-    "bubble-hem",
+    "art-deco",
+    "denim",
+    "embroidery",
     "fringe",
+    "painterly-floral",
     "sheer-pencil-skirt",
-    "butter-yellow",
-    "painterly-floral"
+    "shrunken-jacket"
    ],
    "bioShort": "Founded in 1998 by Ulla Johnson in New York; artisanal detailing and a bohemian sensibility."
   },
@@ -8615,7 +9170,16 @@
    "website": "https://www.normakamali.com",
    "cd": "Norma Kamali",
    "parent": "Independent",
-   "bioShort": "Founded in 1967 by Norma Kamali; pioneer of the sleeping-bag coat and the modern swimsuit-as-outerwear silhouette."
+   "bioShort": "Founded in 1967 by Norma Kamali; pioneer of the sleeping-bag coat and the modern swimsuit-as-outerwear silhouette.",
+   "trends": [
+    "bold-stripes",
+    "denim",
+    "embroidery",
+    "mesh",
+    "off-shoulder",
+    "slip-dress",
+    "sporty-femme"
+   ]
   },
   {
    "id": "fforme-spring-summer-2027-new-york",
@@ -8646,7 +9210,17 @@
    "website": "https://fforme.com",
    "cd": "Frances Howie",
    "parent": "Independent",
-   "bioShort": "Luxury womenswear co-founded 2022 by Nina Khosla and Laura Vazquez; tech-inflected slow fashion."
+   "bioShort": "Luxury womenswear co-founded 2022 by Nina Khosla and Laura Vazquez; tech-inflected slow fashion.",
+   "trends": [
+    "cobalt-blue",
+    "denim",
+    "fringe",
+    "lace",
+    "leather-look",
+    "mesh",
+    "quiet-craft",
+    "statement-jewelry"
+   ]
   },
   {
    "id": "lii-spring-summer-2027-new-york",
@@ -8679,7 +9253,7 @@
    "parent": "Independent",
    "trends": [
     "midcentury-mod",
-    "sporty-femme"
+    "waist-cinch"
    ],
    "bioShort": "Founded by Zane Li, a 2026 CFDA/Vogue Fashion Fund finalist."
   },
@@ -8712,7 +9286,11 @@
    "website": "https://shop-jamiehaller.com",
    "cd": "Jamie Haller",
    "parent": null,
-   "bioShort": "Los Angeles footwear and accessories designer known for sculptural heels and a Montecito retail store."
+   "bioShort": "Los Angeles footwear and accessories designer known for sculptural heels and a Montecito retail store.",
+   "trends": [
+    "draped-wrap",
+    "satin"
+   ]
   },
   {
    "id": "milamore-spring-summer-2027-new-york",
@@ -8743,7 +9321,10 @@
    "website": "https://milamorejewelry.com",
    "cd": "George Inaki Root",
    "parent": "Independent",
-   "bioShort": "Fine jewelry label founded by George Inaki Root, working primarily in freshwater pearls."
+   "bioShort": "Fine jewelry label founded by George Inaki Root, working primarily in freshwater pearls.",
+   "trends": [
+    "statement-jewelry"
+   ]
   },
   {
    "id": "juju-vera-spring-summer-2027-new-york",
@@ -8774,7 +9355,10 @@
    "website": "https://www.jujuvera.com/",
    "cd": "Julia Ferentinos",
    "parent": "Independent",
-   "bioShort": "Founded in 2024 by Julia 'Juju' Ferentinos in New York; sculptural, antique-inspired jewelry drawing on Art Deco and Greco-Roman heritage."
+   "bioShort": "Founded in 2024 by Julia 'Juju' Ferentinos in New York; sculptural, antique-inspired jewelry drawing on Art Deco and Greco-Roman heritage.",
+   "trends": [
+    "statement-jewelry"
+   ]
   },
   {
    "id": "emily-dawn-long-spring-summer-2027-new-york",
@@ -8805,7 +9389,11 @@
    "website": "https://www.emilydawnlong.com/",
    "cd": "Emily Dawn Long",
    "parent": "Independent",
-   "bioShort": "Founded 2019 in New York by Emily Dawn Long; vintage-inspired gender-fluid pieces with cheeky, irreverent humor."
+   "bioShort": "Founded 2019 in New York by Emily Dawn Long; vintage-inspired gender-fluid pieces with cheeky, irreverent humor.",
+   "trends": [
+    "denim",
+    "sporty-femme"
+   ]
   },
   {
    "id": "miss-claire-sullivan-spring-summer-2027-new-york",
@@ -8867,7 +9455,12 @@
    "website": "https://zankovstudio.com",
    "cd": "Henry Zankov",
    "parent": "Independent",
-   "bioShort": "Founded in 2020 by Henry Zankov in New York; colorful, playful knitwear. Zankov also became Diane von Furstenberg's artistic director in 2026."
+   "bioShort": "Founded in 2020 by Henry Zankov in New York; colorful, playful knitwear. Zankov also became Diane von Furstenberg's artistic director in 2026.",
+   "trends": [
+    "midcentury-mod",
+    "sheer-chiffon",
+    "waist-cinch"
+   ]
   },
   {
    "id": "private-policy-spring-summer-2027-new-york",
@@ -8899,6 +9492,9 @@
    "cd": "Haoran Li & Siying Qu",
    "parent": "Independent",
    "trends": [
+    "butter-yellow",
+    "mesh",
+    "painterly-floral",
     "sporty-femme"
    ],
    "bioShort": "Founded 2016 by Siying Qu and Haoran Li: genderless New York label tackling a social issue each season."
@@ -8932,7 +9528,11 @@
    "website": "https://diotima.world/",
    "cd": "Rachel Scott",
    "parent": "Independent",
-   "bioShort": "Founded in 2021 by Rachel Scott, drawing on Jamaican craft techniques like crochet; Scott also became Proenza Schouler's creative director in 2026."
+   "bioShort": "Founded in 2021 by Rachel Scott, drawing on Jamaican craft techniques like crochet; Scott also became Proenza Schouler's creative director in 2026.",
+   "trends": [
+    "open-knit",
+    "peplum"
+   ]
   },
   {
    "id": "bibhu-mohapatra-spring-summer-2027-new-york",
@@ -8963,7 +9563,20 @@
    "website": "https://www.bibhu.com",
    "cd": "Bibhu Mohapatra",
    "parent": "Independent",
-   "bioShort": "Founded in 2008 by Bibhu Mohapatra; intricately embroidered eveningwear."
+   "bioShort": "Founded in 2008 by Bibhu Mohapatra; intricately embroidered eveningwear.",
+   "trends": [
+    "denim",
+    "embroidery",
+    "feather-trim",
+    "lace",
+    "painterly-floral",
+    "peplum",
+    "romantic-maximalism",
+    "satin",
+    "sky-high-heels",
+    "statement-jewelry",
+    "waist-cinch"
+   ]
   },
   {
    "id": "carolina-herrera-spring-summer-2027-new-york",
@@ -8996,10 +9609,13 @@
    "parent": "Puig",
    "trends": [
     "brooch",
-    "embroidery",
-    "tweed-boucle",
-    "fringe",
-    "statement-jewelry"
+    "headwear",
+    "lace",
+    "off-shoulder",
+    "painterly-floral",
+    "sheer-chiffon",
+    "tassels",
+    "tweed-boucle"
    ],
    "bioShort": "Founded in 1981 by Carolina Herrera; ladylike tailoring and dramatic white shirting."
   },
@@ -9033,8 +9649,12 @@
    "cd": "Raúl López",
    "parent": "Independent",
    "trends": [
+    "draped-wrap",
+    "feather-trim",
+    "headwear",
+    "lace",
     "leather-look",
-    "feather-trim"
+    "waist-cinch"
    ],
    "bioShort": "Founded in 2016 by Raúl López in New York; utilitarian and streetwear shapes reworked into elevated pieces."
   },
@@ -9069,8 +9689,9 @@
    "parent": "Independent",
    "trends": [
     "animal-print",
-    "lingerie-details",
-    "gold-metallic"
+    "gold-metallic",
+    "peplum",
+    "sporty-femme"
    ],
    "bioShort": "Founded in 2009 by LaQuan Smith in Queens, New York; body-conscious, sex-positive eveningwear."
   },
@@ -9103,7 +9724,12 @@
    "website": "https://kozaburo.com/",
    "cd": "Kozaburo Akasaka",
    "parent": "Independent",
-   "bioShort": "Namesake label of Kozaburo Akasaka, a Central Saint Martins menswear graduate."
+   "bioShort": "Namesake label of Kozaburo Akasaka, a Central Saint Martins menswear graduate.",
+   "trends": [
+    "denim",
+    "quiet-craft",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "heirlome-spring-summer-2027-new-york",
@@ -9135,8 +9761,14 @@
    "cd": "Stephanie Suberville",
    "parent": "Independent",
    "trends": [
+    "denim",
+    "embroidery",
     "fringe",
-    "embroidery"
+    "headwear",
+    "open-knit",
+    "quiet-craft",
+    "satin",
+    "tassels"
    ],
    "bioShort": "Luxury womenswear label built around forgotten traditions, founded by Stephanie Suberville and Jeffrey Axford."
   },
@@ -9169,7 +9801,16 @@
    "website": "https://advisry.com/",
    "cd": "Keith Herron",
    "parent": "Independent",
-   "bioShort": "Fashion and media brand founded in Sacramento in 2014 by Keith 'Rooftop' Herron, who started the label at age 14."
+   "bioShort": "Fashion and media brand founded in Sacramento in 2014 by Keith 'Rooftop' Herron, who started the label at age 14.",
+   "trends": [
+    "brooch",
+    "denim",
+    "fringe",
+    "gloves",
+    "headwear",
+    "leather-look",
+    "shrunken-jacket"
+   ]
   },
   {
    "id": "collina-strada-spring-summer-2027-new-york",
@@ -9200,7 +9841,14 @@
    "website": "https://www.collinastrada.com",
    "cd": "Hillary Taymour",
    "parent": "Independent",
-   "bioShort": "Founded in 2010 by Hillary Taymour in New York; upcycled fabrics and maximalist prints with an environmental message."
+   "bioShort": "Founded in 2010 by Hillary Taymour in New York; upcycled fabrics and maximalist prints with an environmental message.",
+   "trends": [
+    "draped-wrap",
+    "feather-trim",
+    "lace",
+    "romantic-maximalism",
+    "waist-cinch"
+   ]
   },
   {
    "id": "andrew-kwon-spring-summer-2027-new-york",
@@ -9231,7 +9879,16 @@
    "website": "https://andrewkwon.com/",
    "cd": "Andrew Kwon",
    "parent": "Independent",
-   "bioShort": "Founded in 2021 by Andrew Kwon in New York; eveningwear and bridal worn on red carpets."
+   "bioShort": "Founded in 2021 by Andrew Kwon in New York; eveningwear and bridal worn on red carpets.",
+   "trends": [
+    "brooch",
+    "embroidery",
+    "gold-metallic",
+    "headwear",
+    "lace",
+    "satin",
+    "slip-dress"
+   ]
   },
   {
    "id": "6397-spring-summer-2027-new-york",
@@ -9262,7 +9919,10 @@
    "website": "https://6397news.com",
    "cd": "Stephanie Pollack",
    "parent": "Independent",
-   "bioShort": "Founded in 2016 by Stephanie Pollack in Los Angeles; elevated, deconstructed denim and basics."
+   "bioShort": "Founded in 2016 by Stephanie Pollack in Los Angeles; elevated, deconstructed denim and basics.",
+   "trends": [
+    "waist-cinch"
+   ]
   },
   {
    "id": "marc-jacobs-spring-summer-2027-new-york",
@@ -9294,11 +9954,12 @@
    "cd": "Marc Jacobs",
    "parent": "LVMH",
    "trends": [
-    "fringe",
     "aughts-glam",
-    "statement-jewelry",
-    "waist-cinch",
-    "archival-revival"
+    "fringe",
+    "leather-look",
+    "lingerie-details",
+    "sheer-chiffon",
+    "statement-jewelry"
    ],
    "bioShort": "American designer who launched his eponymous label in the 1980s; credited with bringing grunge to the runway in 1992."
   },
@@ -9332,10 +9993,11 @@
    "cd": "Veronica Leoni",
    "parent": "PVH Corp.",
    "trends": [
-    "slip-dress",
-    "sheer-chiffon",
     "denim",
-    "lingerie-details"
+    "leather-look",
+    "relaxed-tailoring",
+    "slip-dress",
+    "waist-cinch"
    ],
    "bioShort": "Founded 1968; American minimalism in tailoring, denim and underwear — now led by Veronica Leoni."
   },
@@ -9368,7 +10030,20 @@
    "website": "https://frederickandersonshop.com/",
    "cd": "Frederick Anderson",
    "parent": "Independent",
-   "bioShort": "Founded by Frederick Anderson; bold color and print in eveningwear."
+   "bioShort": "Founded by Frederick Anderson; bold color and print in eveningwear.",
+   "trends": [
+    "brocade",
+    "draped-wrap",
+    "embroidery",
+    "feather-trim",
+    "fringe",
+    "lace",
+    "open-knit",
+    "painterly-floral",
+    "satin",
+    "statement-skirt",
+    "tassels"
+   ]
   },
   {
    "id": "paul-costelloe-spring-summer-2027-london",
@@ -9400,8 +10075,10 @@
    "cd": "William Costelloe",
    "parent": "Independent",
    "trends": [
-    "waist-cinch",
-    "bold-stripes"
+    "archival-revival",
+    "butter-yellow",
+    "relaxed-tailoring",
+    "shrunken-jacket"
    ],
    "bioShort": "Founded 1979 by Irish designer Paul Costelloe, former designer to Diana, Princess of Wales; son William Costelloe became creative director in 2025."
   },
@@ -9435,8 +10112,11 @@
    "cd": "Lado Keburia",
    "parent": "Independent",
    "trends": [
-    "heritage-british",
+    "brooch",
     "fringe",
+    "heritage-british",
+    "hot-shorts",
+    "leather-look",
     "tweed-boucle"
    ],
    "bioShort": "Founded by Georgian designer Lado Keburia; architectural minimalism, monochromatic palettes, gender-fluid silhouettes."
@@ -9471,10 +10151,13 @@
    "cd": "George Oxby and Angus Cockram",
    "parent": null,
    "trends": [
+    "boudoir",
+    "lace",
     "lingerie-details",
+    "peplum",
+    "quiet-craft",
     "sheer-chiffon",
-    "embroidery",
-    "fringe"
+    "undone-luxe"
    ],
    "bioShort": "London corsetry, tailoring and leatherwork by George Oxby and Angus Cockram; bespoke for Beyoncé and Lady Gaga."
   },
@@ -9508,8 +10191,11 @@
    "cd": "Maximilian Raynor",
    "parent": "Independent",
    "trends": [
+    "fringe",
     "heritage-british",
-    "fringe"
+    "open-knit",
+    "quiet-craft",
+    "tassels"
    ],
    "bioShort": "Central Saint Martins-trained designer from Derbyshire who has worked at Vivienne Westwood and Mulberry, running his independent label from South London."
   },
@@ -9543,10 +10229,15 @@
    "cd": "Daniel Fletcher",
    "parent": "Independent",
    "trends": [
-    "bold-stripes",
-    "lingerie-details",
+    "bubble-hem",
+    "denim",
     "feather-trim",
-    "undone-luxe"
+    "headwear",
+    "heritage-british",
+    "hot-shorts",
+    "lingerie-details",
+    "romantic-maximalism",
+    "waist-cinch"
    ],
    "bioShort": "London house blending Eastern philosophy with Western construction; Daniel Fletcher is creative director."
   },
@@ -9579,7 +10270,13 @@
    "website": "https://www.markfast.com",
    "cd": "Mark Fast",
    "parent": "Independent",
-   "bioShort": "Canadian-born, London-based knitwear designer known for figure-hugging silhouettes and pioneering size-inclusive runway casting."
+   "bioShort": "Canadian-born, London-based knitwear designer known for figure-hugging silhouettes and pioneering size-inclusive runway casting.",
+   "trends": [
+    "embroidery",
+    "fringe",
+    "open-knit",
+    "quiet-craft"
+   ]
   },
   {
    "id": "harris-reed-spring-summer-2027-london",
@@ -9611,8 +10308,9 @@
    "cd": "Harris Reed",
    "parent": "Independent",
    "trends": [
+    "brocade",
     "lingerie-details",
-    "waist-cinch"
+    "satin"
    ],
    "bioShort": "Founded 2020 by Harris Reed in London; theatrical, gender-fluid silhouettes. Reed has also led Nina Ricci as creative director since 2022."
   },
@@ -9645,7 +10343,12 @@
    "website": "https://www.ebayinc.com/stories/press-room/uk/ebay-brings-a-new-creative-collaboration-to-london-fashion-week/",
    "cd": null,
    "parent": null,
-   "bioShort": "London Fashion Week's only pre-loved, shoppable show — every look bought live via eBay."
+   "bioShort": "London Fashion Week's only pre-loved, shoppable show — every look bought live via eBay.",
+   "trends": [
+    "archival-revival",
+    "open-knit",
+    "tweed-boucle"
+   ]
   },
   {
    "id": "h-m-you-i-a-fashion-story-spring-summer-2027-london",
@@ -9676,7 +10379,13 @@
    "website": "https://www.hm.com",
    "cd": "Nick Knight",
    "parent": null,
-   "bioShort": "Swedish retailer founded 1947 by Erling Persson; fast fashion giant staging a see-now-buy-now event for SS27."
+   "bioShort": "Swedish retailer founded 1947 by Erling Persson; fast fashion giant staging a see-now-buy-now event for SS27.",
+   "trends": [
+    "lace",
+    "leather-look",
+    "lingerie-details",
+    "romantic-maximalism"
+   ]
   },
   {
    "id": "ksenijaschnaider-spring-summer-2027-london",
@@ -9709,7 +10418,7 @@
    "parent": "Independent",
    "trends": [
     "denim",
-    "sporty-femme"
+    "quiet-craft"
    ],
    "bioShort": "Founded 2011 in Kyiv by Ksenia and Anton Schnaider; reworked and upcycled denim, including the signature demi-denim culotte-jean hybrid."
   },
@@ -9743,7 +10452,14 @@
    "cd": "Petra Fagerström",
    "parent": "Independent",
    "trends": [
-    "slip-dress"
+    "animal-print",
+    "boudoir",
+    "embroidery",
+    "lace",
+    "leather-look",
+    "shrunken-jacket",
+    "slip-dress",
+    "tweed-boucle"
    ],
    "bioShort": "Swedish designer and recent Central Saint Martins MA graduate; a 2026 LVMH Prize finalist making her LFW debut as a BFC NEWGEN recipient."
   },
@@ -9777,9 +10493,13 @@
    "cd": "Bora Aksu",
    "parent": "Independent",
    "trends": [
-    "lace",
     "embroidery",
-    "romantic-maximalism"
+    "headwear",
+    "heritage-british",
+    "lace",
+    "lingerie-details",
+    "quiet-craft",
+    "waist-cinch"
    ],
    "bioShort": "Turkish-born London designer; founded 2002 after Central Saint Martins: romantic silhouettes, dark romanticism."
   },
@@ -9813,11 +10533,13 @@
    "cd": "Susan Fang",
    "parent": "Independent",
    "trends": [
-    "embroidery",
-    "sheer-chiffon",
+    "butter-yellow",
     "cobalt-blue",
-    "bubble-hem",
-    "lingerie-details"
+    "embroidery",
+    "lace",
+    "lingerie-details",
+    "painterly-floral",
+    "sheer-chiffon"
    ],
    "bioShort": "Central Saint Martins graduate known for hand-crafted glass-bead accessories and her signature air-weaving technique in layered, 3D forms."
   },
@@ -9851,10 +10573,13 @@
    "cd": "Ashley Williams",
    "parent": "Independent",
    "trends": [
-    "americana-prep",
-    "undone-luxe",
-    "lace",
-    "lingerie-details"
+    "boudoir",
+    "butter-yellow",
+    "gloves",
+    "lingerie-details",
+    "satin",
+    "sporty-femme",
+    "undone-luxe"
    ],
    "bioShort": "British designer, Westminster 2012 graduate; showed with the Fashion East incubator before her solo LFW debut in 2014. A repeat BFC NEWGEN recipient."
   },
@@ -9887,7 +10612,16 @@
    "website": null,
    "cd": "Oscar Ouyang & Yibo Chen",
    "parent": "Independent",
-   "bioShort": "Beijing-raised, Central Saint Martins-trained designer; eponymous label co-founded with Yibo Chen, focused on gender-neutral fashion and sustainable textiles."
+   "bioShort": "Beijing-raised, Central Saint Martins-trained designer; eponymous label co-founded with Yibo Chen, focused on gender-neutral fashion and sustainable textiles.",
+   "trends": [
+    "bubble-hem",
+    "heritage-british",
+    "hot-shorts",
+    "satin",
+    "statement-jewelry",
+    "tassels",
+    "tweed-boucle"
+   ]
   },
   {
    "id": "a-letter-spring-summer-2027-london",
@@ -9919,7 +10653,12 @@
    "cd": "Matt Empringham and Freddy Coomes",
    "parent": null,
    "trends": [
-    "heritage-british"
+    "heritage-british",
+    "quiet-craft",
+    "satin",
+    "tassels",
+    "undone-luxe",
+    "waist-cinch"
    ],
    "bioShort": "Founded 2025 in London by Matt Empringham and Freddy Coomes; experimental textiles, off-kilter British staples."
   },
@@ -9952,7 +10691,16 @@
    "website": "https://www.fashioneast.co.uk",
    "cd": "Lulu Kennedy (founder & director)",
    "parent": "Nonprofit / BFC-supported",
-   "bioShort": "Nonprofit talent incubator founded by Lulu Kennedy in 2000, staging group runway shows for emerging London designers each season since 2003."
+   "bioShort": "Nonprofit talent incubator founded by Lulu Kennedy in 2000, staging group runway shows for emerging London designers each season since 2003.",
+   "trends": [
+    "denim",
+    "embroidery",
+    "headwear",
+    "lace",
+    "lingerie-details",
+    "open-knit",
+    "satin"
+   ]
   },
   {
    "id": "annie-s-spring-summer-2027-london",
@@ -9985,7 +10733,8 @@
    "parent": null,
    "trends": [
     "embroidery",
-    "lingerie-details"
+    "lingerie-details",
+    "quiet-craft"
    ],
    "bioShort": "Founded 2018 in Ibiza by Annie Doble; maximalist vintage-inspired glamour and occasion dressing, from a £200 start."
   },
@@ -10019,9 +10768,17 @@
    "cd": "Aaron Esh",
    "parent": "Independent",
    "trends": [
+    "feather-trim",
+    "headwear",
     "leather-look",
-    "undone-luxe",
-    "slip-dress"
+    "lingerie-details",
+    "low-rise-wide-leg",
+    "relaxed-tailoring",
+    "satin",
+    "sheer-chiffon",
+    "shrunken-jacket",
+    "slip-dress",
+    "undone-luxe"
    ],
    "bioShort": "East London designer known for tailoring-driven collections and immersive, party-style shows in nightclub and subculture venues."
   },
@@ -10055,9 +10812,9 @@
    "cd": "Natasha Zinko",
    "parent": "Independent",
    "trends": [
-    "lingerie-details",
-    "satin",
-    "leather-look"
+    "boudoir",
+    "leather-look",
+    "undone-luxe"
    ],
    "bioShort": "London-based, Odesa-born designer trained at Central Saint Martins; works largely from deadstock fabric in a closed-loop production cycle."
   },
@@ -10090,7 +10847,12 @@
    "website": "https://www.paolocarzana.com/",
    "cd": "Paolo Carzana",
    "parent": "Independent",
-   "bioShort": "Welsh designer founded 2022: entirely handmade garments in plant-based, recycled materials and natural dyes."
+   "bioShort": "Welsh designer founded 2022: entirely handmade garments in plant-based, recycled materials and natural dyes.",
+   "trends": [
+    "quiet-craft",
+    "sheer-chiffon",
+    "undone-luxe"
+   ]
   },
   {
    "id": "talia-byre-spring-summer-2027-london",
@@ -10122,10 +10884,13 @@
    "cd": "Talia Lipkin-Connor",
    "parent": "Independent",
    "trends": [
-    "peplum",
-    "waist-cinch",
+    "bold-stripes",
+    "bubble-hem",
+    "leather-look",
+    "low-rise-wide-leg",
     "slip-dress",
-    "bold-stripes"
+    "sporty-femme",
+    "waist-cinch"
    ],
    "bioShort": "Founded by Central Saint Martins 2020 graduate Talia Lipkin-Connor; East London-based label built on heritage, ritual, and longevity."
   },
@@ -10159,10 +10924,8 @@
    "cd": "Patrick McDowell",
    "parent": "Independent",
    "trends": [
-    "peplum",
     "embroidery",
-    "painterly-floral",
-    "waist-cinch"
+    "peplum"
    ],
    "bioShort": "Liverpool-born, London-based designer working with upcycled materials and circular design; founded London Fashion Week's first Swap Shop."
   },
@@ -10196,9 +10959,10 @@
    "cd": "John Richmond",
    "parent": "Independent",
    "trends": [
-    "leather-look",
+    "bubble-hem",
+    "embroidery",
     "lace",
-    "embroidery"
+    "leather-look"
    ],
    "bioShort": "Founded in the 1980s by John Richmond after graduating Kingston University in 1982; co-founded the Richmond-Cornejo label before launching his eponymous line."
   },
@@ -10232,8 +10996,14 @@
    "cd": "Priya Ahluwalia",
    "parent": "Independent",
    "trends": [
-    "tassels",
-    "sporty-femme"
+    "art-deco",
+    "bubble-hem",
+    "cobalt-blue",
+    "fringe",
+    "satin",
+    "sheer-chiffon",
+    "sporty-femme",
+    "tassels"
    ],
    "bioShort": "Founded by Priya Ahluwalia in London; upcycled materials drawing on her Nigerian, Indian, and British heritage. Won the Queen Elizabeth II Award in 2021."
   },
@@ -10267,8 +11037,13 @@
    "cd": "Pauline Dujancourt",
    "parent": "Independent",
    "trends": [
+    "bubble-hem",
+    "embroidery",
+    "lace",
+    "quiet-craft",
+    "romantic-maximalism",
     "sheer-chiffon",
-    "embroidery"
+    "undone-luxe"
    ],
    "bioShort": "Paris-born, London-based knitwear designer; hand-knit label launched 2022, ANDAM Special Prize 2026."
   },
@@ -10302,6 +11077,9 @@
    "cd": "Yasuko Furuta",
    "parent": null,
    "trends": [
+    "all-black",
+    "brooch",
+    "sheer-chiffon",
     "tassels"
    ],
    "bioShort": "Founded 1997 in Tokyo by Yasuko Furuta; playful layered, deconstructed dressing, approaching its 30th anniversary."
@@ -10336,10 +11114,10 @@
    "cd": "Eli Khzouz",
    "parent": "Independent",
    "trends": [
-    "lingerie-details",
     "lace",
+    "lingerie-details",
     "off-shoulder",
-    "satin"
+    "undone-luxe"
    ],
    "bioShort": "Norwegian-born, London-based designer Eli Khzouz; sustainable luxury built on organic materials and a zero-waste approach."
   },
@@ -10373,11 +11151,15 @@
    "cd": "Charlotte Knowles & Alexandre Arsenault",
    "parent": "Independent",
    "trends": [
+    "boudoir",
+    "bubble-hem",
+    "denim",
+    "lace",
     "lingerie-details",
     "low-rise-wide-leg",
-    "bubble-hem",
-    "leather-look",
-    "fringe"
+    "off-shoulder",
+    "sheer-chiffon",
+    "slip-dress"
    ],
    "bioShort": "Founded 2017 in London by Charlotte Knowles and Alexandre Arsenault; lingerie-inflected, technical, body-conscious womenswear."
   },
@@ -10411,11 +11193,13 @@
    "cd": "Richard Quinn",
    "parent": "Independent",
    "trends": [
+    "embroidery",
     "feather-trim",
     "gloves",
-    "satin",
-    "embroidery",
-    "lingerie-details"
+    "lace",
+    "lingerie-details",
+    "peplum",
+    "satin"
    ],
    "bioShort": "Founded by Richard Quinn in London; floral-printed eveningwear with a monarchy-adjacent following."
   },
@@ -10449,8 +11233,14 @@
    "cd": "Yuhan Wang",
    "parent": "Independent",
    "trends": [
+    "boudoir",
     "lace",
-    "lingerie-details"
+    "lingerie-details",
+    "mesh",
+    "off-shoulder",
+    "satin",
+    "sheer-chiffon",
+    "slip-dress"
    ],
    "bioShort": "London-based designer trained at Central Saint Martins, exploring traditional Asian ideals of feminine beauty through delicate, romantic silhouettes."
   },
@@ -10484,10 +11274,8 @@
    "cd": "Emma Chopova & Laura Lowena",
    "parent": "Independent",
    "trends": [
-    "lace",
     "embroidery",
-    "lingerie-details",
-    "sporty-femme"
+    "lace"
    ],
    "bioShort": "Founded by Emma Chopova and Laura Lowena in London; kilts and pieces built from recycled materials and deadstock textiles."
   },
@@ -10521,11 +11309,13 @@
    "cd": "Simone Rocha",
    "parent": "Independent",
    "trends": [
-    "lingerie-details",
-    "satin",
-    "lace",
     "embroidery",
-    "off-shoulder"
+    "heritage-british",
+    "off-shoulder",
+    "romantic-maximalism",
+    "sheer-chiffon",
+    "slip-dress",
+    "undone-luxe"
    ],
    "bioShort": "Founded 2010 by Simone Rocha in London; romantic, feminine fabrics paired with harder, confrontational details. Rocha remains creative director."
   },
@@ -10558,7 +11348,10 @@
    "website": "https://edelinelee.com",
    "cd": "Edeline Lee",
    "parent": "Independent",
-   "bioShort": "Vancouver-born, Korean-Canadian designer trained at Central Saint Martins, with early experience under McQueen, Galliano, and Zac Posen."
+   "bioShort": "Vancouver-born, Korean-Canadian designer trained at Central Saint Martins, with early experience under McQueen, Galliano, and Zac Posen.",
+   "trends": [
+    "statement-skirt"
+   ]
   },
   {
    "id": "erdem-spring-summer-2027-london",
@@ -10590,11 +11383,13 @@
    "cd": "Erdem Moralioğlu",
    "parent": "Independent",
    "trends": [
-    "lingerie-details",
+    "art-deco",
+    "boudoir",
+    "denim",
     "embroidery",
-    "lace",
+    "feather-trim",
     "fringe",
-    "off-shoulder"
+    "lingerie-details"
    ],
    "bioShort": "Founded 2005 by Erdem Moralioğlu in London; painterly florals and literary, historical references. Moralioğlu remains creative director."
   },
@@ -10628,9 +11423,11 @@
    "cd": "Foday Dumbuya",
    "parent": "Independent",
    "trends": [
-    "off-shoulder",
-    "sheer-chiffon",
-    "fringe"
+    "embroidery",
+    "headwear",
+    "quiet-craft",
+    "relaxed-tailoring",
+    "statement-jewelry"
    ],
    "bioShort": "Founded 2014 by Foday Dumbuya; blending British tailoring with West African heritage and craftsmanship."
   },
@@ -10665,8 +11462,8 @@
    "parent": "Frasers Group",
    "trends": [
     "heritage-british",
-    "lace",
-    "leather-look"
+    "leather-look",
+    "sheer-chiffon"
    ],
    "bioShort": "British leather goods house founded 1971; Christopher Kane took over as creative director in 2026."
   },
@@ -10699,7 +11496,12 @@
    "website": "https://charlieconstantinou.com/",
    "cd": "Charlie Constantinou",
    "parent": "Independent",
-   "bioShort": "British-Cypriot designer founded 2022: modular, adaptable garments from deadstock fabrics and hand-dyeing."
+   "bioShort": "British-Cypriot designer founded 2022: modular, adaptable garments from deadstock fabrics and hand-dyeing.",
+   "trends": [
+    "draped-wrap",
+    "relaxed-tailoring",
+    "undone-luxe"
+   ]
   },
   {
    "id": "roksanda-spring-summer-2027-london",
@@ -10731,10 +11533,12 @@
    "cd": "Roksanda Ilincic",
    "parent": "Independent",
    "trends": [
+    "draped-wrap",
     "fringe",
-    "tassels",
+    "gloves",
     "quiet-craft",
-    "bold-stripes"
+    "relaxed-tailoring",
+    "waist-cinch"
    ],
    "bioShort": "Founded by Roksanda Ilincic in London; architectural, color-blocked silhouettes."
   },
@@ -10769,8 +11573,9 @@
    "parent": null,
    "trends": [
     "embroidery",
+    "feather-trim",
     "fringe",
-    "feather-trim"
+    "mesh"
    ],
    "bioShort": "Founded 2014 in London; maximalist demi-couture with African craft, beadwork and XXS–XXXXL sizing."
   },
@@ -10804,10 +11609,14 @@
    "cd": "Seán McGirr",
    "parent": "Kering",
    "trends": [
+    "embroidery",
+    "feather-trim",
+    "headwear",
     "lace",
     "lingerie-details",
-    "leather-look",
-    "embroidery",
+    "peplum",
+    "statement-jewelry",
+    "undone-luxe",
     "waist-cinch"
    ],
    "bioShort": "Founded by Lee Alexander McQueen in 1992; theatrical, precisely tailored British fashion. Seán McGirr has been creative director since 2023."
@@ -10877,11 +11686,12 @@
    "cd": "Amrita Khanna and Gursi Singh",
    "parent": "Independent",
    "trends": [
-    "embroidery",
     "brocade",
-    "sheer-chiffon",
     "denim",
-    "waist-cinch"
+    "draped-wrap",
+    "embroidery",
+    "quiet-craft",
+    "sheer-chiffon"
    ],
    "bioShort": "Founded 2014 in New Delhi by Amrita Khanna and Gursi Singh: anti-fit graphic pieces in handcrafted Indian textiles."
   },
@@ -10916,8 +11726,11 @@
    "parent": "Independent",
    "trends": [
     "draped-wrap",
+    "gold-metallic",
     "lace",
-    "lingerie-details"
+    "lingerie-details",
+    "sheer-chiffon",
+    "statement-jewelry"
    ],
    "bioShort": "Founded by Greek designer Dimitra Petsa; signature wet-look draping that gives garments the appearance of being freshly emerged from water."
   },
@@ -10951,10 +11764,10 @@
    "cd": "Liza Keane",
    "parent": "Independent",
    "trends": [
+    "embroidery",
     "leather-look",
     "sheer-chiffon",
-    "embroidery",
-    "lingerie-details"
+    "undone-luxe"
    ],
    "bioShort": "Launched 2022 in London; subversive womenswear treating leather and fabric as sculptural media."
   },
@@ -10988,11 +11801,12 @@
    "cd": "Daniel Lee",
    "parent": "Independent (publicly listed)",
    "trends": [
+    "bold-stripes",
+    "bubble-hem",
     "embroidery",
-    "painterly-floral",
     "heritage-british",
-    "undone-luxe",
-    "sporty-femme"
+    "painterly-floral",
+    "undone-luxe"
    ],
    "bioShort": "Founded 1856 by Thomas Burberry; invented gabardine and the trench coat; Daniel Lee creative director since 2022."
   },
@@ -12488,7 +13302,13 @@
    "parent": null,
    "trends": [
     "denim",
-    "embroidery"
+    "draped-wrap",
+    "embroidery",
+    "fringe",
+    "mesh",
+    "romantic-maximalism",
+    "shrunken-jacket",
+    "tassels"
    ],
    "bioShort": "Brazilian label of Patricia Bonaldi: artisan embroidery, fringe and draping across beachwear and eveningwear."
   },
@@ -17826,9 +18646,11 @@
    "cd": "Jon Strassburg",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
+    "animal-print",
+    "bold-stripes",
     "feather-trim",
-    "animal-print"
+    "relaxed-tailoring",
+    "undone-luxe"
    ],
    "bioShort": "Paris menswear label founded by Jon Strassburg; the nonchalant 'artist's uniform,' every piece made in Italy."
   },
@@ -17863,8 +18685,8 @@
    "parent": null,
    "trends": [
     "open-knit",
-    "denim",
-    "tweed-boucle"
+    "quiet-craft",
+    "relaxed-tailoring"
    ],
    "bioShort": "Paris collective founded 2012 by Aurélien Arbet and Jérémie Egry; menswear, art direction and art-book publishing."
   },
@@ -17898,11 +18720,12 @@
    "cd": "Hiroaki Sueyasu",
    "parent": null,
    "trends": [
+    "aughts-glam",
     "denim",
-    "mesh",
-    "open-knit",
     "embroidery",
-    "aughts-glam"
+    "headwear",
+    "open-knit",
+    "quiet-craft"
    ],
    "bioShort": "Founded 2014 in Tokyo by Hiroaki Sueyasu; menswear drawing from punk and street culture."
   },
@@ -17937,9 +18760,7 @@
    "parent": null,
    "trends": [
     "relaxed-tailoring",
-    "leather-look",
-    "satin",
-    "gold-metallic"
+    "sporty-femme"
    ],
    "bioShort": "Founded 1961 by Yves Saint Laurent and Pierre Bergé; Anthony Vaccarello leads menswear since 2016."
   },
@@ -17974,7 +18795,9 @@
    "parent": null,
    "trends": [
     "animal-print",
-    "leather-look"
+    "leather-look",
+    "quiet-craft",
+    "sheer-chiffon"
    ],
    "bioShort": "Pàris tàiloring làbel founded 2020 by Pierre-Frànçois Vàlette; designed ànd produced locàlly in Pàris."
   },
@@ -18008,11 +18831,9 @@
    "cd": "Ryota Iwai",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
     "butter-yellow",
-    "bold-stripes",
-    "denim",
-    "leather-look"
+    "relaxed-tailoring",
+    "undone-luxe"
    ],
    "bioShort": "Founded 2015 in Tokyo by Ryota Iwai; luxurious Japanese fabrics in minimalist design."
   },
@@ -18047,9 +18868,10 @@
    "parent": null,
    "trends": [
     "denim",
-    "bold-stripes",
     "embroidery",
-    "leather-look"
+    "relaxed-tailoring",
+    "tweed-boucle",
+    "undone-luxe"
    ],
    "bioShort": "Founded 1854 as a Parisian trunk maker; Pharrell Williams leads menswear."
   },
@@ -18083,11 +18905,10 @@
    "cd": "Nigo",
    "parent": null,
    "trends": [
-    "denim",
-    "embroidery",
     "americana-prep",
-    "painterly-floral",
-    "animal-print"
+    "archival-revival",
+    "denim",
+    "painterly-floral"
    ],
    "bioShort": "Founded 1970 by Kenzo Takada; Nigo became artistic director in 2021. Part of LVMH."
   },
@@ -18121,9 +18942,11 @@
    "cd": null,
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
     "embroidery",
-    "leather-look"
+    "leather-look",
+    "painterly-floral",
+    "quiet-craft",
+    "relaxed-tailoring"
    ],
    "bioShort": "Founded 1895 in Paris by Alessandro Berluti as a bespoke shoemaker; Venezia leather patina and luxury menswear."
   },
@@ -18157,10 +18980,11 @@
    "cd": "Jonathan Anderson",
    "parent": null,
    "trends": [
+    "brooch",
+    "open-knit",
+    "relaxed-tailoring",
     "sheer-chiffon",
-    "denim",
-    "undone-luxe",
-    "boudoir"
+    "undone-luxe"
    ],
    "bioShort": "Founded 1946 by Christian Dior; since 2025, Jonathan Anderson directs womenswear, menswear, and couture together."
   },
@@ -18194,8 +19018,9 @@
    "cd": "Emeric Tchatchoua",
    "parent": null,
    "trends": [
+    "denim",
     "embroidery",
-    "denim"
+    "heritage-british"
    ],
    "bioShort": "French-Canadian label founded 2013 by Emeric Tchatchoua; tailoring and streetwear with graphic storytelling."
   },
@@ -18230,7 +19055,10 @@
    "parent": null,
    "trends": [
     "hot-shorts",
-    "bold-stripes"
+    "painterly-floral",
+    "relaxed-tailoring",
+    "satin",
+    "waist-cinch"
    ],
    "bioShort": "Belgian designer Meryll Rogge launched her label in 2020 after Dries Van Noten; 2025 ANDAM Grand Prix winner."
   },
@@ -18264,11 +19092,12 @@
    "cd": "Jonny Johansson",
    "parent": null,
    "trends": [
+    "americana-prep",
+    "animal-print",
     "denim",
-    "satin",
-    "leather-look",
     "fringe",
-    "americana-prep"
+    "leather-look",
+    "relaxed-tailoring"
    ],
    "bioShort": "Jonny Johansson founded Acne Studios in Stockholm in 1996; the ACNE creative collective's menswear line."
   },
@@ -18302,9 +19131,11 @@
    "cd": "Woo Youngmi",
    "parent": null,
    "trends": [
-    "mesh",
+    "americana-prep",
     "denim",
-    "headwear"
+    "headwear",
+    "mesh",
+    "undone-luxe"
    ],
    "bioShort": "Menswear line founded in Seoul in 1988; minimalist Korean menswear."
   },
@@ -18338,10 +19169,12 @@
    "cd": "Christophe Lemaire and Sarah-Linh Tran",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
+    "denim",
+    "draped-wrap",
     "leather-look",
     "mesh",
-    "denim"
+    "relaxed-tailoring",
+    "sheer-chiffon"
    ],
    "bioShort": "Founded 1991 in Paris by Christophe Lemaire, designed with Sarah-Linh Tran; understated, functional elegance."
   },
@@ -18375,10 +19208,11 @@
    "cd": "Zio Song",
    "parent": null,
    "trends": [
-    "fringe",
     "draped-wrap",
+    "fringe",
     "leather-look",
-    "statement-skirt"
+    "satin",
+    "shrunken-jacket"
    ],
    "bioShort": "Founded 1993 in Paris by Zio Song; Eastern philosophy blended with Parisian tailoring."
   },
@@ -18412,11 +19246,12 @@
    "cd": "Anthony Alvarez",
    "parent": null,
    "trends": [
-    "embroidery",
     "denim",
-    "relaxed-tailoring",
+    "embroidery",
     "fringe",
-    "statement-skirt"
+    "quiet-craft",
+    "relaxed-tailoring",
+    "undone-luxe"
    ],
    "bioShort": "Paris menswear label founded 2019 by Anthony Alvarez; surf and skate influences with early-2000s nostalgia."
   },
@@ -18450,11 +19285,8 @@
    "cd": "Jeanne Friot",
    "parent": null,
    "trends": [
-    "slip-dress",
-    "lace",
-    "satin",
-    "leather-look",
-    "lingerie-details"
+    "heritage-british",
+    "waist-cinch"
    ],
    "bioShort": "Paris genderless brand founded 2020 by Jeanne Friot; limited-edition recycled and upcycled pieces, made in France."
   },
@@ -18488,11 +19320,12 @@
    "cd": "Florentin Glémarec and Kévin Nompeix",
    "parent": null,
    "trends": [
-    "hot-shorts",
-    "denim",
-    "lace",
     "embroidery",
-    "lingerie-details"
+    "headwear",
+    "hot-shorts",
+    "lingerie-details",
+    "relaxed-tailoring",
+    "satin"
    ],
    "bioShort": "Paris label founded 2019 by Florentin Glémarec and Kévin Nompeix; sharp, experimental tailoring."
   },
@@ -18526,11 +19359,12 @@
    "cd": "Alexandre Mattiussi",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
+    "americana-prep",
     "cobalt-blue",
-    "undone-luxe",
-    "slip-dress",
-    "denim"
+    "denim",
+    "relaxed-tailoring",
+    "satin",
+    "statement-skirt"
    ],
    "bioShort": "Founded 2011 in Paris by Alexandre Mattiussi; relaxed Parisian chic with the Ami de Coeur logo."
   },
@@ -18564,10 +19398,11 @@
    "cd": "Sarah Burton",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
-    "leather-look",
+    "cobalt-blue",
     "embroidery",
-    "denim",
+    "heritage-british",
+    "leather-look",
+    "relaxed-tailoring",
     "satin"
    ],
    "bioShort": "Founded 1952 by Hubert de Givenchy; Sarah Burton has been creative director since 2024."
@@ -18602,8 +19437,9 @@
    "cd": "Melvin Tanaya and Lyna Ty",
    "parent": null,
    "trends": [
-    "undone-luxe",
-    "quiet-craft"
+    "americana-prep",
+    "tweed-boucle",
+    "undone-luxe"
    ],
    "bioShort": "Australian label founded 2010 by Melvin Tanaya and Lyna Ty; narrative 'chapters' in artisanal Italian and Japanese fabrics."
   },
@@ -18638,7 +19474,8 @@
    "parent": null,
    "trends": [
     "all-black",
-    "leather-look"
+    "leather-look",
+    "low-rise-wide-leg"
    ],
    "bioShort": "Founded 1994 in Los Angeles by Rick Owens; gothic, grunge-inflected architectural silhouettes."
   },
@@ -18672,9 +19509,10 @@
    "cd": "Sen Kawahara, Yuki Itakura, and Nobutaka Kobayashi",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
     "denim",
-    "quiet-craft"
+    "painterly-floral",
+    "quiet-craft",
+    "relaxed-tailoring"
    ],
    "bioShort": "Miyake Design Studio founded 1970 in Tokyo by Issey Miyake; textile experimentation, pleating and technology."
   },
@@ -18708,6 +19546,8 @@
    "cd": "Arthur Robert",
    "parent": null,
    "trends": [
+    "americana-prep",
+    "butter-yellow",
     "denim"
    ],
    "bioShort": "Menswear label founded by Arthur Robert; Parisian sensibilities meet the American West in raw denim and workwear."
@@ -18742,10 +19582,10 @@
    "cd": "Sean Suen",
    "parent": null,
    "trends": [
-    "statement-skirt",
-    "leather-look",
+    "draped-wrap",
     "lingerie-details",
-    "waist-cinch"
+    "relaxed-tailoring",
+    "sheer-chiffon"
    ],
    "bioShort": "Beijing-based menswear designer; refined tailoring with Chinese cultural references."
   },
@@ -18781,9 +19621,10 @@
    "trends": [
     "bubble-hem",
     "denim",
-    "satin",
+    "leather-look",
     "sheer-chiffon",
-    "relaxed-tailoring"
+    "shrunken-jacket",
+    "undone-luxe"
    ],
    "bioShort": "Founded 2015 in London by Feng Chen Wang; Chinese heritage blended with utilitarian menswear design."
   },
@@ -18817,11 +19658,12 @@
    "cd": "Mike Amiri",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
+    "americana-prep",
     "denim",
-    "animal-print",
-    "embroidery",
-    "gold-metallic"
+    "gold-metallic",
+    "relaxed-tailoring",
+    "statement-jewelry",
+    "tweed-boucle"
    ],
    "bioShort": "Founded 2014 in Los Angeles by Mike Amiri; rock-inspired aesthetics with Californian craftsmanship."
   },
@@ -18856,10 +19698,9 @@
    "parent": null,
    "trends": [
     "leather-look",
-    "waist-cinch",
-    "statement-skirt",
+    "open-knit",
     "quiet-craft",
-    "open-knit"
+    "waist-cinch"
    ],
    "bioShort": "Established 2020 by Sonia Martínez; tailoring revealing hidden garment-making processes. Formerly of McQueen and Céline."
   },
@@ -18894,8 +19735,10 @@
    "parent": null,
    "trends": [
     "all-black",
-    "undone-luxe",
-    "open-knit"
+    "draped-wrap",
+    "open-knit",
+    "relaxed-tailoring",
+    "undone-luxe"
    ],
    "bioShort": "Arrived in Paris from Tokyo in 1981: dark, fluid, deconstructed tailoring; still independently owned and designed."
   },
@@ -18929,7 +19772,10 @@
    "cd": "Hee-Soo Kim",
    "parent": null,
    "trends": [
+    "draped-wrap",
+    "quiet-craft",
     "relaxed-tailoring",
+    "satin",
     "undone-luxe"
    ],
    "bioShort": "Menswear line of System Homme, founded in Seoul; contemporary Korean menswear. Hee-Soo Kim is creative director."
@@ -18964,11 +19810,12 @@
    "cd": "Julian Klausner",
    "parent": null,
    "trends": [
-    "sheer-chiffon",
-    "hot-shorts",
-    "painterly-floral",
     "animal-print",
-    "lingerie-details"
+    "hot-shorts",
+    "lingerie-details",
+    "satin",
+    "sheer-chiffon",
+    "undone-luxe"
    ],
    "bioShort": "Belgian house founded 1986 by Dries Van Noten of the Antwerp Six; Julian Klausner leads menswear since 2024."
   },
@@ -19002,11 +19849,11 @@
    "cd": "Kim Bekker",
    "parent": null,
    "trends": [
-    "undone-luxe",
+    "americana-prep",
     "denim",
-    "tassels",
-    "statement-jewelry",
-    "bold-stripes"
+    "quiet-craft",
+    "relaxed-tailoring",
+    "undone-luxe"
    ],
    "bioShort": "Isabel Marant founded her Paris label in 1995; relaxed, irreverent Parisian luxury extended to menswear."
   },
@@ -19040,10 +19887,11 @@
    "cd": "Junya Watanabe",
    "parent": null,
    "trends": [
-    "statement-jewelry",
+    "brooch",
+    "denim",
     "gold-metallic",
     "headwear",
-    "denim"
+    "statement-jewelry"
    ],
    "bioShort": "Founded 1992 by Comme des Garçons protégé Junya Watanabe; 'techno-couture' mixing advanced fabrics and draping."
   },
@@ -19077,9 +19925,11 @@
    "cd": "Ahmed Hassan and Razan Hassan",
    "parent": null,
    "trends": [
+    "draped-wrap",
+    "fringe",
+    "quiet-craft",
     "sheer-chiffon",
-    "tassels",
-    "quiet-craft"
+    "waist-cinch"
    ],
    "bioShort": "Saudi menswear label by Ahmed and Razan Hassan; minimalist, fluid tailoring rooted in Saudi culture. 2025 LVMH Prize shortlist."
   },
@@ -19113,11 +19963,12 @@
    "cd": "Josef Lazo and Andreas Schmidl",
    "parent": null,
    "trends": [
-    "lingerie-details",
-    "embroidery",
-    "lace",
     "animal-print",
-    "painterly-floral"
+    "hot-shorts",
+    "lace",
+    "lingerie-details",
+    "romantic-maximalism",
+    "undone-luxe"
    ],
    "bioShort": "German-Swedish label founded 2014 by Andreas Schmidl and Josef Lazo; narrative-driven, body-celebrating design."
   },
@@ -19151,8 +20002,8 @@
    "cd": "Peter Copping",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
-    "hot-shorts"
+    "bold-stripes",
+    "relaxed-tailoring"
    ],
    "bioShort": "Jeanne Lanvin founded the house in 1889, the oldest French house still operating; Peter Copping is artistic director."
   },
@@ -19186,11 +20037,9 @@
    "cd": "Mihara Yasuhiro",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
     "denim",
-    "statement-skirt",
-    "fringe",
-    "headwear"
+    "relaxed-tailoring",
+    "undone-luxe"
    ],
    "bioShort": "Founded 1996 in Tokyo by Mihara Yasuhiro; the original sole sneaker and subversive design."
   },
@@ -19224,11 +20073,12 @@
    "cd": "Willy Chavarria",
    "parent": null,
    "trends": [
-    "lingerie-details",
-    "slip-dress",
-    "satin",
+    "americana-prep",
+    "denim",
+    "fringe",
     "leather-look",
-    "relaxed-tailoring"
+    "relaxed-tailoring",
+    "satin"
    ],
    "bioShort": "New York-based menswear designer; Chicano culture and oversized tailoring."
   },
@@ -19262,10 +20112,10 @@
    "cd": "Inês Amorim and Reid Baker",
    "parent": null,
    "trends": [
+    "all-black",
     "animal-print",
-    "gloves",
     "embroidery",
-    "leather-look",
+    "gloves",
     "statement-skirt"
    ],
    "bioShort": "Founded 2017 by Reid Baker and Ines Amorim; menswear reinterpreting American classics."
@@ -19301,9 +20151,11 @@
    "parent": null,
    "trends": [
     "bold-stripes",
-    "mesh",
+    "cobalt-blue",
     "headwear",
-    "cobalt-blue"
+    "heritage-british",
+    "mesh",
+    "statement-skirt"
    ],
    "bioShort": "Rei Kawakubo's menswear line, founded in Tokyo in 1969; avant-garde menswear shown in Paris."
   },
@@ -19337,8 +20189,8 @@
    "cd": "Steven Passaro",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
-    "leather-look"
+    "leather-look",
+    "relaxed-tailoring"
    ],
    "bioShort": "Paris-based menswear designer; tailored menswear with a contemporary edge."
   },
@@ -19372,10 +20224,8 @@
    "cd": "Pierre Mahéo",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
-    "denim",
-    "leather-look",
-    "lingerie-details"
+    "off-shoulder",
+    "relaxed-tailoring"
    ],
    "bioShort": "Founded 2012 in Paris by Pierre Mahéo; timeless French wardrobe essentials."
   },
@@ -19410,8 +20260,9 @@
    "parent": null,
    "trends": [
     "americana-prep",
+    "archival-revival",
     "denim",
-    "archival-revival"
+    "undone-luxe"
    ],
    "bioShort": "Founded 2018 in Los Angeles by Eli Russell Linnetz; Californian youth culture blended with luxury."
   },
@@ -19445,11 +20296,10 @@
    "cd": "Louis-Gabriel Nouchi",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
     "denim",
+    "feather-trim",
     "lingerie-details",
-    "hot-shorts",
-    "feather-trim"
+    "statement-skirt"
    ],
    "bioShort": "Paris-based menswear designer Louis-Gabriel Nouchi; masculinity explored with surgical precision."
   },
@@ -19520,10 +20370,11 @@
    "cd": "Luca Magliano",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
     "animal-print",
-    "bold-stripes",
-    "draped-wrap"
+    "denim",
+    "relaxed-tailoring",
+    "undone-luxe",
+    "waist-cinch"
    ],
    "bioShort": "Founded 2016 in Bologna by Luca Magliano; Italian provincial identity in raw tailoring."
   },
@@ -19556,7 +20407,10 @@
    "website": null,
    "cd": "Aldo Maria Camillo",
    "parent": null,
-   "bioShort": "Founded 2018 by Aldo Maria Camillo, formerly of Valentino and Zegna; archetypes of the male wardrobe in tailoring."
+   "bioShort": "Founded 2018 by Aldo Maria Camillo, formerly of Valentino and Zegna; archetypes of the male wardrobe in tailoring.",
+   "trends": [
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "hermes-spring-summer-2027-paris",
@@ -19588,10 +20442,10 @@
    "cd": null,
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
+    "embroidery",
     "leather-look",
     "quiet-craft",
-    "embroidery"
+    "relaxed-tailoring"
    ],
    "bioShort": "French leather goods house founded 1837 by Thierry Hermès; Nadège Vanhee-Cybulski leads women's ready-to-wear since 2014."
   },
@@ -19625,10 +20479,7 @@
    "cd": "Jun Takahashi",
    "parent": null,
    "trends": [
-    "denim",
-    "leather-look",
-    "lace",
-    "painterly-floral"
+    "denim"
    ],
    "bioShort": "Jun Takahashi founded Undercover in Tokyo in 1993, rooted in punk and subculture; the menswear line."
   },
@@ -19662,9 +20513,9 @@
    "cd": "Kiko Kostadinov",
    "parent": null,
    "trends": [
-    "denim",
-    "leather-look",
-    "draped-wrap"
+    "brooch",
+    "draped-wrap",
+    "relaxed-tailoring"
    ],
    "bioShort": "London label of Bulgarian designer Kiko Kostadinov; workwear and uniforms reworked with experimental construction."
   },
@@ -19698,7 +20549,9 @@
    "cd": "Ziggy Chen",
    "parent": null,
    "trends": [
+    "mesh",
     "open-knit",
+    "relaxed-tailoring",
     "undone-luxe"
    ],
    "bioShort": "Shanghai-based menswear designer; deconstructed tailoring with Chinese influences."
@@ -19732,7 +20585,10 @@
    "website": "https://kolor.jp/",
    "cd": "Junichi Abe",
    "parent": null,
-   "bioShort": "Founded 2004 in Tokyo by Junichi Abe; innovative pattern-making and color."
+   "bioShort": "Founded 2004 in Tokyo by Junichi Abe; innovative pattern-making and color.",
+   "trends": [
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "maison-kitsune-spring-summer-2027-paris",
@@ -19764,9 +20620,9 @@
    "cd": "Abigail Smiley-Smith",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
+    "leather-look",
     "open-knit",
-    "leather-look"
+    "relaxed-tailoring"
    ],
    "bioShort": "Franco-Japanese lifestyle brand founded 2002 in Paris by Gildas Loaëc and Masaya Kuroki; fashion, music and Café Kitsuné."
   },
@@ -19801,8 +20657,9 @@
    "parent": null,
    "trends": [
     "embroidery",
-    "leather-look",
-    "hot-shorts"
+    "quiet-craft",
+    "relaxed-tailoring",
+    "statement-jewelry"
    ],
    "bioShort": "Founded 2013 in Tokyo by Takuya Morikawa; experimental textiles."
   },
@@ -19839,8 +20696,7 @@
     "bold-stripes",
     "denim",
     "draped-wrap",
-    "all-black",
-    "headwear"
+    "sporty-femme"
    ],
    "bioShort": "Launched 2002 as Yohji Yamamoto's collaboration with Adidas; avant-garde sportswear blending Japanese design and athletic function."
   },
@@ -19874,9 +20730,11 @@
    "cd": "Hed Mayner",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
+    "leather-look",
+    "quiet-craft",
     "sheer-chiffon",
-    "leather-look"
+    "statement-skirt",
+    "undone-luxe"
    ],
    "bioShort": "Israeli-born, Paris-based designer; founded his menswear label in 2015. Sculptural, oversized tailoring; 2019 LVMH Karl Lagerfeld Prize."
   },
@@ -19910,9 +20768,9 @@
    "cd": "Soshi Otsuki",
    "parent": null,
    "trends": [
+    "low-rise-wide-leg",
     "relaxed-tailoring",
-    "undone-luxe",
-    "lingerie-details"
+    "undone-luxe"
    ],
    "bioShort": "Tokyo menswear label founded 2015 by Soshi Otsuki; Japanese tradition and spirituality in modern tailoring. 2025 LVMH Prize winner."
   },
@@ -19946,9 +20804,11 @@
    "cd": "Kiichiro Asakawa",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
+    "butter-yellow",
+    "denim",
     "leather-look",
-    "butter-yellow"
+    "quiet-craft",
+    "relaxed-tailoring"
    ],
    "bioShort": "Tokyo menswear founded 2016 by Kiichiro Asakawa; quiet minimalism, precision construction, Japan-made fabrics."
   },
@@ -19984,9 +20844,10 @@
    "trends": [
     "embroidery",
     "feather-trim",
-    "butter-yellow",
     "headwear",
-    "bold-stripes"
+    "relaxed-tailoring",
+    "sheer-chiffon",
+    "statement-jewelry"
    ],
    "bioShort": "Founded 2002 in Paris by Youngmi Woo; South Korean menswear known for architectural tailoring."
   },
@@ -20020,11 +20881,12 @@
    "cd": "Michael Rider",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
-    "statement-jewelry",
     "butter-yellow",
-    "all-black",
-    "embroidery"
+    "gloves",
+    "relaxed-tailoring",
+    "satin",
+    "statement-jewelry",
+    "waist-cinch"
    ],
    "bioShort": "Céline Vipiana founded the house in 1945; Michael Rider became creative director in 2025, succeeding Hedi Slimane."
   },
@@ -20090,7 +20952,9 @@
    "parent": null,
    "trends": [
     "americana-prep",
-    "archival-revival"
+    "denim",
+    "tassels",
+    "undone-luxe"
    ],
    "bioShort": "Chitose Abe founded Sacai in Tokyo in 1999; 'splicing' two or more garments into one hybrid menswear piece."
   },
@@ -20124,9 +20988,10 @@
    "cd": "Dongjoon Lim",
    "parent": null,
    "trends": [
-    "sheer-chiffon",
+    "butter-yellow",
     "relaxed-tailoring",
-    "leather-look"
+    "sheer-chiffon",
+    "undone-luxe"
    ],
    "bioShort": "Founded 2018 in Seoul; technical menswear known for deconstructed utilitarian design."
   },
@@ -20160,8 +21025,8 @@
    "cd": "Masayuki Ino",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
     "denim",
+    "relaxed-tailoring",
     "undone-luxe"
    ],
    "bioShort": "Founded 2012 in Tokyo by Masayuki Ino; playful subversion. Winner of the 2018 LVMH Prize."
@@ -20327,7 +21192,11 @@
    "website": "https://www.santoni.com",
    "cd": null,
    "parent": null,
-   "bioShort": "Founded 1975 in Corridonia, Italy; handcrafted luxury footwear."
+   "bioShort": "Founded 1975 in Corridonia, Italy; handcrafted luxury footwear.",
+   "trends": [
+    "quiet-craft",
+    "tassels"
+   ]
   },
   {
    "id": "bikkembergs-spring-summer-2027-milan",
@@ -20389,7 +21258,10 @@
    "website": "https://www.missoni.com",
    "cd": "Alberto Caliri",
    "parent": null,
-   "bioShort": "The Missoni family house (1953), famed for zigzag knitwear; Alberto Caliri is creative director, Angela president."
+   "bioShort": "The Missoni family house (1953), famed for zigzag knitwear; Alberto Caliri is creative director, Angela president.",
+   "trends": [
+    "statement-jewelry"
+   ]
   },
   {
    "id": "harmont-blaine-spring-summer-2027-milan",
@@ -20420,7 +21292,11 @@
    "website": "https://www.harmontblaine.com",
    "cd": null,
    "parent": null,
-   "bioShort": "Founded 1986 in Naples; preppy Mediterranean style under the dachshund logo."
+   "bioShort": "Founded 1986 in Naples; preppy Mediterranean style under the dachshund logo.",
+   "trends": [
+    "bold-stripes",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "bunhova-by-bungaro-spring-summer-2027-milan",
@@ -20482,7 +21358,11 @@
    "website": "https://martinquad.com/",
    "cd": "Martin Juncker",
    "parent": null,
-   "bioShort": "Copenhagen label founded 2023 by Martin Juncker, working across fashion, theatre and installation."
+   "bioShort": "Copenhagen label founded 2023 by Martin Juncker, working across fashion, theatre and installation.",
+   "trends": [
+    "headwear",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "ralph-lauren-spring-summer-2027-milan",
@@ -20514,8 +21394,15 @@
    "cd": "Ralph Lauren",
    "parent": null,
    "trends": [
+    "americana-prep",
+    "art-deco",
+    "bold-stripes",
+    "denim",
     "embroidery",
-    "americana-prep"
+    "headwear",
+    "leather-look",
+    "relaxed-tailoring",
+    "waist-cinch"
    ],
    "bioShort": "Founded 1967 by Ralph Lauren; aspirational American style built around the polo player logo."
   },
@@ -20549,8 +21436,10 @@
    "cd": "Brunello Cucinelli",
    "parent": null,
    "trends": [
+    "denim",
     "open-knit",
-    "denim"
+    "quiet-craft",
+    "relaxed-tailoring"
    ],
    "bioShort": "Founded 1978 in Solomeo by Brunello Cucinelli; cashmere and understated Italian elegance."
   },
@@ -20646,8 +21535,15 @@
    "cd": "Ralph Lauren",
    "parent": null,
    "trends": [
+    "americana-prep",
+    "art-deco",
+    "bold-stripes",
+    "denim",
     "embroidery",
-    "americana-prep"
+    "headwear",
+    "leather-look",
+    "relaxed-tailoring",
+    "waist-cinch"
    ],
    "bioShort": "Founded 1967 by Ralph Lauren; aspirational American style built around the polo player logo."
   },
@@ -20711,7 +21607,11 @@
    "website": "https://www.kiton.it",
    "cd": null,
    "parent": null,
-   "bioShort": "Founded 1968 in Naples by Ciro Paone; Neapolitan tailoring and handcrafted menswear."
+   "bioShort": "Founded 1968 in Naples by Ciro Paone; Neapolitan tailoring and handcrafted menswear.",
+   "trends": [
+    "quiet-craft",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "church-s-spring-summer-2027-milan",
@@ -20774,6 +21674,7 @@
    "cd": "Norbert Stumpfl",
    "parent": null,
    "trends": [
+    "leather-look",
     "relaxed-tailoring",
     "sheer-chiffon"
    ],
@@ -20808,7 +21709,10 @@
    "website": "https://carusomenswear.com",
    "cd": "Max Kibardin",
    "parent": null,
-   "bioShort": "Italian tailoring house founded 1958 in Soragna: 'playful elegance' pairing sartorial rigour with modern style."
+   "bioShort": "Italian tailoring house founded 1958 in Soragna: 'playful elegance' pairing sartorial rigour with modern style.",
+   "trends": [
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "ten-c-spring-summer-2027-milan",
@@ -20901,7 +21805,13 @@
    "website": null,
    "cd": null,
    "parent": null,
-   "bioShort": "Chinese menswear founded 2016 by Yushan Li and Jun Zhou, between Milan and Shanghai; East meets contemporary."
+   "bioShort": "Chinese menswear founded 2016 by Yushan Li and Jun Zhou, between Milan and Shanghai; East meets contemporary.",
+   "trends": [
+    "draped-wrap",
+    "hot-shorts",
+    "relaxed-tailoring",
+    "sporty-femme"
+   ]
   },
   {
    "id": "dolce-gabbana-menswear-spring-summer-2027-milan",
@@ -20933,9 +21843,13 @@
    "cd": "Domenico Dolce & Stefano Gabbana",
    "parent": null,
    "trends": [
+    "denim",
     "embroidery",
+    "lace",
     "open-knit",
-    "denim"
+    "painterly-floral",
+    "quiet-craft",
+    "relaxed-tailoring"
    ],
    "bioShort": "Founded 1985 in Legnano by Domenico Dolce and Stefano Gabbana; Italian glamour and sensuality."
   },
@@ -20969,9 +21883,8 @@
    "cd": "Massimo Giorgetti",
    "parent": null,
    "trends": [
-    "americana-prep",
-    "relaxed-tailoring",
-    "leather-look"
+    "hot-shorts",
+    "relaxed-tailoring"
    ],
    "bioShort": "Founded 2009 in Milan by Massimo Giorgetti; Italian tailoring fused with youthful, Technicolor sportswear."
   },
@@ -21004,7 +21917,14 @@
    "website": null,
    "cd": "Nicolas Martin Garcia",
    "parent": null,
-   "bioShort": "Nicolas Martin Garcia's menswear fuses Colombian heritage with Italian craft, Milan's first Colombian brand."
+   "bioShort": "Nicolas Martin Garcia's menswear fuses Colombian heritage with Italian craft, Milan's first Colombian brand.",
+   "trends": [
+    "butter-yellow",
+    "denim",
+    "open-knit",
+    "quiet-craft",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "corneliani-spring-summer-2027-milan",
@@ -21066,7 +21986,10 @@
    "website": "https://www.cortigiani.it",
    "cd": null,
    "parent": null,
-   "bioShort": "Historic Italian menswear brand; 100% Made in Italy clothing."
+   "bioShort": "Historic Italian menswear brand; 100% Made in Italy clothing.",
+   "trends": [
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "montecore-spring-summer-2027-milan",
@@ -21128,7 +22051,11 @@
    "website": null,
    "cd": null,
    "parent": null,
-   "bioShort": "Emerging Italian label presented through CNMI's Designers for the Planet at Milan Fashion Hub."
+   "bioShort": "Emerging Italian label presented through CNMI's Designers for the Planet at Milan Fashion Hub.",
+   "trends": [
+    "lace",
+    "painterly-floral"
+   ]
   },
   {
    "id": "tell-the-truth-menswear-spring-summer-2027-milan",
@@ -21191,7 +22118,10 @@
    "cd": "Satoshi Kuwata",
    "parent": null,
    "trends": [
-    "draped-wrap"
+    "draped-wrap",
+    "headwear",
+    "quiet-craft",
+    "slip-dress"
    ],
    "bioShort": "Menswear label of Japanese designer Satoshi Kuwata; winner of the 2023 LVMH Prize."
   },
@@ -21224,7 +22154,13 @@
    "website": "https://sagaboi.com",
    "cd": null,
    "parent": null,
-   "bioShort": "Founded 2015 by Trinidadian designer Geoff K. Cooper; menswear rooted in Caribbean heritage and craft."
+   "bioShort": "Founded 2015 by Trinidadian designer Geoff K. Cooper; menswear rooted in Caribbean heritage and craft.",
+   "trends": [
+    "embroidery",
+    "open-knit",
+    "quiet-craft",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "tolotta-spring-summer-2027-milan",
@@ -21287,8 +22223,8 @@
    "cd": "Paul Smith",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
-    "headwear"
+    "headwear",
+    "relaxed-tailoring"
    ],
    "bioShort": "British fashion house founded by Paul Smith; classic tailoring with a playful character."
   },
@@ -21353,8 +22289,9 @@
    "cd": "Philipp Plein",
    "parent": null,
    "trends": [
-    "leather-look",
-    "embroidery"
+    "denim",
+    "embroidery",
+    "leather-look"
    ],
    "bioShort": "Founded 1998 by Philipp Plein; maximalist, rhinestone-heavy luxury streetwear, based in Lugano."
   },
@@ -21387,7 +22324,12 @@
    "website": "https://www.eleventy.it",
    "cd": null,
    "parent": null,
-   "bioShort": "Founded 2007 in Milan by Marco Baldassari and Paolo Zuntini; smart-casual luxury menswear, Made in Italy."
+   "bioShort": "Founded 2007 in Milan by Marco Baldassari and Paolo Zuntini; smart-casual luxury menswear, Made in Italy.",
+   "trends": [
+    "denim",
+    "leather-look",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "simon-cracker-menswear-spring-summer-2027-milan",
@@ -21419,7 +22361,9 @@
    "cd": "Simone Cracker",
    "parent": null,
    "trends": [
-    "denim"
+    "denim",
+    "romantic-maximalism",
+    "satin"
    ],
    "bioShort": "Milan label built on patchwork and upcycling old clothes and materials since 2010."
   },
@@ -21577,9 +22521,11 @@
    "cd": null,
    "parent": null,
    "trends": [
+    "draped-wrap",
+    "headwear",
     "open-knit",
-    "relaxed-tailoring",
-    "undone-luxe"
+    "quiet-craft",
+    "relaxed-tailoring"
    ],
    "bioShort": "Hoor Al-Qasimi's label pairs relaxed tailoring and modular construction with an organic approach to materials."
   },
@@ -21644,10 +22590,11 @@
    "cd": "Miuccia Prada & Raf Simons",
    "parent": null,
    "trends": [
-    "shrunken-jacket",
-    "leather-look",
     "denim",
-    "sheer-chiffon"
+    "leather-look",
+    "sheer-chiffon",
+    "shrunken-jacket",
+    "waist-cinch"
    ],
    "bioShort": "Founded 1913 in Milan by Mario Prada as a leather-goods house; co-creative directors Miuccia Prada and Raf Simons since 2020."
   },
@@ -21681,10 +22628,9 @@
    "cd": null,
    "parent": null,
    "trends": [
-    "open-knit",
-    "relaxed-tailoring",
-    "denim",
-    "headwear"
+    "headwear",
+    "leather-look",
+    "relaxed-tailoring"
    ],
    "bioShort": "Founded 1934 in Triuggio by Giacomo Canali; family-owned menswear known for sartorial tailoring."
   },
@@ -21718,8 +22664,9 @@
    "cd": "Saul Nash",
    "parent": null,
    "trends": [
-    "open-knit",
-    "sheer-chiffon"
+    "bold-stripes",
+    "denim",
+    "mesh"
    ],
    "bioShort": "London-based menswear designer Saul Nash; technical, movement-led design."
   },
@@ -21752,7 +22699,11 @@
    "website": "https://www.lardini.com",
    "cd": null,
    "parent": null,
-   "bioShort": "Founded 1978 in Filottrano by the Lardini brothers; modern tailoring with artisanal details."
+   "bioShort": "Founded 1978 in Filottrano by the Lardini brothers; modern tailoring with artisanal details.",
+   "trends": [
+    "leather-look",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "piacenza-1733-spring-summer-2027-milan",
@@ -21814,7 +22765,10 @@
    "website": null,
    "cd": null,
    "parent": null,
-   "bioShort": "Emerging menswear label on the Milan calendar."
+   "bioShort": "Emerging menswear label on the Milan calendar.",
+   "trends": [
+    "undone-luxe"
+   ]
   },
   {
    "id": "latorre-spring-summer-2027-milan",
@@ -21877,8 +22831,9 @@
    "cd": "Matteo Tamburini",
    "parent": null,
    "trends": [
+    "denim",
     "leather-look",
-    "denim"
+    "quiet-craft"
    ],
    "bioShort": "Roots in an early-1900s Marche shoemaking workshop; best known for the hand-stitched Gommino driving shoe."
   },
@@ -21911,7 +22866,11 @@
    "website": null,
    "cd": null,
    "parent": null,
-   "bioShort": "Menswear designer Brett Johnson, presenting on the Milan calendar."
+   "bioShort": "Menswear designer Brett Johnson, presenting on the Milan calendar.",
+   "trends": [
+    "leather-look",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "pal-zileri-spring-summer-2027-milan",
@@ -21943,7 +22902,6 @@
    "cd": null,
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
     "leather-look"
    ],
    "bioShort": "Founded 1970 in Quinto Vicentino; refined Italian tailoring, part of the Forall group."
@@ -22009,8 +22967,10 @@
    "cd": null,
    "parent": null,
    "trends": [
+    "bold-stripes",
     "hot-shorts",
-    "leather-look"
+    "leather-look",
+    "undone-luxe"
    ],
    "bioShort": "Milan-based designer Domenico Orefice."
   },
@@ -22045,6 +23005,7 @@
    "parent": null,
    "trends": [
     "embroidery",
+    "leather-look",
     "relaxed-tailoring"
    ],
    "bioShort": "Founded by Gimmo Etro; family-run Milan house known for its signature paisley print."
@@ -22171,7 +23132,13 @@
    "website": "https://www.shinyakozuka.com",
    "cd": "Shinya Kozuka",
    "parent": null,
-   "bioShort": "Tokyo menswear label founded 2015 by Shinya Kozuka; workwear-inspired silhouettes."
+   "bioShort": "Tokyo menswear label founded 2015 by Shinya Kozuka; workwear-inspired silhouettes.",
+   "trends": [
+    "denim",
+    "embroidery",
+    "headwear",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "thom-browne-spring-summer-2027-milan",
@@ -22203,8 +23170,11 @@
    "cd": "Thom Browne",
    "parent": null,
    "trends": [
+    "americana-prep",
     "embroidery",
-    "headwear"
+    "headwear",
+    "shrunken-jacket",
+    "statement-skirt"
    ],
    "bioShort": "Founded 2001 in New York by Thom Browne; shrunken gray suit and reinventions of American tailoring."
   },
@@ -22238,7 +23208,8 @@
    "cd": null,
    "parent": null,
    "trends": [
-    "peplum"
+    "cobalt-blue",
+    "open-knit"
    ],
    "bioShort": "Menswear designer Sergio Davila, presenting on the Milan calendar."
   },
@@ -22302,7 +23273,11 @@
    "website": null,
    "cd": null,
    "parent": null,
-   "bioShort": "Emerging menswear label on the Milan calendar."
+   "bioShort": "Emerging menswear label on the Milan calendar.",
+   "trends": [
+    "relaxed-tailoring",
+    "sheer-chiffon"
+   ]
   },
   {
    "id": "giorgio-armani-spring-summer-2027-milan-1800",
@@ -22334,9 +23309,12 @@
    "cd": "Leo Dell'Orco",
    "parent": null,
    "trends": [
-    "relaxed-tailoring",
+    "brooch",
     "denim",
-    "headwear"
+    "headwear",
+    "mesh",
+    "relaxed-tailoring",
+    "undone-luxe"
    ],
    "bioShort": "Founded 1975; deconstructed minimalist tailoring — now led by Silvana Armani after Giorgio's 2025 passing."
   },
@@ -22400,7 +23378,13 @@
    "website": "https://kentegentlemen.com",
    "cd": null,
    "parent": null,
-   "bioShort": "Ivorian menswear brand built around Kente cloth; collections presented as intimate fashion films."
+   "bioShort": "Ivorian menswear brand built around Kente cloth; collections presented as intimate fashion films.",
+   "trends": [
+    "embroidery",
+    "painterly-floral",
+    "quiet-craft",
+    "relaxed-tailoring"
+   ]
   },
   {
    "id": "raimondi-spring-summer-2027-milan",
@@ -22493,7 +23477,12 @@
    "website": null,
    "cd": null,
    "parent": null,
-   "bioShort": "Emerging menswear label on the Milan calendar."
+   "bioShort": "Emerging menswear label on the Milan calendar.",
+   "trends": [
+    "all-black",
+    "denim",
+    "quiet-craft"
+   ]
   },
   {
    "id": "subwae-spring-summer-2027-milan",
